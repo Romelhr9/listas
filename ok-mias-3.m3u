@@ -55,8 +55,8 @@ https://www.youtube.com/watch?v=fMYOB9xzCPQ
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:0 group-title="News", Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:4.004  group-title="News", Al Jazeera 
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:0 group-title="Latino America", CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
 
 #EXTINF:0 group-title="News", Mexico - milenio_centro
@@ -77,14 +77,6 @@ http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasb
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
 #EXTINF:0 group-title="News", UANL TV Canal 53 México
 mms://streaming.uanl.mx/canal53bandaancha
-#EXTINF:0 group-title="News",TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:0 group-title="News",RT Documentary
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
-#EXTINF:0 group-title="News", TV Monde
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:0  group-title="News",24H Catalan
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
 #EXTINF:-1 group-title="News",tvg-id="UNO TV" tvg-logo="unotv.png", Latinos",UNO TV HD 
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
 #EXTINF:0 group-title="News",Twit
@@ -137,20 +129,62 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=179256159
 http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 
 
+
+#EXTINF:0 group-title="U.S.A.",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0  group-title="U.S.A.", NOTV 41 New Orleans - LA Louisiana
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1  group-title="U.S.A.",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1  group-title="U.S.A.",BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1  group-title="U.S.A.", CBN News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1  group-title="U.S.A.", C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1  group-title="U.S.A.", C-SPAN Other content
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1  group-title="U.S.A.", C-SPAN more Other content
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1  group-title="U.S.A.", FOX 25 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
+#EXTINF:-1  group-title="U.S.A.", FOX 59 News
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1  group-title="U.S.A.", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1  group-title="U.S.A.", BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1  group-title="U.S.A.",ABC News 2
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0 group-title="U.S.A.",RT Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:0 group-title="U.S.A.",TRT News
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0 group-title="U.S.A.",WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:0 group-title="Europa",RAIN WS24 Italy
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+#EXTINF:0 group-title="Europa", TV Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:0  group-title="Europa",24H Catalan
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
+
 #EXTINF:0 group-title="Asia",PAX TV HD
 rtmp://124.139.232.61:1935/live/livestream
 #EXTINF:-1 group-title="Asia",NDTV INDIA
 http://ndtv.indostan.epac.to/ndtv/247lo/live/native
 
+#EXTINF:4.004  group-title="Medio Oriente", Al Jazeera 
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:4.004  group-title="Medio Oriente", VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:4.004  group-title="Medio Oriente", CNN Turkia
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:4.004  group-title="Medio Oriente", Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 
-#EXTINF:0  group-title="U.S.A.", NOTV 41 New Orleans - LA Louisiana
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1  group-title="U.S.A.",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1  group-title="U.S.A.", BLOOMBERG
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1  group-title="U.S.A.",ABC News 2
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
 
 
 
@@ -162,8 +196,6 @@ http://premium.exabytetv.info/livestream.php?acc=16199200&eve=4590066&token=QZPX
 http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8
 #EXTINF:0 group-title="Latino America", BYU Televisión Latino
 http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
-#EXTINF:0 group-title="Latino America", CBN Español
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:0 group-title="Latino America", Condavisión
 http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
 #EXTINF:0 group-title="Latino America", CTNi
