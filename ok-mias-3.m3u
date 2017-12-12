@@ -39,9 +39,9 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
 
-#EXTINF:4.004  group-title="News", Weather Channel 
+#EXTINF:0  group-title="News", Weather Channel 
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:4.004  group-title="News", TVMAS HD 
+#EXTINF:0  group-title="News", TVMAS HD 
 rtmp://50.7.98.234/rtv/videortv
 #EXTINF:0 group-title="News", Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?/MartinRTNEWS.m3u8
@@ -175,13 +175,13 @@ rtmp://124.139.232.61:1935/live/livestream
 #EXTINF:-1 group-title="Asia",NDTV INDIA
 http://ndtv.indostan.epac.to/ndtv/247lo/live/native
 
-#EXTINF:4.004  group-title="Medio Oriente", Al Jazeera 
+#EXTINF:0  group-title="Medio Oriente", Al Jazeera 
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-#EXTINF:4.004  group-title="Medio Oriente", VoA
+#EXTINF:0  group-title="Medio Oriente", VoA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:4.004  group-title="Medio Oriente", CNN Turkia
+#EXTINF:0  group-title="Medio Oriente", CNN Turkia
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:4.004  group-title="Medio Oriente", Syria News
+#EXTINF:0  group-title="Medio Oriente", Syria News
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 
 
