@@ -39,12 +39,24 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
 
-#EXTINF:4.004  group-title="News",tvg-logo="TVMAS.png",TVMAS HD 
+#EXTINF:4.004  group-title="News", Weather Channel 
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:4.004  group-title="News", TVMAS HD 
 rtmp://50.7.98.234/rtv/videortv
 #EXTINF:0 group-title="News", Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?/MartinRTNEWS.m3u8
 #EXTINF:0 group-title="News", MVS Noticias
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:0 group-title="News", CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0 group-title="News", Patilla Vision
+https://www.youtube.com/watch?v=fMYOB9xzCPQ
+#EXTINF:0 group-title="News", TeleSUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:0 group-title="News", Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:4.004  group-title="News", Al Jazeera 
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 
 
 #EXTINF:0 group-title="News", Mexico - milenio_centro
@@ -137,6 +149,8 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1  group-title="U.S.A.", BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1  group-title="U.S.A.",ABC News 2
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
 
 
