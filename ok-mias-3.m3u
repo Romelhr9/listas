@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=fMYOB9xzCPQ
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:0 group-title="News", Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:0 group-title="Latino America", CBN Español
+#EXTINF:0 group-title="News", CBN Español
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 
 
@@ -212,8 +212,6 @@ http://media203.services.digitar.net:1935/cablehogar/cablehogar/playlist.m3u8
 http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
 #EXTINF:0 group-title="Latino America", DeporTV (DXTV) Argentina
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:0 group-title="Latino America", One TV
-http://server5.stweb.tv/radioone/live/playlist.m3u8
 #EXTINF:0 group-title="Latino America", Orbe 21
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:0 group-title="Latino America", Qm TV
@@ -236,8 +234,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0 group-title="Latino America", Cosmovision
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:0 group-title="Latino America", Mi Musica HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:0 group-title="Latino America", Teleantioquia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 #EXTINF:0 group-title="Latino America", Telecafe
@@ -246,18 +242,10 @@ http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
 #EXTINF:0 group-title="Latino America", Tele Vida
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
-#EXTINF:0 group-title="Latino America", Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:0 group-title="Latino America", Trendy Musica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:0 group-title="Latino America", TV Agro
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 #EXTINF:0 group-title="Latino America", Canal 4 Jujuy
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
-#EXTINF:0  group-title="Latino America", BRASIL:Canal Do Boi Tv
-rtmp://srvvenus.canaldoboi.com/livecb/livestream
-#EXTINF:0 group-title="Latino America", BRASIL:Conexaobr Tv
-rtmp://srvvenus.canaldoboi.com/livecx/livestream
 #EXTINF:0 group-title="Latino America", Canal 13 Chile
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8#MegaIPTVArgentina
 #EXTINF:0 group-title="Latino America", Chilevision HD 720 Chile
@@ -414,6 +402,14 @@ rtmp://painel.serveron.com.br:1935/8162/8162
 #EXTINF:0  group-title="Latino America", Canal 4 Esquel Argentina
 rtmp://streamlky.alsolnet.com/canal4/live
 
+#EXTINF:0 group-title="Musica", One TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:0 group-title="Musica", Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0 group-title="Musica", Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0 group-title="Musica", Trendy Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:0 group-title="Musica",O2 TV
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/chunklist.m3u8
 #EXTINF:0 group-titwerlele="Musica",Nebiset Music (576p)
@@ -489,6 +485,10 @@ rtmp://fms.105.net/live/105Test1
 
 
 
+#EXTINF:0  group-title="Brasil", BRASIL:Canal Do Boi Tv
+rtmp://srvvenus.canaldoboi.com/livecb/livestream
+#EXTINF:0 group-title="Brasil", BRASIL:Conexaobr Tv
+rtmp://srvvenus.canaldoboi.com/livecx/livestream
 #EXTINF:0 group-title="Brasil", Net Horizons
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0 group-title="Brasil", Gazeta
