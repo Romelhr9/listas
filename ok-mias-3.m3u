@@ -57,8 +57,6 @@ http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:0 group-title="News", CBN Español
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-
-
 #EXTINF:0 group-title="News", Mexico - milenio_centro
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
 #EXTINF:0 group-title="News",El Tiempo
@@ -71,8 +69,6 @@ http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0 group-title="News", Xtremo channel (News) (ES) (Spanish)
 http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
-#EXTINF:0 group-title="News", Munchen 2
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
 #EXTINF:0 group-title="News", (Entertainment) Catalan
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
 #EXTINF:0 group-title="News", UANL TV Canal 53 México
@@ -95,7 +91,6 @@ http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 #EXTINF:0 group-title="Mexico",TVMas Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
-
 #EXTINF:0 group-title="Mexico", TV MAS Veracruz México
 rtmp://50.7.98.234/rtv/videortv
 #EXTINF:0 group-title="Mexico",RTG Soy Guerero México
@@ -163,6 +158,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:0 group-title="U.S.A.",WGN Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
+#EXTINF:0 group-title="Europa", Munchen 2
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
 #EXTINF:0 group-title="Europa",RAIN WS24 Italy
 http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
 #EXTINF:0 group-title="Europa", TV Monde
@@ -485,14 +482,14 @@ rtmp://fms.105.net/live/105Test1
 
 
 
-#EXTINF:0  group-title="Brasil", BRASIL:Canal Do Boi Tv
-rtmp://srvvenus.canaldoboi.com/livecb/livestream
-#EXTINF:0 group-title="Brasil", BRASIL:Conexaobr Tv
-rtmp://srvvenus.canaldoboi.com/livecx/livestream
 #EXTINF:0 group-title="Brasil", Net Horizons
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0 group-title="Brasil", Gazeta
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0  group-title="Brasil", BRASIL:Canal Do Boi Tv
+rtmp://srvvenus.canaldoboi.com/livecb/livestream
+#EXTINF:0 group-title="Brasil", BRASIL:Conexaobr Tv
+rtmp://srvvenus.canaldoboi.com/livecx/livestream
 
 
 
