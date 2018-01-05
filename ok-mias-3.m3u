@@ -57,6 +57,8 @@ http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:0 group-title="News", CBN Español
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+
+
 #EXTINF:0 group-title="News", Mexico - milenio_centro
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
 #EXTINF:0 group-title="News",El Tiempo
@@ -91,6 +93,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 #EXTINF:0 group-title="Mexico",TVMas Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+
 #EXTINF:0 group-title="Mexico", TV MAS Veracruz México
 rtmp://50.7.98.234/rtv/videortv
 #EXTINF:0 group-title="Mexico",RTG Soy Guerero México
