@@ -1,14 +1,55 @@
 #EXTM3U
 
-#EXTINF:0 group-title="Educativo", Vaughan TV  streaming
-http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
+#EXTINF:0  group-title="News", Weather Channel 
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0  group-title="News", TVMAS HD 
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:0 group-title="News", Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?/MartinRTNEWS.m3u8
+#EXTINF:0 group-title="News", MVS Noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:0 group-title="News", CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0 group-title="News", Patilla Vision
+https://www.youtube.com/watch?v=fMYOB9xzCPQ
+#EXTINF:0 group-title="News", TeleSUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:0 group-title="News", Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0 group-title="News", CBN Espa√±ol
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0 group-title="News", Mexico - milenio_centro
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:0 group-title="News",El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:0 group-title="News",Efekto TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:0  group-title="News", Canal 26 (News) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 group-title="News",  DW (News) (ES) (Spanish)
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 group-title="News", Xtremo channel (News) (ES) (Spanish)
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+#EXTINF:0 group-title="News", (Entertainment) Catalan
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:0 group-title="News", UANL TV Canal 53 M√©xico
+mms://streaming.uanl.mx/canal53bandaancha
+#EXTINF:-1 group-title="News",tvg-id="UNO TV" tvg-logo="unotv.png", Latinos",UNO TV HD 
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
+#EXTINF:0 group-title="News",Twit
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
 
 #EXTINF:0 group-title="TV", La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:0 group-title="TV",Telemadrid (Entertainment) (ES) (Spanish)
 http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+#EXTINF:0 group-title="Educativo", Vaughan TV  streaming
+http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
+
 #EXTINF:0 group-title="TV",Anime (Entertainment) (MX) (Spanish)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
 #EXTINF:0 group-title="TV",Peravia Vision (Entertainment) (ES) (Spanish)
 http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
 #EXTINF:0  group-title="TV",RTPA 7 (Entertainment) (ES) (Spanish)
@@ -29,9 +70,9 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:0 group-title="TV", Lancelot TV (News) (ES) (Spanish)
 rtmp://62.210.141.18:1935/directo/lancelot.television
-#EXTINF:0 group-title="TV",Real Madrid TV (EspaÒa)
+#EXTINF:0 group-title="TV",Real Madrid TV (Espa√±a)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:0  group-title="TV",Atreseries EspaÒol
+#EXTINF:0  group-title="TV",Atreseries Espa√±ol
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:0 group-title="TV",TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
@@ -39,46 +80,6 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
 
-#EXTINF:0  group-title="News", Weather Channel 
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0  group-title="News", TVMAS HD 
-rtmp://50.7.98.234/rtv/videortv
-#EXTINF:0 group-title="News", Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?/MartinRTNEWS.m3u8
-#EXTINF:0 group-title="News", MVS Noticias
-http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
-#EXTINF:0 group-title="News", CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:0 group-title="News", Patilla Vision
-https://www.youtube.com/watch?v=fMYOB9xzCPQ
-#EXTINF:0 group-title="News", TeleSUR
-http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
-#EXTINF:0 group-title="News", Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:0 group-title="News", CBN EspaÒol
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-
-
-#EXTINF:0 group-title="News", Mexico - milenio_centro
-http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
-#EXTINF:0 group-title="News",El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-#EXTINF:0 group-title="News",Efekto TV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
-#EXTINF:0  group-title="News", Canal 26 (News) (AR) (Spanish)
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:0 group-title="News",  DW (News) (ES) (Spanish)
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0 group-title="News", Xtremo channel (News) (ES) (Spanish)
-http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
-#EXTINF:0 group-title="News", (Entertainment) Catalan
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
-#EXTINF:0 group-title="News", UANL TV Canal 53 MÈxico
-mms://streaming.uanl.mx/canal53bandaancha
-#EXTINF:-1 group-title="News",tvg-id="UNO TV" tvg-logo="unotv.png", Latinos",UNO TV HD 
-http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
-#EXTINF:0 group-title="News",Twit
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:0 group-title="Mexico",TV Tlaxcala
@@ -94,11 +95,11 @@ http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 #EXTINF:0 group-title="Mexico",TVMas Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
-#EXTINF:0 group-title="Mexico", TV MAS Veracruz MÈxico
+#EXTINF:0 group-title="Mexico", TV MAS Veracruz M√©xico
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:0 group-title="Mexico",RTG Soy Guerero MÈxico
+#EXTINF:0 group-title="Mexico",RTG Soy Guerero M√©xico
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0 group-title="Mexico",TelevisiÛn QuerÈtaro MÈxico
+#EXTINF:0 group-title="Mexico",Televisi√≥n Quer√©taro M√©xico
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="Mexico",RTV Religion
 http://178.32.53.254/radiovida/mobile/playlist.m3u8
@@ -188,15 +189,15 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 
 
 
-#EXTINF:0 group-title="Latino America", Aliento VisiÛn
+#EXTINF:0 group-title="Latino America", Aliento Visi√≥n
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
 #EXTINF:0 group-title="Latino America", Bethel TV
 http://premium.exabytetv.info/livestream.php?acc=16199200&eve=4590066&token=QZPXF-1011000011010101011100111010100-ExabyteTV&f=.m3u8
-#EXTINF:0 group-title="Latino America", BYU TelevisiÛn
+#EXTINF:0 group-title="Latino America", BYU Televisi√≥n
 http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8
-#EXTINF:0 group-title="Latino America", BYU TelevisiÛn Latino
+#EXTINF:0 group-title="Latino America", BYU Televisi√≥n Latino
 http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
-#EXTINF:0 group-title="Latino America", CondavisiÛn
+#EXTINF:0 group-title="Latino America", Condavisi√≥n
 http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
 #EXTINF:0 group-title="Latino America", CTNi
 http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
@@ -262,7 +263,7 @@ http://evo.eltelon.com:443/live/canaldelvinotv/playlist.m3u8?MegaIPTVArgentina
 http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
 #EXTINF:0 group-title="Latino America", DCH TV Chile
 http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:0 group-title="Latino America", El Ping¸ino TV Chile
+#EXTINF:0 group-title="Latino America", El Ping√ºino TV Chile
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
 #EXTINF:0 group-title="Latino America", Canal 2 San Antonio Chile
 rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
@@ -276,7 +277,7 @@ http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:0 group-title="Latino America", Campus TV Chile
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
-EXTINF:0  group-title="Latino America", Quinta Vision ViÒa del Mar Chile
+EXTINF:0  group-title="Latino America", Quinta Vision Vi√±a del Mar Chile
 http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="Latino America", Canal 5 Linares Chile
 rtmp://v1.streaminglatinoamerica.com/canal5/canal5
@@ -312,11 +313,11 @@ rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="Latino America", Solo Tango Argentina
 mms://stream.tangocity.com.ar/tangocity
-#EXTINF:0  group-title="Latino America", Telecreativa Lan˙s Argentina
+#EXTINF:0  group-title="Latino America", Telecreativa Lan√∫s Argentina
 http://iphone-streaming.ustream.tv/uhls/18545628/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="Latino America", Canal 5 Tigre Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="Latino America", SeÒal Provincial Argentina
+#EXTINF:0  group-title="Latino America", Se√±al Provincial Argentina
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="Latino America", U TV La Plata Argentina
 rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
@@ -336,13 +337,13 @@ rtmp://painel.serveron.com.br/8172/8172
 rtmp://painel.serveron.com.br:1935/8168/8168
 #EXTINF:0  group-title="Latino America", Telpin Canal 2 HD 720 Pinamar Argentina
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
-#EXTINF:0  group-title="Latino America", Canal 11 Mar de AjÛ
+#EXTINF:0  group-title="Latino America", Canal 11 Mar de Aj√≥
 http://iphone-streaming.ustream.tv/ustreamVideo/18678216/streams/live/playlist.m3u8
-#EXTINF:0  group-title="Latino America", Canal 5 OlavarrÌa Argentina
+#EXTINF:0  group-title="Latino America", Canal 5 Olavarr√≠a Argentina
 http://iphone-streaming.ustream.tv/uhls/510556/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="Latino America", Celta TV Tres Arroyos Argentina
 http://iphone-streaming.ustream.tv/uhls/13952483/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="Latino America", Canal 12 Z·rate Argentina
+#EXTINF:0  group-title="Latino America", Canal 12 Z√°rate Argentina
 http://190.151.144.22:8083/canallocal.flv
 #EXTINF:0  group-title="Latino America", Cable Hogar TV Rosario Argentina
 http://iphone-streaming.ustream.tv/uhls/8053481/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
@@ -352,9 +353,9 @@ http://iphone-streaming.ustream.tv/uhls/18347718/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/ustreamVideo/5031477/streams/live/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="Latino America", CCC San Luis Argentina (Opc.2)
 http://iphone-streaming.ustream.tv/uhls/5031477/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="Latino America", SeÒal U Argentina
+#EXTINF:0  group-title="Latino America", Se√±al U Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/20087208/streams/live/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="Latino America", Canal C CÛrdoba Argentina
+#EXTINF:0  group-title="Latino America", Canal C C√≥rdoba Argentina
 http://iphone-streaming.ustream.tv/uhls/15263481/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="Latino America", Quatro TV Rio Cuarto Argentina
 rtmp://enhd.co/8938/8938
@@ -370,7 +371,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/8957585/streams/live/playlist.m3
 http://iphone-streaming.ustream.tv/ustreamVideo/9042949/streams/live/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="Latino America", Canal 6 Entre Rios Argentina (Opc.2)
 http://iphone-streaming.ustream.tv/uhls/9042949/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="Latino America", Canal 9 Paran· Argentina
+#EXTINF:0  group-title="Latino America", Canal 9 Paran√° Argentina
 http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="Latino America", Canal 10 Entre Rios Argentina
 http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8
@@ -495,9 +496,54 @@ rtmp://srvvenus.canaldoboi.com/livecb/livestream
 rtmp://srvvenus.canaldoboi.com/livecx/livestream
 
 
+#EXTINF:-1 group-title="Webcam",USA-Las Vegas -Nevada
+http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam",Broadway
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam", New York (3sec) - Wall Street (USA)
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=chargingbull.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+#EXTINF:-1 group-title="Webcam",BeachCam -South Carolina
+http://video3.earthcam.com/fecnetwork/3635.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam",Red Rock Cam -Arizona
+http://video3.earthcam.com/fecnetwork/sedonawebcam.flv/hasbahca.m3u8
+#EXTINF:-1 group-title="Webcam",South View
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam",D√ºsseldorf Airport cam1
+rtmp://stream-5gw.1000eyes.de/rtplive//dus0600.stream
+#EXTINF:-1 group-title="Webcam",Biscayne Bay -Florida
+http://video3.earthcam.com/fecnetwork/miamivishd4.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam",Irish Kevin's Bar Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8
+#EXTINF:-1 group-title="Webcam",Irish Kevin's Duval Street Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
+#EXTINF:-1 group-title="Webcam",Irish Kevin's Stage Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
+#EXTINF:-1 group-title="Webcam",Wedding chapel -Nevada
+http://video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam",USA - Bayfield
+http://wse1.resortcams.com/live/bayfieldinn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Webcam",USA - Bristol
+http://wse1.resortcams.com/live/bristol.stream/playlist.m3u8
+#EXTINF:-1 group-title="Webcam",USA - Fishy Cafe
+rtmp://208.43.68.139/surfchex/fishy-super
+#EXTINF:-1 group-title="Webcam",USA - Westland
+http://590804fbbbc47.streamlock.net:1935/westland/westland.stream/playlist.m3u8
+#EXTINF:-1 group-title="Webcam",USA-Destin -Florida
+http://video3.earthcam.com/fecnetwork/5424.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam",USA-Oak Harbor -Washington
+http://video3.earthcam.com/fecnetwork/6172.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam",USA-San Francisco -California
+http://video3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam",USA-San Jacinto Monument -Texas
+http://video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam",USA-Sante Fe -New Mexico
+http://video3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8
+#EXTINF:-1 group-title="Webcam",Berlin - 40 Seconds
+rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
+#EXTINF:-1 group-title="Webcam",Berlin - Restaurant Hugos/Hotel InterContinental
+rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
 
-
-#EXTINF:0 group-title="Webcam", Havai (4sec) Honolulu Hotel
+#EXTINF:0 group-title="Webcam", Hawaii (4sec) Honolulu Hotel
 rtsp://66.175.76.125/axis-media/media.amp
 #EXTINF:0 group-title="Webcam", Street View (3sec)_USA
 rtsp://96.10.1.168:554/axis-media/media.amp
@@ -509,6 +555,1042 @@ http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunkl
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
 #EXTINF:0 group-title="Webcam", Sloppy Joe's Stage Cam_Key West FL USA
 http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+
+
+#EXTINF:-1 group-title="Webcam2",Achensee - Christlum
+rtmp://stream.livespotting.tv/windit-edge/vv148_720p.stream
+#EXTINF:-1 group-title="Webcam2",Augsburg - Hotel Augusta
+rtmp://stream.livespotting.tv/windit-edge/vv73_720p.stream
+#EXTINF:-1 group-title="Webcam2",Augsburg - K√∂nigsplatz
+rtmp://stream.livespotting.tv/windit-edge/vv39_450p.stream
+#EXTINF:-1 group-title="Webcam2",Bad Br√ºckenau - Kurverwaltung Bad Br√ºckenau
+rtmp://stream.livespotting.tv/windit-edge/vv140_720p.stream
+#EXTINF:-1 group-title="Webcam2",Baden-Baden - Hotel Magnetberg
+rtmp://stream.livespotting.tv/windit-edge/vv124_720p.stream
+#EXTINF:-1 group-title="Webcam2",Bamberg - Klein Venedig
+rtmp://stream.livespotting.tv/windit-edge/vv79_720p.stream
+#EXTINF:-1 group-title="Webcam2",Banja Luka (?????? ? ???????????) 1
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist.m3u8
+#EXTINF:-1 group-title="Webcam2",Banja Luka (?????? ? ???????????) 2
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera01.stream_all/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Bayreuth - Neues Rathaus
+rtmp://stream.livespotting.tv/windit-edge/vv107_720p.stream
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Bielefeld - Stadthalle
+rtmp://stream.livespotting.tv/windit-edge/vv86_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Binz - HOTEL AM MEER & SPA
+rtmp://stream.livespotting.tv/windit-edge/vv103_720p.stream
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Bonn - Hausverwaltung Uwe Brodesser
+rtmp://stream.livespotting.tv/windit-edge/vv114_720p.stream
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Bremen - Kontorhaus
+rtmp://stream.livespotting.tv/windit-edge/vv134_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Bremerhaven - Hotel Atlantic Sail City
+rtmp://stream.livespotting.tv/windit-edge/vv106_720p.stream
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Brooklyn Bridge
+http://video3.earthcam.com/fecnetwork/3983.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Brunsb√ºttel - Schleuse
+rtmp://stream.livespotting.tv/windit-edge/vv37_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",B√ºsum - Familienlagune
+rtmp://stream.livespotting.tv/windit-edge/vv42_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",B√ºsum - Hauptstrand
+rtmp://stream.livespotting.tv/windit-edge/vv32_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",B√ºsum - Museumshafen
+rtmp://stream.livespotting.tv/windit-edge/vv33_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Cats Meow Karaokebar -Louisiana
+http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Chemnitz - HeiBe
+rtmp://stream.livespotting.tv/windit-edge/vv93_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Columbus Circle
+http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Crossroads
+http://video3.earthcam.com/fecnetwork/4717.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Dortmund - Neues Stadthaus
+rtmp://stream.livespotting.tv/windit-edge/vv95_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Dresden - Dresdner Aussicht
+rtmp://stream.livespotting.tv/windit-edge/vv59_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Duisburg - Sportschule Wedau
+rtmp://stream.livespotting.tv/windit-edge/vv61_720p.stream
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",D√ºsseldorf Airport cam2
+rtmp://stream-5gw.1000eyes.de/rtplive//dus8a21.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",D√ºsseldorf Airport cam3
+rtmp://stream-5gw.1000eyes.de/rtplive//dus2777.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",D√ºsseldorf Airport cam4
+rtmp://stream-5gw.1000eyes.de/rtplive//dus275d.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",D√ºsseldorf Airport cam5
+rtmp://stream-5gw.1000eyes.de/rtplive//dusbc0c.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Eckernf√∂rde - Hafen
+rtmp://stream.livespotting.tv/windit-edge/vv46_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Eckernf√∂rde - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv45_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Elburg - Netherlands
+rtmp://stream.livespotting.tv/windit-edge/LS_36290_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Erfurt - KoWo
+rtmp://stream.livespotting.tv/windit-edge/vv101_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Essen - Ruhrturm
+rtmp://stream.livespotting.tv/windit-edge/vv60_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",FallsCam -New Jersey
+http://video3.earthcam.com/fecnetwork/4918.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Flensburg - Fjord Tourismus
+rtmp://stream.livespotting.tv/windit-edge/vv17_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Frankfurt - Stadt Frankfurt am Main
+rtmp://stream.livespotting.tv/windit-edge/vv100_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Freiburg - Volksbank
+rtmp://stream.livespotting.tv/windit-edge/vv112_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Fulda - Schlossstra√üe
+rtmp://stream.livespotting.tv/windit-edge/vv62_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Gaienhofen - Hotel Gasthaus Hirschen
+rtmp://stream.livespotting.tv/windit-edge/vv105_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
+rtmp://stream.livespotting.tv/windit-edge/vv111_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Gdansk - Brzezno molo
+http://hls12.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Gehlberg - Michael Gebser
+rtmp://stream.livespotting.tv/windit-edge/vv123_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Germany
+http://ls11.webcamera.pl/karpacz_cam_133512/karpacz_cam_133512.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Haffkrug - L√ºbecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv40_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Halle - Mitteldeutsches Multimediazentrum
+rtmp://stream.livespotting.tv/windit-edge/vv115_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Hamburg - Emporio
+rtmp://stream.livespotting.tv/windit-edge/vv47_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Hamburg - Michel
+rtmp://stream.livespotting.tv/windit-edge/LS_b5586_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Hamburg - Unileverhaus
+rtmp://stream.livespotting.tv/windit-edge/vv74_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Hannover - Congress Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv71_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Heidelberg - Hotel Panorama
+rtmp://stream.livespotting.tv/windit-edge/vv75_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Heidelberg - PundM
+rtmp://stream.livespotting.tv/windit-edge/vv122_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Hollywood Blvd -California
+http://video3.earthcam.com/fecnetwork/lacitytours1.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",H√∂rnum - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv7_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",INFORUM FARGO ND USA
+http://iphone-streaming.ustream.tv/uhls/13415669/streams/live/iphone/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Ischgl - Pardatschgrat Seilbahn
+rtmp://stream.livespotting.tv/windit-edge/vv157_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Ischgl - Talstation
+rtmp://stream.livespotting.tv/windit-edge/vv128_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Juist - Inselgemeinde Juist
+rtmp://stream.livespotting.tv/windit-edge/vv51_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Juister Hof - Juist
+rtmp://stream.livespotting.tv/windit-edge/vv146_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",KASPROWY WIERCH
+http://www.vision-environnement.com:1935/live/krasprowy.stream/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",KRAK√ìW Grodzka 2
+http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",KRAK√ìW rynek Podg√≥rski
+http://hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",KRAK√ìW widok na WAWEL
+http://hls1.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",KRAK√ìW. plaza Live
+http://hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kampen - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv49_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kassel - Best Western
+rtmp://stream.livespotting.tv/windit-edge/vv125_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kiel - Ostufer
+rtmp://stream.livespotting.tv/windit-edge/vv28_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kiel - Port of Kiel
+rtmp://stream.livespotting.tv/windit-edge/vv77_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kiel - Schleuse
+rtmp://stream.livespotting.tv/windit-edge/vv38_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kitzb√ºhel - Hahnenkamm Bergstation
+rtmp://stream.livespotting.tv/windit-edge/vv121_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kitzb√ºhel - Hotel Rasmushof
+rtmp://stream.livespotting.tv/windit-edge/vv143_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Koblenz - Hotel Continental
+rtmp://stream.livespotting.tv/windit-edge/vv36_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kowal Park Kazimierza Wielkiego
+rtmp://176.103.33.5:1935/live/kowal2
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kowal Park Kazimierza Wielkiego 2
+rtmp://176.103.33.5:1935/live/kowal
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kolobrzeg molo
+http://hls14.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream_audio/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Krefeld - Garden Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv67_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Krynica Zdroj
+http://hls1.webcamera.pl/nocowanie_cam_06a0f6/nocowanie_cam_06a0f6.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Kwidzyn Stadnina koni
+http://hls1.webcamera.pl/kwidzyn_cam_5a33f5/kwidzyn_cam_5a33f5.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",K√∂ln - K√∂lnturm
+rtmp://stream.livespotting.tv/windit-edge/vv69_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",K√∂ln - Pullman Cologne
+rtmp://stream.livespotting.tv/windit-edge/vv99_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",K√∂ln Heumarkt (Rhein- Domblick)
+rtmp://62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",K√ºhlungsborn - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv35_450p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Laboe - Ehrenmal
+rtmp://stream.livespotting.tv/windit-edge/vv82_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Langeness - TU Harburg
+rtmp://stream.livespotting.tv/windit-edge/vv136_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Lech am Arlberg
+rtmp://stream.livespotting.tv/windit-edge/vv22_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Lermoos - Zugspitze
+rtmp://stream.livespotting.tv/windit-edge/vv120_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Lindau - Bodensee
+rtmp://stream.livespotting.tv:1935/windit-edge/vv50_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Lindau - Lindauer Hof
+rtmp://stream.livespotting.tv/windit-edge/vv113_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",L√ºbeck - MUK
+rtmp://stream.livespotting.tv/windit-edge/vv44_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",L√ºbeck - Radisson Blu
+rtmp://stream.livespotting.tv/windit-edge/vv64_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",L√ºneburg - Hotel Bergstr√∂m
+rtmp://stream.livespotting.tv/windit-edge/vv135_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Midtown East
+http://video3.earthcam.com/fecnetwork/5321.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",M√∂nchengladbach - Best Western Crown
+rtmp://stream.livespotting.tv/windit-edge/vv118_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",M√ºnchen - Deutsche Eiche
+rtmp://stream.livespotting.tv/windit-edge/vv72_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",M√ºnchen - wetter.com-Redaktion
+rtmp://stream.livespotting.tv/windit-edge/vv55_450p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",M√ºnster - Raphaelsklinik
+rtmp://stream.livespotting.tv/windit-edge/vv116_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",M√ºnster - Stadthaus
+rtmp://stream.livespotting.tv/windit-edge/vv63_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Neuharlingersiel - Hafen Ost
+rtmp://stream.livespotting.tv/windit-edge/vv12_450p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Neuharlingersiel - Hafen West
+rtmp://stream.livespotting.tv/windit-edge/vv13_450p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Neuharlingersiel - Panorama
+rtmp://stream.livespotting.tv/windit-edge/vv14_450p.stream
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Niendorf - Meerwasserhallenbad
+rtmp://stream.livespotting.tv/windit-edge/vv81_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Norderney - Zimmerservice - Norderney
+rtmp://stream.livespotting.tv/windit-edge/vv147_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",NoviSad Trg Slobode
+rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",OLSZTYN - panorama miasta
+http://hls13.webcamera.pl/olsztyn_cam_43a997/olsztyn_cam_43a997.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Oberstdorf - Hotel Exquisit
+rtmp://stream.livespotting.tv/windit-edge/vv137_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Oberwiesenthal - Hotel Fichtelberghaus
+rtmp://stream.livespotting.tv/windit-edge/vv30_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Oldenburg - Nordwest-Zeitung
+rtmp://stream.livespotting.tv/windit-edge/vv91_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Passau - Hotel K√∂nig
+rtmp://stream.livespotting.tv/windit-edge/vv98_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Pelzerhaken - L√ºbecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv8_450p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Pertisau am Achensee - Bergstation
+rtmp://stream.livespotting.tv/windit-edge/vv126_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Pier -California
+http://video3.earthcam.com/fecnetwork/6253.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Plougonvelin - Bretagne - France
+rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: ALVOR
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: CAPARICA S.JO√ÉO
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: CARVALHAL
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: EVARISTO
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: GRANDE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: LE√áA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: MEIA PRAIA
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: NAZAR√â
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: PRAIA DA GAL√â
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: PRAIA DA ROCHA
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: S. TORPES
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: S.PEDRO ESTORIL
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: SANTA CRUZ
+http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: SUPERTUBOS
+http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: Santu√°riode F√°tima (Capelinha das Apari√ß√µes)
+http://213.13.26.11:1935/live/santuario.stream/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: TORREIRA
+http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: VAGUEIRA
+http://video-auth1.iol.pt:1935/beachcam/vagueira/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: VILAMOURA
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Portugal WEBCAM: ZAMBUJEIRA
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Potsdam - Hotel Am Luisenplatz
+rtmp://stream.livespotting.tv/windit-edge/vv110_720p.stream
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Rostock - Apartment LIVING HOTEL
+rtmp://stream.livespotting.tv/windit-edge/vv89_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Rostock - Hotel Sportforum
+rtmp://stream.livespotting.tv/windit-edge/vv119_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Rust - Apollon Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv87_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",SOPOT - MOLO
+http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",SOPOT - widok z latarni
+http://hls13.webcamera.pl/sopot_cam_7b9f92/sopot_cam_7b9f92.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",SUDETY Lift - Stacja dolna
+http://hls7.webcamera.pl/sudetylift_cam_c6b48c/sudetylift_cam_c6b48c.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Saarbr√ºcken - La Residence
+rtmp://stream.livespotting.tv/windit-edge/vv68_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Sankt Peter-Ording - Beach Motel
+rtmp://stream.livespotting.tv/windit-edge/vv129_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Scharbeutz - L√ºbecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv41_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Schooners Beach - Panama City FL USA
+http://media5.tripsmarter.com:1935/schoonersbeachHDCam830294711349/schbeach/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Schooners Hill Bar - Panama City FL USA
+http://media3.tripsmarter.com:1935/schoonersbarHDCam485687461365/schbar/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Schooners Sunset - Panama City FL USA
+http://media3.tripsmarter.com:1935/schoonerssunsetHDCam392023487563/schsun/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Schwangau - Schloss Neuschwanstein
+rtmp://stream.livespotting.tv/windit-edge/vv108_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Schwerin - Com In IT Solution Center
+rtmp://stream.livespotting.tv/windit-edge/vv97_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Scranton -Pennsylvania
+http://video3.earthcam.com/fecnetwork/5005.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Seven Arches -Arizona
+http://video3.earthcam.com/fecnetwork/5805.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Skyline -Washington
+http://video3.earthcam.com/fecnetwork/5019.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Sloppy Joe's Bar Cam - Key West USA
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Sloppy Joe's Duval Street Cam - Key West USA
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Sloppy Joe's Stage Cam - Key West USA
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",St. Anton am Arlberg
+rtmp://stream.livespotting.tv/windit-edge/vv21_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Stralsund - Hotel Hafenresidenz
+rtmp://stream.livespotting.tv/windit-edge/vv132_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Street Cam
+http://video3.earthcam.com/fecnetwork/hdtimes11.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Switzerland - Zurich Zoo Cam 1
+rtmp://stream.livespotting.tv/windit-edge/vv78_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Switzerland - Zurich Zoo Cam 2
+rtmp://stream.livespotting.tv/windit-edge/vv23_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Switzerland - Zurich Zoo Cam 3
+rtmp://stream.livespotting.tv/windit-edge/vv78b_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Timmendorfer Strand
+rtmp://stream.livespotting.tv/windit-edge/vv9_450p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Torfhaus - Harz
+rtmp://stream.livespotting.tv/windit-edge/vv52_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Travem√ºnde - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv54_450p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",T√ºbingen - Casino am Neckar
+rtmp://stream.livespotting.tv/windit-edge/vv109_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",T√ºbingen - Heindl Internet AG
+rtmp://stream.livespotting.tv/windit-edge/vv104_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",UK - Portsmouth
+http://wse1.resortcams.com/live/hmswarrior.stream/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Ulm - Hotel Blaubeurer Tor
+rtmp://stream.livespotting.tv/windit-edge/vv66_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Ustronie Morskie plaza
+http://hls1.webcamera.pl/umustronie_cam_8305a4/umustronie_cam_8305a4.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Valmez 1 CZ
+http://212.111.1.7:1937/vlmcam01/vlmcam01.stream/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Valmez 2 CZ
+http://212.111.1.7:1937/vlmcam02/vlmcam02.stream/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Valmez 3 CZ
+http://212.111.1.7:1937/vlmcam03/vlmcam03.stream/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",WEBCAM CHOPOK-Kamenna chata (SK)
+http://stream.zivekamery.sk:1935/live/KAMENNA_CHATA.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",WEBCAM KROMERIZ-Hulinska (SK)
+http://stream.zivekamery.sk:1935/live/KROMERIZ.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",WEBCAM RUZOMBEROK-Stefanicka (SK)
+http://stream.zivekamery.sk:1935/live/STEFANICKA.stream/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Warnem√ºnde - Best Western Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv20_450p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Warnem√ºnde - Yachthafen
+rtmp://stream.livespotting.tv/windit-edge/vv4_450p.stream
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Weimar - HotelPension am Goethehaus
+rtmp://stream.livespotting.tv/windit-edge/vv92_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Westerland - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv43_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Wiek - R√ºgen
+rtmp://stream.livespotting.tv/windit-edge/vv25_450p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Wolfsburg - Stadt Wolfsburg
+rtmp://stream.livespotting.tv/windit-edge/vv88_720p.stream
+
+
+
+
+
+
+#EXTINF:-1 group-title="Webcam2",Wrzesnia
+http://hls13.webcamera.pl/wrzesnia_cam_ed3c35/wrzesnia_cam_ed3c35.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Webcam2",Wuppertal - Barmenia
+rtmp://stream.livespotting.tv/windit-edge/vv117_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",W√ºrzburg - Hotel Alter Kranen
+rtmp://stream.livespotting.tv/windit-edge/vv70_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Z√ºrich ‚Äì Uetliberg
+rtmp://stream.livespotting.tv/windit-edge/vv65_720p.stream
+
+
+
+#EXTINF:-1 group-title="Webcam2",Abakan - El anillo del trabajo
+rtmp://91.219.96.146/live//nekrasova1
+#EXTINF:-1 group-title="Webcam2",Abakan - Encrucijada de ADM
+rtmp://91.219.96.146/live//druzhbynarodov23
+#EXTINF:-1 group-title="Webcam2",Abakan - Encrucijada de la amistad de los pueblos y Krylov
+rtmp://91.219.96.146/live//shchetinkina73
+#EXTINF:-1 group-title="Webcam2",Abakan - Encrucijada de Nekrasov y Kirov
+rtmp://91.219.96.146/live//kirova204a
+#EXTINF:-1 group-title="Webcam2",Abakan - Encrucijada de Nekrasov y Krylov
+rtmp://91.219.96.146/live//krylova85
+#EXTINF:-1 group-title="Webcam2",Abakan - Crossroads Sovetskaya y Nekrasova
+rtmp://91.219.96.146/live//sovetskaya113
+#EXTINF:-1 group-title="Webcam2",Aktau - costa del mar Caspio 14 m
+http://cam.x-com.kz:8081/caspy14/index.m3u8
+#EXTINF:-1 group-title="Webcam2",Aktau - La costa del mar Caspio 15 mn
+http://cam.x-com.kz:8081/caspy15/index.m3u8
+#EXTINF:-1 group-title="Webcam2",Aktau - El Mar Caspio 5/7 mrn
+http://cam.x-com.kz:8081/caspy5/index.m3u8
+#EXTINF:-1 group-title="Webcam2",Aktau - Regiones superiores
+http://cam.x-com.kz:8081/yntymak/index.m3u8
+#EXTINF:-1 group-title="Webcam2",Aktau - Teatro Dram√°tico
+http://cam.x-com.kz:8081/dramteatr/index.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 group-title="Webcam", ?????? ???-?????? ?? ????????
 http://streaming.ivideon.com/flv/live?sessionId=demo&server=100-56f59332c5c37dd1abac11ccbeb7c00f&camera=0&q=2&type=site&vcodec=h264
 #EXTINF:0 group-title="Webcam", Frankfurt_Stadt Frankfurt am Main
@@ -599,13 +1681,13 @@ http://stream.livespotting.tv/windit-edge/vv25_450p.stream/playlist.m3u8
 http://stream.livespotting.tv/windit-edge/vv88_720p.stream/playlist.m3u8
 #EXTINF:0 group-title="Webcam", Wurzburg_Hotel Alter Kranen
 http://stream.livespotting.tv/windit-edge/vv70_720p.stream/playlist.m3u8
-#EXTINF:0 group-title="Webcam", Switzerland_Zurich ñ Uetliberg
+#EXTINF:0 group-title="Webcam", Switzerland_Zurich ‚Äì Uetliberg
 http://stream.livespotting.tv/windit-edge/vv65_720p.stream/playlist.m3u8
 #EXTINF:0 group-title="Webcam", Carcavelos-Portugal
 http://213.13.26.13:1935/live/carcavelos.stream/magellan.m3u8
-#EXTINF:-1 group-title="Webcam", CHILE Agustinas ñ San MartÌn
+#EXTINF:-1 group-title="Webcam", CHILE Agustinas ‚Äì San Mart√≠n
 http://200.75.19.171/uoct/27/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", CHILE Alameda ñ Santa Rosa
+#EXTINF:-1 group-title="Webcam", CHILE Alameda ‚Äì Santa Rosa
 http://200.75.19.171/uoct/37/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", CHILE Alameda con Manuel Rodriquez
 http://200.75.19.171/uoct/12/playlist.m3u8
@@ -621,7 +1703,7 @@ http://200.75.19.171/uoct/16/playlist.m3u8
 http://200.75.19.171/uoct/38/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", CHILE Andres Bello-Nueva Tajamar
 http://200.75.19.171/uoct/42/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", CHILE Apoquindo ñ Camino el Alba
+#EXTINF:-1 group-title="Webcam", CHILE Apoquindo ‚Äì Camino el Alba
 http://200.75.19.171/uoct/13/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", CHILE Apoquindo-Las Condes
 http://200.75.19.171/uoct/29/playlist.m3u8
@@ -641,7 +1723,7 @@ http://200.75.19.171/uoct/2/playlist.m3u8
 http://200.75.19.171/uoct/55/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", CHILE General Velazquez-Arica
 http://200.75.19.171/uoct/21/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", CHILE Isabel Riquelme con Bascu?·n Guerrero
+#EXTINF:-1 group-title="Webcam", CHILE Isabel Riquelme con Bascu?√°n Guerrero
 http://200.75.19.171/uoct/6/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", CHILE Isidora Goyenechea-Vitacura
 http://200.75.19.171/uoct/55/playlist.m3u8
@@ -723,9 +1805,9 @@ rtmp://cdn-01.whatsupcams.com/live///hr_varazdin1
 http://109.94.224.254/video1.mjpg
 #EXTINF:0 group-title="Webcam", NoviSad Trg Slobode
 rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream
-#EXTINF:0 group-title="Webcam", Plougonvelin ñ Bretagne ñ France
+#EXTINF:0 group-title="Webcam", Plougonvelin ‚Äì Bretagne ‚Äì France
 rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
-#EXTINF:0 group-title="Webcam",  BÛsnia Herzegovina (31sec) Bulevar_Banja Luka
+#EXTINF:0 group-title="Webcam",  B√≥snia Herzegovina (31sec) Bulevar_Banja Luka
 rtmp://edith03.tv.blic.net:1935/live/_definst_/mp4:kamera01.stream_480p swfUrl=http://blic.net/cam/jwplayer.flash.swf pageUrl=http://blic.net/cam/bulevar.html live=1
 #EXTINF:0 group-title="Webcam", Dinamarca (5sec)_Aeroporto Bornholms Lufthavn
 http://87.54.59.228/mjpg/1/video.mjpg
@@ -735,7 +1817,7 @@ rtmp://144.76.30.147:1935/rtplive?doPlay=AhZaex6icamvista2004 playpath=chinatown
 http://192.171.163.3/mjpg/video.mjpg
 #EXTINF:0 group-title="Webcam", Lila Delman (5sec)_USA
 rtsp://narr-cam.liladelman.com:554/axis-media/media.amp
-#EXTINF:0 group-title="Webcam", Salisbury (5sec) Canad·
+#EXTINF:0 group-title="Webcam", Salisbury (5sec) Canad√°
 http://towercam.arts.ubc.ca/mjpg/video.mjpg
 #EXTINF:0 group-title="Webcam", North Carolina (5sec)_USA
 rtsp://152.3.114.18/axis-media/media.amp
@@ -745,9 +1827,9 @@ rtsp://198.82.159.136:554/axis-media/media.amp
 rtsp://132.239.12.145:554/axis-media/media.amp
 #EXTINF:0 group-title="Webcam", College Park (5sec)
 rtsp://129.2.16.181:554/axis-media/media.amp
-#EXTINF:-1 group-title="Webcam", Dubai ñ Atlantis, The Palm Dubai Skyline
+#EXTINF:-1 group-title="Webcam", Dubai ‚Äì Atlantis, The Palm Dubai Skyline
 http://video4.earthcam.com/fecnetwork/5868.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Dubai ñ Atlantis, The Palm Hotel and Resort View
+#EXTINF:-1 group-title="Webcam", Dubai ‚Äì Atlantis, The Palm Hotel and Resort View
 http://video4.earthcam.com/fecnetwork/6405.flv/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", EXYUG-Banja luka (trg krajine)
 http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist_w873016047_b350000.m3u8
@@ -777,7 +1859,7 @@ rtmp://subotica.com/live/kamera3.stream
 rtmp://cdn-01.whatsupcams.com/live///hr_varazdin1
 #EXTINF:-1 group-title="Webcam", EXYUG-Zrenjanin
 http://109.94.224.254/video1.mjpg
-#EXTINF:-1 group-title="Webcam", France Paris ñ Eiffel Tower Streaming Cam
+#EXTINF:-1 group-title="Webcam", France Paris ‚Äì Eiffel Tower Streaming Cam
 http://video4.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", Greece Thassos Beach HD
 http://video4.earthcam.com/fecnetwork/3792.flv/playlist.m3u8
@@ -785,11 +1867,11 @@ http://video4.earthcam.com/fecnetwork/3792.flv/playlist.m3u8
 http://193.40.133.138/live/hyljes/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", Hella, Hotel Ranga -Island(Polarlight
 http://video1.earthcam.com/fecnetwork/5299.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Hot Springs ñ Jordanien
+#EXTINF:-1 group-title="Webcam", Hot Springs ‚Äì Jordanien
 http://video4.earthcam.com/fecnetwork/4515.flv/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", Hot Springs -Jordanien
 http://video1.earthcam.com/fecnetwork/4515.flv/playlist.m3u
-#EXTINF:-1 group-title="Webcam", Hungary ñ Budapest Cam
+#EXTINF:-1 group-title="Webcam", Hungary ‚Äì Budapest Cam
 http://video4.earthcam.com/fecnetwork/hotelvictoria2.flv/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", Iceland
 http://video4.earthcam.com/fecnetwork/5299.flv/playlist.m3u8
@@ -797,27 +1879,27 @@ http://video4.earthcam.com/fecnetwork/5299.flv/playlist.m3u8
 http://video4.earthcam.com/fecnetwork/5299.flv/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", Ireland Dublin pub cam
 http://video4.earthcam.com/fecnetwork/4054.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Jamaica Negril Rickís Cafe HD
+#EXTINF:-1 group-title="Webcam", Jamaica Negril Rick‚Äôs Cafe HD
 http://video4.earthcam.com/fecnetwork/4369.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Japan ñ Tokyo
+#EXTINF:-1 group-title="Webcam", Japan ‚Äì Tokyo
 http://video4.earthcam.com/fecnetwork/tokyo1.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Jordan ñ Amman City
+#EXTINF:-1 group-title="Webcam", Jordan ‚Äì Amman City
 http://video4.earthcam.com/fecnetwork/4518.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", K‰smu Seashore Cam
+#EXTINF:-1 group-title="Webcam", K√§smu Seashore Cam
 http://193.40.133.138/live/kasmu/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Malta ñ Valletta Grand Harbour
+#EXTINF:-1 group-title="Webcam", Malta ‚Äì Valletta Grand Harbour
 http://video4.earthcam.com/fecnetwork/5245.flv/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", Malta Valletta
 http://video4.earthcam.com/fecnetwork/5245.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Netherlands ñ Amsterdam Cam
+#EXTINF:-1 group-title="Webcam", Netherlands ‚Äì Amsterdam Cam
 http://video4.earthcam.com/fecnetwork/4098.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Netherlands ñ Amsterdam Cam
+#EXTINF:-1 group-title="Webcam", Netherlands ‚Äì Amsterdam Cam
 http://video4.earthcam.com/fecnetwork/4098.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Netherlands ñ Amsterdam Cam
+#EXTINF:-1 group-title="Webcam", Netherlands ‚Äì Amsterdam Cam
 http://video4.earthcam.com/fecnetwork/4098.flv/playlist.m3u8
-ﬂ#EXTINF:-1 group-title="Webcam", NoviSad Trg Slobode
+√ü#EXTINF:-1 group-title="Webcam", NoviSad Trg Slobode
 rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream
-#EXTINF:-1 group-title="Webcam", Plougonvelin ñ Bretagne ñ France
+#EXTINF:-1 group-title="Webcam", Plougonvelin ‚Äì Bretagne ‚Äì France
 rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
 #EXTINF:-1 group-title="Webcam", POLSKI Ostr w Wklp.-Rynek(m3u8)
 http://77.89.89.10:1935/rtplive/rynek.stream/playlist.m3u8
@@ -829,11 +1911,11 @@ http://video4.earthcam.com/fecnetwork/3698sanjuan1.flv/playlist.m3u8
 http://streaming4.webcam.nl/rai-signaal/rai-signaal.stream/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", Ranga Island Hella Hotel
 http://video4.earthcam.com/fecnetwork/5299.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Rio De Janeiro ñ Brasil
+#EXTINF:-1 group-title="Webcam", Rio De Janeiro ‚Äì Brasil
 http://video4.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Romania ñ Transylvania Cam
+#EXTINF:-1 group-title="Webcam", Romania ‚Äì Transylvania Cam
 http://video4.earthcam.com/fecnetwork/5206.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Romania ñ Transylvania Cam
+#EXTINF:-1 group-title="Webcam", Romania ‚Äì Transylvania Cam
 http://video4.earthcam.com/fecnetwork/5206.flv/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", SAFARI TV (CAM1)
 http://206.190.152.218:1935/rtsp-distribution/mp4:wil-safari-01.stream/playlist.m3u8
@@ -851,9 +1933,9 @@ http://stream.africam.com/na/na.stream/playlist.m3u8
 http://stream.africam.com/rc/rc.stream/playlist.m3u8
 #EXTINF:-1 group-title="Webcam", SAFARI TV (CAM8)
 http://206.190.152.218:1935/rtsp-distribution/mp4:tau-lodge-01.stream/playlist.m3u8
-#EXTINF:-1 group-title="Webcam", Switzerland ñ Lugano ñ Lido
+#EXTINF:-1 group-title="Webcam", Switzerland ‚Äì Lugano ‚Äì Lido
 rtmp://rtmp.infomaniak.ch/livecast/webcam05luganoch
-#EXTINF:-1 group-title="Webcam", Switzerland ñ Lugano ñ Monte BrÈ ñ Ristorante Vetta
+#EXTINF:-1 group-title="Webcam", Switzerland ‚Äì Lugano ‚Äì Monte Br√© ‚Äì Ristorante Vetta
 rtmp://rtmp.infomaniak.ch/livecast/webcam08luganoch
 #EXTINF:-1 group-title="Webcam", Tara Suites -Aruba
 http://video1.earthcam.com/fecnetwork/4644.flv/playlist.m3u8
@@ -885,35 +1967,35 @@ rtmp://stream-5gw.1000eyes.de/rtplive/ playpath=dus0600.stream swfUrl=http://cam
 rtmp://stream-5gw.1000eyes.de/rtplive/ playpath=dus8a21.stream swfUrl=http://cam.dus.com/_img/webcam/flowplayer-3.2.7.swf pageUrl=http://cam.dus.com/video/webcam_dus8a21.php live=1
 #EXTINF:-1 group-title="Webcam", Alemanha (3sec) - Hamburgo 
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=3847fairmont.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/germany/hamburg/ live=1
-#EXTINF:-1 group-title="Webcam", Alemanha (10sec) - PÍndulo
+#EXTINF:-1 group-title="Webcam", Alemanha (10sec) - P√™ndulo
 rtmp://129.206.127.105/live/ playpath=pendelcam800 swfUrl=http://pendelcam.kip.uni-heidelberg.de/swf/Jplayer.swf pageUrl=http://pendelcam.kip.uni-heidelberg.de/ live=1
-#EXTINF:-1 group-title="Webcam",  BÛsnia Herzegovina (31sec) Bulevar - Banja Luka
+#EXTINF:-1 group-title="Webcam",  B√≥snia Herzegovina (31sec) Bulevar - Banja Luka
 rtmp://edith03.tv.blic.net:1935/live/_definst_/mp4:kamera01.stream_480p swfUrl=http://blic.net/cam/jwplayer.flash.swf pageUrl=http://blic.net/cam/bulevar.html live=1
-#EXTINF:-1 group-title="Webcam", BÛsnia Herzegovina (3sec) - Zenica Square cam 1
+#EXTINF:-1 group-title="Webcam", B√≥snia Herzegovina (3sec) - Zenica Square cam 1
 rtmp://cdn-03.whatsupcams.com/live/ba_zen3 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/bosnia-and-herzegovina/federation-of-bosnia-and-herzegovina/zenica/zenica-square-alije-izetbegovica live=1
-#EXTINF:-1 group-title="Webcam", BÛsnia Herzegovina (32sec) - Zenica cam 2
+#EXTINF:-1 group-title="Webcam", B√≥snia Herzegovina (32sec) - Zenica cam 2
 rtmp://cdn-03.whatsupcams.com/live playpath=ba_zen6 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/bosnia-and-herzegovina/federation-of-bosnia-and-herzegovina/zenica/zenica-crkvice live=1
-#EXTINF:-1 group-title="Webcam", Cro·cia (31sec) Zagreb - (Bana Jelacica cam 1)
+#EXTINF:-1 group-title="Webcam", Cro√°cia (31sec) Zagreb - (Bana Jelacica cam 1)
 rtmp://cdn-03.whatsupcams.com/live playpath=hr_zgbana2 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/croatia/zagrebcka/zagreb-center/bana-jelacica-square-panorama live=1
-#EXTINF:-1 group-title="Webcam", Cro·cia (3sec) Zagreb - (Ban Jelacica cam 2)
+#EXTINF:-1 group-title="Webcam", Cro√°cia (3sec) Zagreb - (Ban Jelacica cam 2)
 rtmp://cdn-03.whatsupcams.com/live playpath=hr_zagreb1 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/croatia/zagrebcka/zagreb-center/zagreb-ban-jelacic-square live=1
-#EXTINF:-1 group-title="Webcam", Cro·cia (3sec) Sul de Zagreb (Rio Jarun)
+#EXTINF:-1 group-title="Webcam", Cro√°cia (3sec) Sul de Zagreb (Rio Jarun)
 rtmp://cdn-03.whatsupcams.com/live playpath=hr_zgjarun swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/croatia/zagrebcka/zagreb-center/lake-jarun live=1
 #EXTINF:-1 group-title="Webcam", Dinamarca (5sec) - Aeroporto Bornholms Lufthavn
 http://87.54.59.228/mjpg/1/video.mjpg
-#EXTINF:-1 group-title="Webcam", EscÛcia (3sec) Greenock
+#EXTINF:-1 group-title="Webcam", Esc√≥cia (3sec) Greenock
 mms://live.camstreams.com/cssaitek1
-#EXTINF:-1 group-title="Webcam", Eslov·quia (20sec) - Village Tatralandia
+#EXTINF:-1 group-title="Webcam", Eslov√°quia (20sec) - Village Tatralandia
 rtmp://stream.kukaj.sk:1935/ip-camera/STREAM5.stream swfUrl=http://www.webkamery.sk/shared/mediaplayer-5.10/playerb.swf pageUrl=http://www.tatralandia.sk/en/webcameras/holiday-village-tatralandia/ live=1
-#EXTINF:-1 group-title="Webcam", EslÛvenia (5sec) - Maribor (Leon ätukelj)
+#EXTINF:-1 group-title="Webcam", Esl√≥venia (5sec) - Maribor (Leon ≈†tukelj)
 rtmp://cdn-03.whatsupcams.com/live playpath=si_maribortrgleon swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/slovenia/podravje/maribor/leon-stukelj-square live=1
-#EXTINF:-1 group-title="Webcam", EslÛvenia (3sec) Piran - (Tartini square)
+#EXTINF:-1 group-title="Webcam", Esl√≥venia (3sec) Piran - (Tartini square)
 rtmp://cdn-03.whatsupcams.com/live playpath=si_pirantartini swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/slovenia/coastal-karst/piran/tartini-square live=1
-#EXTINF:-1 group-title="Webcam", EslÛvenia (3sec) - Portoroû Beach
+#EXTINF:-1 group-title="Webcam", Esl√≥venia (3sec) - Portoro≈æ Beach
 rtmp://cdn-03.whatsupcams.com/live playpath=si_portorozplaza swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/slovenia/coastal-karst/portoroz/beach-in-portoroz live=1
-#EXTINF:-1 group-title="Webcam", EslÛvenia (31sec) -  Bovec
+#EXTINF:-1 group-title="Webcam", Esl√≥venia (31sec) -  Bovec
 rtmp://cdn-04.whatsupcams.com/live playpath=si_bovec swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/slovenia/goriska/bovec/main-square-in-bovec live=1
-#EXTINF:0 group-title="Webcam", San Sebasti·n (6sec) Arriola -  Espanha
+#EXTINF:0 group-title="Webcam", San Sebasti√°n (6sec) Arriola -  Espanha
 http://37.59.35.149:8090/cam16.flv
 #EXTINF:-1 group-title="Webcam", Tenerife (31sec) (Playa de Fanabe) - Espanha
 rtmp://cdn-04.whatsupcams.com/live playpath=es_tenerife01 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/spain/canary-islands/adeje-tenerife/tenerife-playa-de-fanabe-costa-adeje live=1
@@ -921,21 +2003,21 @@ rtmp://cdn-04.whatsupcams.com/live playpath=es_tenerife01 swfUrl=http://www.what
 rtmp://cdn-03.whatsupcams.com/live playpath=es_laspalmas2 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/spain/canary-islands/las-palmas-gran-canaria/la-cicer-beach-surf-beach-de-las-canteras live=1
 #EXTINF:-1 group-title="Webcam", Las Palmas (31sec) (Las Canteras) - Espanha
 rtmp://cdn-03.whatsupcams.com/live/es_laspalmas1 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/spain/canary-islands/las-palmas-gran-canaria/las-palmas-beach-de-las-canteras live=1
-#EXTINF:-1 group-title="Webcam", Cadiz (31sec) (Santa MarÌa del Mar) - Espanha
+#EXTINF:-1 group-title="Webcam", Cadiz (31sec) (Santa Mar√≠a del Mar) - Espanha
 rtmp://cdn-03.whatsupcams.com/live playpath=es_cadiz1 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/spain/andalusia/cadiz/cadiz-beach-santa-maria-del-mar live=1
-#EXTINF:-1 group-title="Webcam", M·laga (Fuengirola 31sec) - Espanha
+#EXTINF:-1 group-title="Webcam", M√°laga (Fuengirola 31sec) - Espanha
 rtmp://cdn-03.whatsupcams.com/live playpath=es_fuengirola1 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/spain/andalusia/fuengirola/paseo-maritimo live=1
 #EXTINF:-1 group-title="Webcam", Barcelona (Lloret 31sec) - Espanha
 rtmp://cdn-03.whatsupcams.com/live playpath=es_lmar1 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/spain/catalonia/lloret-de-mar/lloret-central-beach live=1
-#EXTINF:-1 group-title="Webcam", Torre Eifel (39sec) - Paris FranÁa
+#EXTINF:-1 group-title="Webcam", Torre Eifel (39sec) - Paris Fran√ßa
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=eiffelcamHD.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/france/paris/?cam=eiffeltower_hd live=1
-#EXTINF:-1 group-title="Webcam", Roscoff (Bretagne 31sec) - FranÁa
+#EXTINF:-1 group-title="Webcam", Roscoff (Bretagne 31sec) - Fran√ßa
 rtmp://www.vision-environnement.com:1935/live swfUrl=http://www.vision-environnement.com/flowplayer/flowplayer-3.2.15.swf pageUrl=http://www.vision-environnement.com/webcams/player/roscoff.php playpath=roscoff.stream live=1
-#EXTINF:-1 group-title="Webcam", Ilha de Thassos (40sec) - GrÈcia
+#EXTINF:-1 group-title="Webcam", Ilha de Thassos (40sec) - Gr√©cia
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=3792.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/greece/thassos/ live=1
-#EXTINF:-1 group-title="Webcam", Ilha de Thassos cam2 (3sec) - GrÈcia
+#EXTINF:-1 group-title="Webcam", Ilha de Thassos cam2 (3sec) - Gr√©cia
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=3792 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
-#EXTINF:-1 group-title="Webcam", Amesterd„o (3sec) - Holanda
+#EXTINF:-1 group-title="Webcam", Amesterd√£o (3sec) - Holanda
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=4098.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/netherlands/amsterdam/555408_78277623.flv live=1
 #EXTINF:-1 group-title="Webcam", Veessen-Wapenveld (31sec) - Holanda
 rtmp://streaming4.webcam.nl:80/ijsselweide01 playpath=ijsselweide01.stream swfUrl=http://bouw.webcam.nl/ijsselweide/player.swf pageUrl=http://bouw.webcam.nl/ijsselweide/ live=1
@@ -953,25 +2035,25 @@ rtmp://server1.livepoint.hu:1935/livepkgr playpath=mammut2 swfUrl=http://mammut.
 rtmp://server1.livepoint.hu:1935/livepkgr playpath=mammut3 swfUrl=http://mammut.luminet.hu/images/StrobeMediaPlayback.swf pageUrl=http://mammut.luminet.hu/galeria live=1
 #EXTINF:-1 group-title="Webcam", Plymouth (31sec)- Lighthouse - Inglaterra
 http://192.171.163.3/mjpg/video.mjpg
-#EXTINF:-1 group-title="Webcam", ReykjavÌk (31sec) (Austurvˆllur Square) - Isl‚ndia
+#EXTINF:-1 group-title="Webcam", Reykjav√≠k (31sec) (Austurv√∂llur Square) - Isl√¢ndia
 rtmp://46.227.70.67/mila/austurstraeti-rett.stream swfUrl=http://www.livefromiceland.is/files/player.swf pageUrl=http://www.livefromiceland.is/webcams/austurvollur/ live=1
-#EXTINF:-1 group-title="Webcam", ReykjavÌk (29sec) - Isl‚ndia
+#EXTINF:-1 group-title="Webcam", Reykjav√≠k (29sec) - Isl√¢ndia
 rtmp://46.227.70.67/mila/ playpath=vatnsendi.stream swfUrl=http://www.livefromiceland.is/files/player.swf pageUrl=http://www.livefromiceland.is/webcams/reykjavik/ live=1
-#EXTINF:-1 group-title="Webcam", Reykjavikurtjorn (31sec) - Isl‚ndia
+#EXTINF:-1 group-title="Webcam", Reykjavikurtjorn (31sec) - Isl√¢ndia
 rtmp://46.227.70.67/mila/ playpath=tjornin.stream swfUrl=http://www.livefromiceland.is/files/player.swf pageUrl=http://www.livefromiceland.is/webcams/reykjavikurtjorn/ live=1
-#EXTINF:-1 group-title="Webcam", Jˆkuls·rlÛn (31sec) - Isl‚ndia
+#EXTINF:-1 group-title="Webcam", J√∂kuls√°rl√≥n (31sec) - Isl√¢ndia
 rtmp://46.227.70.67/mila/ playpath=jokulsarlon.stream swfUrl=http://www.livefromiceland.is/files/player.swf pageUrl=http://www.livefromiceland.is/webcams/jokulsarlon/ live=1
 #EXTINF:-1 group-title="Webcam", Dublin (2sec) (The Temple Bar) - Irlanda
 rtmp://video4.earthcam.com:80/fecnetwork playpath=4054.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/ireland/dublin/?cam=templebar live=1
 #EXTINF:-1 group-title="Webcam", Dublin (2sec) Fox Heaven - Irlanda
 http://live.camstreams.com:80/cslabtec1?MSWMExt=.asf
-#EXTINF:-1 group-title="Webcam", Carini (31sec) - It·lia
+#EXTINF:-1 group-title="Webcam", Carini (31sec) - It√°lia
 rtmp://cdn-03.whatsupcams.com/live playpath=it_carini01 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/italy/sicily/carini/carini-view-island-delle-femmine-and-capo-gallo live=1
-#EXTINF:-1 group-title="Webcam", Apulia (31sec) (Polignano) - It·lia
+#EXTINF:-1 group-title="Webcam", Apulia (31sec) (Polignano) - It√°lia
 rtmp://cdn-03.whatsupcams.com/live playpath=it_polignano2 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/italy/apulia/polignano-mare/polignano-view-from-malu-bb live=1
-#EXTINF:-1 group-title="Webcam", Livu Square (2sec) - LetÛnia
+#EXTINF:-1 group-title="Webcam", Livu Square (2sec) - Let√≥nia
 http://92.63.81.67/cam31/index.m3u8?
-#EXTINF:-1 group-title="Webcam", Riga (2sec) - LetÛnia
+#EXTINF:-1 group-title="Webcam", Riga (2sec) - Let√≥nia
 http://92.63.81.67/cam32/index.m3u8?
 #EXTINF:0 group-title="Webcam", Tower Bridge (38sec) - Londres
 rtmp://rtmp.octopus.tv:1935/live/ playpath=towerbridge.stream swfUrl=http://assets.octopus.tv/jw/jwplayer.flash.swf pageUrl=http://blog.visitlondon.com/watch-tower-bridge-live/ live=1
@@ -997,25 +2079,25 @@ rtmp://79.125.15.213:1935/livecam playpath=torgallmenningen1 swfUrl=http://front
 rtmp://46.137.79.41:1935/live/ playpath=ankerbygget1.stream swfUrl=http://frontend.xstream.dk/sa/resources/swf/standardPlayer_6.14.7.swf?v=_6.14.7/[[DYNAMIC]]/4 pageUrl=http://www.aftenbladet.no/webkamera/livekamera/Vagen-i-Stavanger--2838021.html#.UWasCVejaco live=1
 #EXTINF:-1 group-title="Webcam", Festplassen (2sec) - Noruega
 rtmp://79.125.15.213:1935/livecam playpath=festplassen1 swfUrl=http://frontend.xstream.dk/btno/resources/swf/standardPlayer_6.14.7.swf/[[DYNAMIC]]/4 pageUrl=http://www.bt.no/kamera/videokamera/Festplassen-2342762.html#.U0VTY5WKCTQ live=1
-#EXTINF:-1 group-title="Webcam", Main Square KrakÛw (31sec) - PolÛnia
+#EXTINF:-1 group-title="Webcam", Main Square Krak√≥w (31sec) - Pol√≥nia
 rtmp://h264.webcamera.pl/wentzl_cam_be5c6c/ playpath=wentzl_cam_be5c6c.stream swfUrl=http://webstream1.webcamera.pl/playerFBv6.swf pageUrl=http://webstream1.webcamera.pl/apinew/ramka.php?cam=wentzl_cam_be5c6c&w=640&h=400 live=1
-#EXTINF:-1 group-title="Webcam", Warsaw Square (31sec) - PolÛnia
+#EXTINF:-1 group-title="Webcam", Warsaw Square (31sec) - Pol√≥nia
 rtmp://edge02.cdn.blcluster.net/NEXTPLUS-OOGNET playpath=camera16.stream swfUrl=http://static.oognet.pl/oognet/player/flowplayer.commercial-3.2.18.swf pageUrl=http://oognet.pl/content/details/276 live=1
-#EXTINF:-1 group-title="Webcam", Zakopane ul.(38sec) KrupÛwki - PolÛnia
+#EXTINF:-1 group-title="Webcam", Zakopane ul.(38sec) Krup√≥wki - Pol√≥nia
 rtmp://edge02.cdn.blcluster.net/NEXTPLUS-OOGNET/ playpath=camera69.stream swfUrl=http://static.oognet.pl/oognet/player/flowplayer.commercial-3.2.18.swf pageUrl=http://oognet.pl/content/details/124 live=1
-#EXTINF:-1 group-title="Webcam", Praga (4sec) - Rep˙blica Checa
+#EXTINF:-1 group-title="Webcam", Praga (4sec) - Rep√∫blica Checa
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=4162.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/czechrepublic/prague/?cam=grandhotel_str live=1
-#EXTINF:-1 group-title="Webcam", Cluj (2sec) Napoca - RomÈnia
+#EXTINF:-1 group-title="Webcam", Cluj (2sec) Napoca - Rom√©nia
 rtmp://video4.earthcam.com:1935/fecnetwork/ playpath=5206.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/romania/transylvania/ live=1
-#EXTINF:-1 group-title="Webcam", Gradski (31sec) (Trg Slobode) - SÈrvia
+#EXTINF:-1 group-title="Webcam", Gradski (31sec) (Trg Slobode) - S√©rvia
 rtmp://subotica.com/live playpath=kamera2.stream swfUrl=http://www.subotica.com/lib/jwplayer/player.swf pageUrl=http://www.subotica.com/uzivo/kamera-gradski-trg-korzo-centar.html live=1
-#EXTINF:-1 group-title="Webcam", SuÈcia (5sec) - Cidade de ≈mÂl
+#EXTINF:-1 group-title="Webcam", Su√©cia (5sec) - Cidade de √Öm√•l
 http://194.17.150.62/mjpg/video.mjpg
-#EXTINF:-1 group-title="Webcam", SuÈcia (5sec) - Cidade de Malmˆ
+#EXTINF:-1 group-title="Webcam", Su√©cia (5sec) - Cidade de Malm√∂
 rtsp://217.211.159.251:554/axis-media/media.amp
-#EXTINF:-1 group-title="Webcam", SuÈcia (5sec) - Est·dio de Stora Valla
+#EXTINF:-1 group-title="Webcam", Su√©cia (5sec) - Est√°dio de Stora Valla
 http://81.170.248.13/mjpg/video.mjpg
-#EXTINF:-1 group-title="Webcam", SuiÁa (???sec) - Universidade St.Gallen
+#EXTINF:-1 group-title="Webcam", Sui√ßa (???sec) - Universidade St.Gallen
 http://130.82.102.72/mjpg/video.mjpg
 #EXTINF:-1 group-title="Webcam", Moscovo (6sec) Skyline Cam - Russia
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=moscowHD1.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/russia/moscow/?cam=moscow_hd live=1
@@ -1039,23 +2121,23 @@ http://195.154.182.204:8083/camera4/640,480,640,480/h264
 http://195.154.182.204:8083/camera18/h264
 #EXTINF:-1 group-title="Webcam", Saint Petersburg (4sec) Peterhorf Palace - Russia
 rtmp://media-pool-001-03.obit.ru:1935/stream playpath=camera swfUrl=http://media-001.obit.ru/peterhof/flash/StrobeMediaPlayback.swf pageUrl=http://media-001.obit.ru/peterhof/ live=1
-#EXTINF:-1 group-title="Webcam", Ucr‚nia (38sec) cam 1
+#EXTINF:-1 group-title="Webcam", Ucr√¢nia (38sec) cam 1
 rtmp://85.90.192.233/rtplive2 playpath=veltonQuality49.stream swfUrl=http://velton.ua/ru/webcams/VeltonPlayer.swf pageUrl=http://velton.ua/ru/webcams/Wide1HQ.shtml live=1
-#EXTINF:-1 group-title="Webcam", Ucr‚nia (31sec) cam 2
+#EXTINF:-1 group-title="Webcam", Ucr√¢nia (31sec) cam 2
 rtmp://85.90.192.233/rtplive2 playpath=veltonQuality53.stream swfUrl=http://velton.ua/ru/webcams/VeltonPlayer.swf pageUrl=http://velton.ua/ru/webcams/Wide3HQ.shtml live=1
-#EXTINF:-1 group-title="Webcam", Ucr‚nia (38sec) cam 3
+#EXTINF:-1 group-title="Webcam", Ucr√¢nia (38sec) cam 3
 rtmp://85.90.192.233/rtplive2 playpath=veltonQuality54.stream swfUrl=http://velton.ua/ru/webcams/VeltonPlayer.swf pageUrl=http://velton.ua/ru/webcams/Wide4HQ.shtml live=1
-#EXTINF:-1  group-title="Webcam", vg-id=""tv-logo=ìî group-title=ìCANAD¡/USA WEBCAMî,[COLOR yellow] CANADA/USA WEBCAM [/COLOR]
+#EXTINF:-1  group-title="Webcam", vg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúCANAD√Å/USA WEBCAM‚Äù,[COLOR yellow] CANADA/USA WEBCAM [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 group-title="Webcam", Alaska (5sec)
 http://climatecam.gi.alaska.edu/mjpg/video.mjpg
 #EXTINF:-1 group-title="Webcam", Lila Delman (5sec) - USA
 rtsp://narr-cam.liladelman.com:554/axis-media/media.amp
-#EXTINF:-1 group-title="Webcam", City of Niagarafalls (3sec) (Canad·)
+#EXTINF:-1 group-title="Webcam", City of Niagarafalls (3sec) (Canad√°)
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=4559.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/canada/niagarafalls/?cam=niagarafalls_str live=1
-#EXTINF:-1 group-title="Webcam", Niagarafalls (3sec) cam 2 (Canad·)
+#EXTINF:-1 group-title="Webcam", Niagarafalls (3sec) cam 2 (Canad√°)
 mms://webcams.niagarafallshotels.com/CNH-Stream2
-#EXTINF:-1 group-title="Webcam", Salisbury (5sec) Canad·
+#EXTINF:-1 group-title="Webcam", Salisbury (5sec) Canad√°
 http://towercam.arts.ubc.ca/mjpg/video.mjpg
 #EXTINF:-1 group-title="Webcam", Algonquin Park (4sec) (Canada)
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=5230.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/canada/ontario/algonquinpark/ live=1
@@ -1069,8 +2151,7 @@ rtmp://video4.earthcam.com:1935/fecnetwork playpath=timessquare.flv swfUrl=http:
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=hdtimes10.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
 #EXTINF:-1 group-title="Webcam", New York (3sec) - Street Cam (USA)
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=hdtimes11.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
-#EXTINF:-1 group-title="Webcam", New York (3sec) - Wall Street (USA)
-rtmp://video4.earthcam.com:1935/fecnetwork playpath=chargingbull.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+
 #EXTINF:-1 group-title="Webcam", New York (3sec) - Midtown East (USA)
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=5321.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
 #EXTINF:-1 group-title="Webcam", New York (3sec) - Brooklyn Bridge (USA)
@@ -1139,7 +2220,7 @@ rtmp://video4.earthcam.com:1935/fecnetwork playpath=eclasvegas.flv swfUrl=http:/
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=5359 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
 #EXTINF:-1 group-title="Webcam", New Orleans (3sec) - Bourbon Street (Louisiana)(USA)
 rtmp://video4.earthcam.com:1935/fecnetwork playpath4280 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
-#EXTINF:-1 group-title="Webcam", Santa FÈ (3sec) (New Mexico)(USA)
+#EXTINF:-1 group-title="Webcam", Santa F√© (3sec) (New Mexico)(USA)
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=4831 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
 #EXTINF:-1 group-title="Webcam", El Paso (3sec) (Texas)(USA)
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=5307 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
@@ -1149,31 +2230,31 @@ rtmp://video4.earthcam.com:1935/fecnetwork playpath=5666 swfUrl=http://static.ea
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=5536 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
 #EXTINF:-1 group-title="Webcam", Myrtle Beach (3sec) - South Carolina(USA)
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=3635 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
-#EXTINF:-1  group-title="Webcam", vg-id=""tv-logo=ìî group-title=ìOUTRAS WEBCAMSî,[COLOR yellow] OTHERS WEBCAMS [/COLOR]
+#EXTINF:-1  group-title="Webcam", vg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúOUTRAS WEBCAMS‚Äù,[COLOR yellow] OTHERS WEBCAMS [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 group-title="Webcam",  Atlantis Hotel (2sec) - Dubai
 rtmp://video4.earthcam.com:1935/fecnetwork/ playpath=6405.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/uae/dubai/atlantisthepalm/?cam=atlantis2 live=1
-#EXTINF:-1 group-title="Webcam", Pitsunda Beach (25sec) - GeÛrgia
+#EXTINF:-1 group-title="Webcam", Pitsunda Beach (25sec) - Ge√≥rgia
 rtmp://camera-live.tk/camera1/ playpath=stream swfUrl=http://www.pitsunda.ru/webcamera/flowplayer-3.2.18.swf pageUrl=http://www.pitsunda.ru/webcamera/ live=1
-#EXTINF:-1 group-title="Webcam", Amman Cam 1 (5sec) - Jord‚nia
+#EXTINF:-1 group-title="Webcam", Amman Cam 1 (5sec) - Jord√¢nia
 rtmp://video4.earthcam.com:1935/fecnetwork/4518.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/jordan/?cam=amman live=1
-#EXTINF:-1 group-title="Webcam", Amman Citadel (3sec) - Cam 2 Jord‚nia
+#EXTINF:-1 group-title="Webcam", Amman Citadel (3sec) - Cam 2 Jord√¢nia
 rtmp://video4.earthcam.com:1935/archives playpath=/permanent/4516/2013/04/08/1300.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/jordan/?cam=citadel live=1
-#EXTINF:-1 group-title="Webcam", Aqaba Cam 3 (2sec) - Jord‚nia
+#EXTINF:-1 group-title="Webcam", Aqaba Cam 3 (2sec) - Jord√¢nia
 rtmp://video4.earthcam.com:80/archives playpath=/permanent/4519/2013/04/08/1300.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/jordan/?cam=aqaba live=1
-#EXTINF:-1 group-title="Webcam", Cidade de Petra (40sec) Cam 4 - Jord‚nia
+#EXTINF:-1 group-title="Webcam", Cidade de Petra (40sec) Cam 4 - Jord√¢nia
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=petra_jordan.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/jordan/index.php?cam=petra live=1
-#EXTINF:-1 group-title="Webcam", Ma'in Hot Springs (2sec) (Mar Morto) cam 6 - Jord‚nia
+#EXTINF:-1 group-title="Webcam", Ma'in Hot Springs (2sec) (Mar Morto) cam 6 - Jord√¢nia
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=4515.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/jordan/?cam=mainhotsprings live=1
-#EXTINF:-1 group-title="Webcam", Muro das lamentaÁıes (31sec) Cam 1 - JerusalÈm
+#EXTINF:-1 group-title="Webcam", Muro das lamenta√ß√µes (31sec) Cam 1 - Jerusal√©m
 rtmp://EU40.cast-tv.com:1935/22688_LIVE_Jess_Live playpath=22688_LIVE_Jess_Live swfUrl=http://www.cast-tv.biz/play/newPlayer/smart-skin-new10.swf?movid=enipfg&clid=22688&autoplay=true&totalurl=&skinid=3236&flcinemator=&flplaylist=&PlayListID=0&CinematorID=&Link_URL=&Embed_URL=&ServerName=&MyTmpNum=01022015173603&playOnMouseOver=False&DurMovType=Long&SortType=Random&LangType=&oldAdsSystem=true&description_url= pageUrl=http://www.cast-tv.biz/play/?clid=22688&media=yes&movId=enipfg live=1
-#EXTINF:-1 group-title="Webcam", Muro das lamentaÁıes (2sec) Cam 2 - JerusalÈm
+#EXTINF:-1 group-title="Webcam", Muro das lamenta√ß√µes (2sec) Cam 2 - Jerusal√©m
 rtmp://EU40.cast-tv.com:1935/23595_LIVE_Kotel_Live playpath=23595_LIVE_Kotel_Live swfUrl=http://www.cast-tv.biz/play/newPlayer/smart-skin-new10.swf?movid=cgjlej&clid=23595&autoplay=true&totalurl=&skinid=2285&flcinemator=&flplaylist=&PlayListID=0&CinematorID=&Link_URL=&Embed_URL=&ServerName=&MyTmpNum=01022015174036&playOnMouseOver=False&DurMovType=Long&SortType=Random&LangType=&oldAdsSystem=true&description_url= pageUrl=http://www.cast-tv.biz/play/?clid=23595&media=yes&movId=cgjlej live=1
-#EXTINF:-1 group-title="Webcam", Muro das lamentaÁıes (2sec) Cam 3 - JerusalÈm
+#EXTINF:-1 group-title="Webcam", Muro das lamenta√ß√µes (2sec) Cam 3 - Jerusal√©m
 rtmp://EU40.cast-tv.com:1935/23595_LIVE_Kotel_Live1 playpath=23595_LIVE_Kotel_Live1 swfUrl=http://www.cast-tv.biz/play/newPlayer/smart-skin-new10.swf?movid=jfjmcg&clid=23595&autoplay=true&totalurl=&skinid=2192&flcinemator=&flplaylist=&PlayListID=0&CinematorID=&Link_URL=&Embed_URL=&ServerName=&MyTmpNum=01022015174150&playOnMouseOver=False&DurMovType=Long&SortType=Random&LangType=&oldAdsSystem=true&description_url= pageUrl=http://www.cast-tv.biz/play/?clid=23595&media=yes&movId=jfjmcg live=1
-#EXTINF:-1 group-title="Webcam", Khan Shatyr Shopping (22sec) (interior) - Kazaquist„o
+#EXTINF:-1 group-title="Webcam", Khan Shatyr Shopping (22sec) (interior) - Kazaquist√£o
 rtmp://92.46.127.173:1935/rtplive playpath=camera01.stream swfUrl=http://smarty.kz/hanshatyrvid/player.swf pageUrl=http://khanshatyr.com/en/ live=1
-#EXTINF:-1 group-title="Webcam", Khan Shatyr Shopping (33sec) (exterior) - Kazaquist„o
+#EXTINF:-1 group-title="Webcam", Khan Shatyr Shopping (33sec) (exterior) - Kazaquist√£o
 rtmp://92.46.127.173:1935/rtplive playpath=hnsh.stream swfUrl=http://smarty.kz/hanshatyrvid/player.swf pageUrl=http://khanshatyr.com/en/ live=1
 #EXTINF:-1 group-title="Webcam", San Juan (2sec) (Puerto Rico)
 http://video2.earthcam.com/fecnetwork/3698sanjuan1.flv/medien.m3u8
@@ -1185,9 +2266,9 @@ rtmp://video4.earthcam.com:1935/fecnetwork playpath=philippinesHD1.flv swfUrl=ht
 rtsp://66.175.76.125/axis-media/media.amp
 #EXTINF:-1 group-title="Webcam", Tropical Pool (4sec) Hotel
 rtsp://173.197.96.221:554/axis-media/media.amp
-#EXTINF:-1 group-title="Webcam", Elephant Park (4sec) - Trail Path (Bali) Cam 1 - IndonÈsia
+#EXTINF:-1 group-title="Webcam", Elephant Park (4sec) - Trail Path (Bali) Cam 1 - Indon√©sia
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=4337.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/indonesia/bali/?cam=bali1 live=1
-#EXTINF:-1 group-title="Webcam", Elephant Park (2sec) - Bathing Pool (Bali) Cam 2 - IndonÈsia
+#EXTINF:-1 group-title="Webcam", Elephant Park (2sec) - Bathing Pool (Bali) Cam 2 - Indon√©sia
 rtmp://video4.earthcam.com:80/fecnetwork playpath=4338.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/indonesia/bali/?cam=bali2 live=1
 #EXTINF:-1 group-title="Webcam", Meads Bay (2sec) Anguilla - Ilhas Virgens
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=anguilla.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
@@ -1195,11 +2276,11 @@ rtmp://video4.earthcam.com:1935/fecnetwork playpath=anguilla.flv swfUrl=http://s
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=4480 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
 #EXTINF:-1 group-title="Webcam", St. Barthelemy (40sec) - Ilhas Virgens
 rtmp://video4.earthcam.com:80/fecnetwork playpath=3829laplage.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/frenchwestindies/stbarts/?cam=stbarts_hd live=1
-#EXTINF:-1 group-title="Webcam", Bangkok (4sec) - Tail‚ndia
+#EXTINF:-1 group-title="Webcam", Bangkok (4sec) - Tail√¢ndia
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=5034.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/thailand/bangkok/ live=1
 #EXTINF:-1 group-title="Webcam", Playa Grande (4sec) - Costa Rica
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=5358 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
-#EXTINF:-1 group-title="Webcam", Bayahibe bay (31sec) - Rep˙blica Dominicana
+#EXTINF:-1 group-title="Webcam", Bayahibe bay (31sec) - Rep√∫blica Dominicana
 rtmp://cdn-03.whatsupcams.com/live playpath=do_bayahibe01 swfUrl=http://www.whatsupcams.com/static/flowplayer/flowplayer.swf pageUrl=http://www.whatsupcams.com/en/webcams/dominican-republic/la-altagracia/bayahibe/bayahibe-bay live=1
 #EXTINF:-1 group-title="Webcam", Tara Suites (3sec) - Aruba
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=4644 swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
@@ -1209,9 +2290,9 @@ rtmp://video4.earthcam.com:1935/fecnetwork playpath=4646 swfUrl=http://static.ea
 mms://64.77.226.11/cam3
 #EXTINF:-1 group-title="Webcam", Shanghai (9sec) Cam 2 - China
 mms://64.77.226.11/cam4
-#EXTINF:-1 group-title="Webcam", Chuo City (4sec) TÛquio - Jap„o
+#EXTINF:-1 group-title="Webcam", Chuo City (4sec) T√≥quio - Jap√£o
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=tokyo1.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/japan/tokyo/ live=1
-#EXTINF:-1 group-title="Webcam", F·brica de MaÁ„s (5sec) (Holtzinger Fruit) Yakima - USA
+#EXTINF:-1 group-title="Webcam", F√°brica de Ma√ß√£s (5sec) (Holtzinger Fruit) Yakima - USA
 rtsp://www.myapplecam.com:554/axis-media/media.amp
 #EXTINF:-1 group-title="Webcam", Construction cam (5sec)
 rtsp://206.12.12.25:554/axis-media/media.amp
@@ -1219,15 +2300,15 @@ rtsp://206.12.12.25:554/axis-media/media.amp
 rtsp://129.2.16.181:554/axis-media/media.amp
 #EXTINF:-1 group-title="Webcam",  Kitty Cam 24/7.
 http://iphone-streaming.ustream.tv/uhls/2298576/streams/live/iphone/playlist.m3u8
-#EXTINF:-1  group-title="Webcam", vg-id=""tv-logo=ìî group-title=ìAM…RICA DO SUL WEBCAMî,[COLOR yellow] AM…RICA DO SUL WEBCAM [/COLOR]
+#EXTINF:-1  group-title="Webcam", vg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúAM√âRICA DO SUL WEBCAM‚Äù,[COLOR yellow] AM√âRICA DO SUL WEBCAM [/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 group-title="Webcam", Balne·rio Cambori˙ (38sec) - Brasil
+#EXTINF:-1 group-title="Webcam", Balne√°rio Cambori√∫ (38sec) - Brasil
 rtmp://www.streambnu.info:1935/MarambaiaIP playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/balneario-camboriu/barra-norte-marambaia live=1
-#EXTINF:-1 group-title="Webcam", Balne·rio Cambori˙ (38sec) BA (Barra Norte) - Brasil
+#EXTINF:-1 group-title="Webcam", Balne√°rio Cambori√∫ (38sec) BA (Barra Norte) - Brasil
 rtmp://www.streambnu.info:1935/MarambaiaIP playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/balneario-camboriu/barra-norte-marambaia live=1
-#EXTINF:-1 group-title="Webcam", Balne·rio Cambori˙ (38sec) BA (Molhe barra sul) - Brasil
+#EXTINF:-1 group-title="Webcam", Balne√°rio Cambori√∫ (38sec) BA (Molhe barra sul) - Brasil
 rtmp://www.streambnu.info:1935/balneario6/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/balneario-camboriu/molhebarrasul live=1
-#EXTINF:-1 group-title="Webcam", Balne·rio Cambori˙ (38sec) BA (PraÁa Central) - Brasil
+#EXTINF:-1 group-title="Webcam", Balne√°rio Cambori√∫ (38sec) BA (Pra√ßa Central) - Brasil
 rtmp://www.streambnu.info:1935/balneario1/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/balneario-camboriu/avenidaatlantica-pracacentral live=1
 #EXTINF:-1 group-title="Webcam", Blumenau (36sec) - Brasil
 rtmp://www.streambnu.info:1935/blumenau7/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/blumenau/sete-shopping1 live=1
@@ -1245,25 +2326,25 @@ rtmp://www.streambnu.info:1935/brasilia2 playpath=default.stream swfUrl=http://b
 rtmp://www.streambnu.info:1935/brusque_MunicipioMais_02/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/brusque/ruacarlosgracher live=1
 #EXTINF:-1 group-title="Webcam", Brusque (38sec) SC (R. Felipe Schmidt) - Brasil
 rtmp://www.streambnu.info:1935/Brusque_MunicipioMais_01/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/brusque/ruafelipeschmidt live=1
-#EXTINF:-1 group-title="Webcam", FlorianÛpolis (38sec) SC (Beira Mar Norte) - Brasil
+#EXTINF:-1 group-title="Webcam", Florian√≥polis (38sec) SC (Beira Mar Norte) - Brasil
 rtmp://www.streambnu.info:1935/floripa1 playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/florianopolis/beira-mar-norte live=1
-#EXTINF:-1 group-title="Webcam", FlorianÛpolis (38sec) SC (Aeroporto HercÌlio Luz) - Brasil
+#EXTINF:-1 group-title="Webcam", Florian√≥polis (38sec) SC (Aeroporto Herc√≠lio Luz) - Brasil
 rtmp://rtmp.0be3.upx.net.br:80/0be3_188 playpath=0be3_188.stream swfUrl=http://vejoaovivo.com.br/site/customcontrols/flowplayer.commercial-3.2.18.swf pageUrl=http://vejoaovivo.com.br/canal/aeroportos.html live=1
 #EXTINF:-1 group-title="Webcam", Gaspar (38sec) SC (Avenida das Comunidades) - Brasil
 rtmp://www.streambnu.info:1935/gaspar_crvale_02/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/gaspar/avenidadascomunidades live=1
-#EXTINF:-1 group-title="Webcam", Gaspar (38sec) SC (PraÁa Prefeitura) - Brasil
+#EXTINF:-1 group-title="Webcam", Gaspar (38sec) SC (Pra√ßa Prefeitura) - Brasil
 rtmp://www.streambnu.info:1935/gaspar_crvale_01/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/gaspar/pracaprefeitura live=1
 #EXTINF:-1 group-title="Webcam", Gaspar (38sec) SC (Trevo Parolli) - Brasil
 rtmp://www.streambnu.info:1935/gaspar_crvale_03/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/gaspar/trevogasparparolli live=1
-#EXTINF:-1 group-title="Webcam", Goi‚nia (38sec) GO (Avenida 85) - Brasil
+#EXTINF:-1 group-title="Webcam", Goi√¢nia (38sec) GO (Avenida 85) - Brasil
 rtmp://www.streambnu.info:1935/Goiania2 playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/goiania/avenida85 live=1
-#EXTINF:-1 group-title="Webcam", Goi‚nia (38sec) GO (Avenida T7) - Brasil
+#EXTINF:-1 group-title="Webcam", Goi√¢nia (38sec) GO (Avenida T7) - Brasil
 rtmp://www.streambnu.info:1935/goiania4 playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/goiania/avenidat7 live=1
-#EXTINF:-1 group-title="Webcam", Goi‚nia (38sec) GO (IPOG) - Brasil
+#EXTINF:-1 group-title="Webcam", Goi√¢nia (38sec) GO (IPOG) - Brasil
 rtmp://www.streambnu.info:1935/Goiania5/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/goiania/ipog live=1
 #EXTINF:-1 group-title="Webcam", Guabiruba (38sec) - Brasil
 rtmp://www.streambnu.info:1935/Guabiruba_MunicipioMais_01/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/guabiruba/ruabrusque live=1
-#EXTINF:-1 group-title="Webcam", Lauro de Freitas (38sec) BA (Vilas do Atl‚ntico) - Brasil
+#EXTINF:-1 group-title="Webcam", Lauro de Freitas (38sec) BA (Vilas do Atl√¢ntico) - Brasil
 rtmp://www.streambnu.info:1935/BA_Salv_06/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/lauro_de_freitas/vilasdoatlantico-acessoprincipal live=1
 #EXTINF:-1 group-title="Webcam", Lauro de Freitas (38sec) BA (Estrada do Coco 1) - Brasil
 rtmp://www.streambnu.info:1935/BA_Salv_01/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/lauro_de_freitas/estradadococo-buscavida live=1
@@ -1271,21 +2352,21 @@ rtmp://www.streambnu.info:1935/BA_Salv_01/ playpath=default.stream swfUrl=http:/
 rtmp://www.streambnu.info:1935/BA_Salv_02/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/lauro_de_freitas/estradadococo-salvador live=1
 #EXTINF:-1 group-title="Webcam", Porto Alegre (38sec) (Aeroporto Salgado Filho) - Brasil
 rtmp://rtmp.0be3.upx.net.br:80/0be3_417 playpath=0be3_417.stream swfUrl=http://vejoaovivo.com.br/site/customcontrols/flowplayer.commercial-3.2.18.swf pageUrl=http://vejoaovivo.com.br/rs/porto-alegre/aeroporto-salgado-filho.html live=1
-#EXTINF:-1 group-title="Webcam", Salvador (38sec) BA (Av. Paralela / ImbuÌ) - Brasil
+#EXTINF:-1 group-title="Webcam", Salvador (38sec) BA (Av. Paralela / Imbu√≠) - Brasil
 rtmp://www.streambnu.info:1935/BA_Salv_03/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/salvador/avenidaparalela live=1
-#EXTINF:-1 group-title="Webcam", S„o Joaquim (38sec) SC (Vis„o panor‚mica 1) - Brasil
+#EXTINF:-1 group-title="Webcam", S√£o Joaquim (38sec) SC (Vis√£o panor√¢mica 1) - Brasil
 rtmp://www.streambnu.info:1935/saojoaquim1/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/saojoaquim/visaopanoramica1 live=1
-#EXTINF:-1 group-title="Webcam", S„o Joaquim (38sec) SC (Vis„o panor‚mica 2) - Brasil
+#EXTINF:-1 group-title="Webcam", S√£o Joaquim (38sec) SC (Vis√£o panor√¢mica 2) - Brasil
 rtmp://www.streambnu.info:1935/saojoaquim2/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/saojoaquim/visaopanoramica2 live=1
-#EXTINF:-1 group-title="Webcam", Umuarama (38sec) PR (Av. Paran· - Lago AratimbÛ) - Brasil
+#EXTINF:-1 group-title="Webcam", Umuarama (38sec) PR (Av. Paran√° - Lago Aratimb√≥) - Brasil
 rtmp://www.streambnu.info:1935/portalCidade_03/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/umuarama/avparana-lagoaratimbo live=1
-#EXTINF:-1 group-title="Webcam", Umuarama (38sec) PR (Av. Paran· - Posto Itamaraty) - Brasil
+#EXTINF:-1 group-title="Webcam", Umuarama (38sec) PR (Av. Paran√° - Posto Itamaraty) - Brasil
 rtmp://www.streambnu.info:1935/portalCidade_04/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/umuarama/avparana-postoitamaraty live=1
-#EXTINF:-1 group-title="Webcam", Umuarama (38sec) PR (PraÁa Miguel Rossafa) - Brasil
+#EXTINF:-1 group-title="Webcam", Umuarama (38sec) PR (Pra√ßa Miguel Rossafa) - Brasil
 rtmp://www.streambnu.info:1935/portalCidade_02/ playpath=default.stream swfUrl=http://bnu.tv/player/swf/flowplayer.commercial-3.2.11.swf?v=42 pageUrl=http://bnu.tv/umuarama/praca-miguel-rossafa live=1
 #EXTINF:-1 group-title="Webcam", Rio de Janeiro (3sec)  (Brasil)
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=6593.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/brazil/riodejaneiro/?cam=rio_copacabana live=1
-#EXTINF:-1 group-title="Webcam", Punta Hermosa (35sec) - Per˙
+#EXTINF:-1 group-title="Webcam", Punta Hermosa (35sec) - Per√∫
 rtmp://202.74.46.56/live playpath=perupuntahermosa800.stream swfUrl=http://surfit.com/player.swf pageUrl=http:
 
 
@@ -1301,10 +2382,6 @@ http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
 http://www.deadlyblogger.com/NewRelease/maleficent.mp4
 #EXTINF:0 group-title="Movies", The Family (FILM)
 http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
-#EXTINF:0 group-title="Movies", Zis Boom Bah (1941)
-http://archive.org/download/zis_boom_bah/zis_boom_bah.mp4
-#EXTINF:0,Zouzou AKA Zou Zou (1934)
-http://archive.org/download/ZouzouAkaZouZoudecember211934/Zouzou1934MarcAllgretJosephineBakerEnFranais.mp4
 #EXTINF:0 group-title="Movies", 22 Jump Street
 http://www.deadlyblogger.com/NewRelease/22jump.mp4
 #EXTINF:0 group-title="Movies", 3 Days To Kill
@@ -1328,100 +2405,395 @@ http://www.deadlyblogger.com/NewRelease/oculus2014.mp4
 #EXTINF:0 group-title="Movies", The Wolverine
 http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
 
-#EXTINF:0 group-title="Movies", 20,000 Leagues Under The Sea 1916
-http://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4
-#EXTINF:0 group-title="Movies", 49th Parallel 1942
-http://archive.org/download/49thParallel/49thParallel.mp4
-#EXTINF:0 group-title="Movies", A Bride For Henry 1937 
-http://archive.org/download/bride_for_henry_ipod/bride_for_henry_512kb.mp4
+
+
+
+#EXTINF:0 group-title="Movies", The Hunt For Gollum 2009
+http://archive.org/download/TheHuntForGollum_291/TheHuntForGollum.640_512kb.mp4
+#EXTINF:0 group-title="Movies", The Chinese Room 2009
+http://archive.org/download/TheChineseRoom/thechineseroom.mp4
+#EXTINF:0 group-title="Movies", Sita Sings The Blues 2008
+http://archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_small.mp4
+#EXTINF:0 group-title="Movies", Wholesale Souls, Inc. 2006
+http://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
+#EXTINF:0 group-title="Movies", Warriors Of The Net 2002
+http://archive.org/download/warriors_of_net/warriors_full_1227_512kb.mp4
+#EXTINF:0 group-title="Movies", Samsara 2001
+http://archive.org/download/Samsara-PanNalin/Samsara_512kb.mp4
+#EXTINF:0 group-title="Movies", Escape From Sobibor 1987
+http://archive.org/download/Escape_From_Sobibor.avi/Escape_from_Sobibor_512kb.mp4
+#EXTINF:0 group-title="Movies", Virus 1980
+http://archive.org/download/cco_virus/ccoPublicDomainVirus_512kb.mp4
+#EXTINF:0 group-title="Movies", Star Odyssey Italian Star Wars 1979
+http://archive.org/download/StarOdysseyitalianStarWars1979/STAR_ODYSSEY_1979-desktop_512kb.mp4
+#EXTINF:0 group-title="Movies", Warhead 1977
+http://archive.org/download/Warhead-1977/PrisonerInTheMiddle-1977.mp4
+#EXTINF:0 group-title="Movies", Naked Massacre 1976
+http://archive.org/download/NakedMassacre1976/MoviePowderPresentsNakedMassacre_512kb.mp4
+#EXTINF:0 group-title="Movies", UFO: Target Earth 1974
+http://archive.org/download/UFO-TargetEarth/UFO-TargetEarth_512kb.mp4
+#EXTINF:0 group-title="Movies", Werewolf Of Washington 1973
+http://archive.org/download/werewolf_washington/werewolf_of_washington_512kb.mp4
+#EXTINF:0 group-title="Movies", Vengence Of The Zombies 1973
+http://archive.org/download/Vengence_of_the_Zombies/Vengence_of_the_Zombies_512kb.mp4
+#EXTINF:0 group-title="Movies", Socrates 1970
+http://archive.org/download/Socrates/Socratesr.Rossellini.1970_subtSpanish.mp4
+#EXTINF:0 group-title="Movies", Uncle Vanya 1970
+http://archive.org/download/Uncle_Vanya_1970/Uncle_Vanya_1970.mp4
+#EXTINF:0 group-title="Movies", White Sun Of The Desert 1970
+http://archive.org/download/WhiteSunOfTheDesert/WhiteSunOfTheDesert_512kb.mp4
+#EXTINF:0 group-title="Movies", Wake Me Up When The War Is Over 1969
+http://archive.org/download/WakeMeUpWhentheWarisOverKenBarryJimBackus1969goofyrip/WakeMeUpWhentheWarisOverKenBarryJimBackus1969goofyrip_512kb.mp4
+#EXTINF:0 group-title="Movies", Voyage To The Planet Of Prehistoric Women 1967
+http://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen_512kb.mp4
+#EXTINF:0 group-title="Movies", Yongary, Monster From The Deep 1967
+http://archive.org/download/Yongary-MonsterFromTheDeep/Yongara_512kb.mp4
+#EXTINF:0 group-title="Movies", War Of The Monsters 1966
+http://archive.org/download/WarOfTheMonsters1966_106/warofthemonsters.mpeg_512kb.mp4
+#EXTINF:0 group-title="Movies", Wild Guitar 1962
+http://archive.org/download/Wild_Guitar_1962/Wild_Guitar_512kb.mp4
+#EXTINF:0 group-title="Movies", Werewolf In A Girls' Dormitory 1962
+http://archive.org/download/Werewolf_In_A_Girls_Dormitory/Werewolf_In_A_Girls_Dormitory_512kb.mp4
+#EXTINF:0 group-title="Movies", Damon And Pythias 1962
+http://archive.org/download/DamonandPythias1962/DamonandPythias1962_512kb.mp4
+#EXTINF:0 group-title="Movies", Naked Youth 1961
+http://archive.org/download/NakedYouth/NakedYouth.mp4
+#EXTINF:0 group-title="Movies", Vulcan, Son of Jupiter 1961
+http://archive.org/download/VulcanSonOfJupiter/VulcanSonOfJupiter_512kb.mp4
+#EXTINF:0 group-title="Movies", Unfinished Task 1960
+http://archive.org/download/unfinished_task/unfinished_task_512kb.mp4
+#EXTINF:0 group-title="Movies", Assignment Outer Space 1960
+http://archive.org/download/AssignmentOuterSpace/AssignmentOuterSpacePresentedByMoviePowder_512kb.mp4
+#EXTINF:0 group-title="Movies", Attack Of The Giant Leeches 1959
+http://archive.org/download/AttackOfTheGiantLeeches/AttackOfTheGiantLeeches_512kb.mp4
 #EXTINF:0 group-title="Movies", A Bucket Of Blood 1959
 http://archive.org/download/ABucketOfBlood_409/ABucketOfBlood_512kb.mp4
-#EXTINF:0 group-title="Movies", A Christmas Carol 1910
-http://archive.org/download/AChristmasCarol/AChristmasCarol_512kb.mp4
-#EXTINF:0 group-title="Movies", A Close Call For Boston Blackie 1946
-http://archive.org/download/ACloseCallForBostonBlackie/ACloseCallForBostonBlackie.mp4
-#EXTINF:0 group-title="Movies", A Corner In Wheat 1909
-http://archive.org/download/ACornerInWheat/CornerInWheat_512kb.mp4
-#EXTINF:0 group-title="Movies", A Day's Pleasure 1919
-http://archive.org/download/ADaysPleasure/ADaysPleasure_512kb.mp4
-#EXTINF:0 group-title="Movies", A Face In The Fog 1936
-http://archive.org/download/Face_in_the_Fog_1936/Face_in_the_Fog_512kb.mp4
-#EXTINF:0 group-title="Movies", A Fool There Was 1915
-http://archive.org/download/A_Fool_There_Was/A_Fool_There_Was_512kb.mp4
-#EXTINF:0 group-title="Movies", A Night For Crime 1943
-http://archive.org/download/Night_for_Crime_1943/Night_for_Crime_1943.mp4
-#EXTINF:0 group-title="Movies", A Shot In The Dark 1935
-http://archive.org/download/AShotInTheDarkIPOD/ShotInTheDarkIPOD_512kb.mp4
-#EXTINF:0 group-title="Movies", A Shriek In The Night 1933
-http://archive.org/download/A_Shriek_in_the_Night/A_Shriek_in_the_Night_512kb.mp4
-#EXTINF:0 group-title="Movies", A Song For Miss Julie 1945
-http://archive.org/download/song_for_miss_julie/song_for_miss_julie_512kb.mp4
-#EXTINF:0 group-title="Movies", A Star Is Born 1937
-http://archive.org/download/AStarIsBorn/AStarIsBorn_512kb.mp4
-#EXTINF:0 group-title="Movies", A Stranger In Town 1943
-http://archive.org/download/Stranger_in_Town_1943/Stranger_in_Town_512kb.mp4
-#EXTINF:0 group-title="Movies", A Study In Scarlet 1933
-http://archive.org/download/A_Study_In_Scarlet/A_Study_In_Scarlet_512kb.mp4
-#EXTINF:0 group-title="Movies", A Tale Of A Vampire 1920
-http://archive.org/download/RobertWienesgenuineATaleOfAVampire1920/Genuine1920muet_512kb.mp4
-#EXTINF:0 group-title="Movies", A Yank In Libya 1942
-http://archive.org/download/a_yank_in_libya_ipod/AYankinLibya_512kb.mp4
-#EXTINF:0 group-title="Movies", Abilene 
-http://archive.org/download/AbileneTown/AbileneTown_512kb.mp4
-#EXTINF:0 group-title="Movies", Abraham Lincoln 1930
-http://archive.org/download/AbrahamLincoln_877/Abraham_Lincoln_1930.mp4
-#EXTINF:0 group-title="Movies", Aces And Eights 1936
-http://archive.org/download/aces_and_eights/aces_and_eights_512kb.mp4
-#EXTINF:0 group-title="Movies", Adventure Island 1942
-http://archive.org/download/AdventureIsland/AdventureIsland_512kb.mp4
-#EXTINF:0 group-title="Movies", Adventures Of Don Quixote 1933
-http://archive.org/download/DonQuixote/DonQuixote_512kb.mp4
-#EXTINF:0 group-title="Movies", Aerial Gunner 1943
-http://archive.org/download/aerial_gunner/aerial_gunner.mp4
-#EXTINF:0 group-title="Movies", Affairs Of Cappy Ricks 1938
-http://archive.org/download/affairs_of_cappy_ricks/affairs_of_cappy_ricks_512kb.mp4
-#EXTINF:0 group-title="Movies", Africa Screams 1949
-http://archive.org/download/AfricaScreams/Africa_Screams_512kb.mp4
-#EXTINF:0 group-title="Movies", Africa Speaks 1930
-http://archive.org/download/africa_speaks/africa_speaks_512kb.mp4
-#EXTINF:0 group-title="Movies", Air Devils 1938
-http://archive.org/download/AirDevils/AirDevils_512kb.mp4
-#EXTINF:0 group-title="Movies", Alaska Highway 1943
-http://archive.org/download/AlaskaHighway/AlaskaHighway_512kb.mp4
-#EXTINF:0 group-title="Movies", Alf's Button Afloat 1938
-http://archive.org/download/AlfsButtonAfloat/AlfsButtonAfloat.mp4
-#EXTINF:0 group-title="Movies", Alg
-http://archive.org/download/Algiers_/Algiers_512kb.mp4
-#EXTINF:0 group-title="Movies", Algiers 1938
-http://archive.org/download/Algiers_868/Algiers_512kb.mp4
-#EXTINF:0 group-title="Movies", Alibi Bye Bye 1935
-http://archive.org/download/AlibiByeBye/AlibiByeBye_512kb.mp4
+#EXTINF:0 group-title="Movies", Beast From Haunted Cave 1959
+http://archive.org/download/BeastFromHauntedCave/BeastFromHauntedCave_512kb.mp4
+#EXTINF:0 group-title="Movies", The Secret Life Of Adolf Hitler 1958
+http://archive.org/download/TheSecretLifeOfAdolfHitler/SecretLifeOfAdolphHitler_512kb.mp4
+#EXTINF:0 group-title="Movies", Walk The Dark Street 1956
+http://archive.org/download/WalkTheDarkStreet/WalkTheDarkStreet1956_512kb.mp4
+#EXTINF:0 group-title="Movies", Warning From Space 1956
+http://archive.org/download/Warning_From_Space_ACM/Warning_From_Space_512kb.mp4
+#EXTINF:0 group-title="Movies", Cartoon - High And Flighty 1955
+http://archive.org/download/OldToonTheater/highandflighty.mp4
+#EXTINF:0 group-title="Movies", Big Bluff 1955
+http://archive.org/download/big_bluff/big_bluff_512kb.mp4
+#EXTINF:0 group-title="Movies", Yellowneck 1955
+http://archive.org/download/Yellowneck1955cosmo/Yellowneck1955cosmo_512kb.mp4
+#EXTINF:0 group-title="Movies", Never Wave At A WAC 1953
+http://archive.org/download/NeverWaveAtAWAC/NeverWaveAtaWAC.mp4
+#EXTINF:0 group-title="Movies", Man In The Attic 1953
+http://archive.org/download/ManInTheAttic/ManInTheAtticPresentedByMoviePowder_512kb.mp4
+#EXTINF:0 group-title="Movies", Kansas PacifiC 1953
+http://archive.org/download/kansas_pacific_ipod/kansas_pacific_512kb.mp4
+#EXTINF:0 group-title="Movies", Captain Scarlett 1953
+http://archive.org/download/CaptainScarlett/CaptainScarlett_512kb.mp4
+#EXTINF:0 group-title="Movies", Captain Scarface 1953
+http://archive.org/download/captain_scarface/captain_scarface_512kb.mp4
+#EXTINF:0 group-title="Movies", Beneath The 12-Mile Reef 1953
+http://archive.org/download/BeneathThe12-mileReef1953-FullScreenVersion/Beneath_the_12-Mile_Reef_512kb.mp4
+#EXTINF:0 group-title="Movies", Beat The Devil 1953
+http://archive.org/download/BeatTheDevil1953/BeatTheDevil1954_512kb.mp4
+#EXTINF:0 group-title="Movies", Kid Monk Baroni 1952
+http://archive.org/download/Kid_Monk_Baroni/Kid_Monk_Baroni_512kb.mp4
+#EXTINF:0 group-title="Movies", Bela Lugosi Meets A Brooklyn Gorilla 1952
+http://archive.org/download/BelaLugosiMeetsaBrooklynGorilla/BelaLugosiMeetsaBrooklynGorilla_512kb.mp4
+#EXTINF:0 group-title="Movies", Vampire Over London 1952
+http://archive.org/download/VampireOverLondon1952/VampireOverLondon1952_512kb.mp4
+#EXTINF:0 group-title="Movies", Behave Yourself 1951
+http://archive.org/download/behave_yourself_ipod/behave_yourself_512kb.mp4
+#EXTINF:0 group-title="Movies", You Asked For It - Bela Lugosi 1952
+http://archive.org/download/YouAskedForIt_BelaLugosi/DUMONT_YouAskedForIt_Lugosi_512kb.mp4
+#EXTINF:0 group-title="Movies", Utopia 1951
+http://archive.org/download/utopia/Utopia_512kb.mp4
+#EXTINF:0 group-title="Movies", Vengeance Valley 1951
+http://archive.org/download/VengeanceValley/VengeanceValley_512kb.mp4
+#EXTINF:0 group-title="Movies", Unknown World 1951
+http://archive.org/download/UnknownWorld/UnknownWorld_512kb.mp4
+#EXTINF:0 group-title="Movies", Warning Red 1950
+http://archive.org/download/WarningRed/WarningRed_512kb.mp4
+#EXTINF:0 group-title="Movies", Woman On The Run 1950
+http://archive.org/download/Woman_on_the_Run/Woman_on_the_Run_512kb.mp4
 #EXTINF:0 group-title="Movies", Alimony 1949
 http://archive.org/download/Alimony/Alimony_512kb.mp4
-#EXTINF:0 group-title="Movies", All Over Town
-http://archive.org/download/AllOverTown_OlsenJohnson/AllOverTown.mp4
-#EXTINF:0 group-title="Movies", Amateur Crook 1937
-http://archive.org/download/Amateur_Crook_1937/Amateur_Crook_1937.mp4
-#EXTINF:0 group-title="Movies", An Arcadian Maid 1910
-http://archive.org/download/AnArcadianMaid_179/AnArcadianMaid_512kb.mp4
-#EXTINF:0 group-title="Movies", And Then There Were None 1945
-http://archive.org/download/AndThenThereWereNone/AndThenThereWereNone_512kb.mp4
-#EXTINF:0 group-title="Movies", Angel and the Ba
-http://archive.org/download/angel_and_the_badman/angel_and_the_badman_512kb.mp4
-#EXTINF:0 group-title="Movies", Angel on My Shou
-http://archive.org/download/angelOnMyShoulder/angel_on_my_shoulder.mp4
+#EXTINF:0 group-title="Movies", Africa Screams 1949
+http://archive.org/download/AfricaScreams/Africa_Screams_512kb.mp4
+#EXTINF:0 group-title="Movies", Calendar Girl 1948
+http://archive.org/download/calendar_girl/calendar_girl_512kb.mp4
+#EXTINF:0 group-title="Movies", Under California Stars 1948
+http://archive.org/download/under_california_stars/under_california_stars_512kb.mp4
+#EXTINF:0 group-title="Movies", Who Killed Doc Robbin? 1948
+http://archive.org/download/WhoKilledDocRobbin_773/WhoKilledDocR_512kb.mp4
+#EXTINF:0 group-title="Movies", Woman In Brown 1948
+http://archive.org/download/woman_in_brown/woman_in_brown_512kb.mp4
+#EXTINF:0 group-title="Movies", Women In The Night 1948
+http://archive.org/download/women_in_the_night/women_in_the_night_512kb.mp4
+#EXTINF:0 group-title="Movies", Whispering City 1947
+http://archive.org/download/WhisperingCity/WhisperingCity1947_512kb.mp4
+#EXTINF:0 group-title="Movies", A Close Call For Boston Blackie 1946
+http://archive.org/download/ACloseCallForBostonBlackie/ACloseCallForBostonBlackie.mp4
+#EXTINF:0 group-title="Movies", Whistle Stop 1946
+http://archive.org/download/Whistle_Stop/Whistle_Stop_512kb.mp4
 #EXTINF:0 group-title="Movies", Angel On My Shoulder 1946
 http://archive.org/download/angel_on_my_shoulder/angel_on_my_shoulder_512kb.mp4
+#EXTINF:0 group-title="Movies", And Then There Were None 1945
+http://archive.org/download/AndThenThereWereNone/AndThenThereWereNone_512kb.mp4
+#EXTINF:0 group-title="Movies", A Song For Miss Julie 1945
+http://archive.org/download/song_for_miss_julie/song_for_miss_julie_512kb.mp4
+#EXTINF:0 group-title="Movies", Utah 1945
+http://archive.org/download/Utah_/Utah_512kb.mp4
+#EXTINF:0 group-title="Movies", War Comes To America 1945
+http://archive.org/download/war_comes_to_america/war_comes_to_america_512kb.mp4
+#EXTINF:0 group-title="Movies", White Pongo 1945
+http://archive.org/download/WhitePongo/WhitePongo_512kb.mp4
+#EXTINF:0 group-title="Movies", Wildfire 1945
+http://archive.org/download/Wildfire/Wildfire_512kb.mp4
+#EXTINF:0 group-title="Movies", Woman In Green 1945
+http://archive.org/download/WomanInGreen720p1945/WomanInGreen720p.mp4
+#EXTINF:0 group-title="Movies", Voodoo Man 1944
+http://archive.org/download/VoodooMan1944/VoodooMan_512kb.mp4
+#EXTINF:0 group-title="Movies", Waterfront 1944
+http://archive.org/download/waterfront/waterfront_512kb.mp4
+#EXTINF:0 group-title="Movies", Wild Horse Phantom 1944
+http://archive.org/download/WildHorsePhantom/WildHorsePhantom_512kb.mp4
+#EXTINF:0 group-title="Movies", A Night For Crime 1943
+http://archive.org/download/Night_for_Crime_1943/Night_for_Crime_1943.mp4
+#EXTINF:0 group-title="Movies", A Stranger In Town 1943
+http://archive.org/download/Stranger_in_Town_1943/Stranger_in_Town_512kb.mp4
+#EXTINF:0 group-title="Movies", Aerial Gunner 1943
+http://archive.org/download/aerial_gunner/aerial_gunner.mp4
+#EXTINF:0 group-title="Movies", Alaska Highway 1943
+http://archive.org/download/AlaskaHighway/AlaskaHighway_512kb.mp4
+#EXTINF:0 group-title="Movies", War Of The Wildcats 1943
+http://archive.org/download/WarOfTheWildcats-JohnWayne1943/JohnWayne-WarOfTheWildcats1943_512kb.mp4
+#EXTINF:0 group-title="Movies", Where's My Man To-Nite 1943
+http://archive.org/download/WheresMyManTonight/WheresMyManTonight_512kb.mp4
+#EXTINF:0 group-title="Movies", We Dive At Dawn 1943
+http://archive.org/download/We_Dive_at_Dawn_1943/We_Dive_at_Dawn_512kb.mp4
+#EXTINF:0 group-title="Movies", Western Cyclone 1943
+http://archive.org/download/westerncyclone/WesternCyclone_512kb.mp4
+#EXTINF:0 group-title="Movies", Why We Fight: The Nazis Strike 1943
+http://archive.org/download/wwf_the_nazis_strike/the_nazis_strike_512kb.mp4
+#EXTINF:0 group-title="Movies", Why We Fight: War Comes To America 1943
+http://archive.org/download/wwf_war_comes_to_america/war_comes_to_america_512kb.mp4
+#EXTINF:0 group-title="Movies", Wolves Of The Range 1943
+http://archive.org/download/WolvesoftheRange/WolvesoftheRange_512kb.mp4
+#EXTINF:0 group-title="Movies", Why We Fight: Divide And Conquer 1943
+http://archive.org/download/wwf_divide_and_conquer/divide_and_conquer_512kb.mp4
+#EXTINF:0 group-title="Movies", Why We Fight: Prelude To War 1943
+http://archive.org/download/wwf_prelude_to_war/prelude_to_war_512kb.mp4
+#EXTINF:0 group-title="Movies", Why We Fight: The Battle Of Britain 1943
+http://archive.org/download/wwf_the_battle_of_britain/the_battle_of_britain_512kb.mp4
+#EXTINF:0 group-title="Movies", Why We Fight: The Battle Of China 1943
+http://archive.org/download/wwf_the_battle_of_china/the_battle_of_china_512kb.mp4
+#EXTINF:0 group-title="Movies", Why We Fight: The Battle Of Russia Part 1 1943
+http://archive.org/download/wwf_the_battle_of_russia_pt1/the_battle_of_russia_pt1_512kb.mp4
+#EXTINF:0 group-title="Movies", Why We Fight: The Battle Of Russia Part 2 1943
+http://archive.org/download/wwf_the_battle_of_russia_pt2/the_battle_of_russia_pt2_512kb.mp4
+#EXTINF:0 group-title="Movies", Unforgotten Crime 1942
+http://archive.org/download/UnforgottenCrime/UnforgottenCrime_512kb.mp4
+#EXTINF:0 group-title="Movies", War Dogs 1942
+http://archive.org/download/war_dogs/war_dogs_512kb.mp4
+#EXTINF:0 group-title="Movies", Western Mail 1942
+http://archive.org/download/western_mail/western_mail_512kb.mp4
+#EXTINF:0 group-title="Movies", Wildcat 1942
+http://archive.org/download/Wildcat_1942/Wildcat_1942.mp4
+#EXTINF:0 group-title="Movies", 49th Parallel 1942
+http://archive.org/download/49thParallel/49thParallel.mp4
+#EXTINF:0 group-title="Movies", A Yank In Libya 1942
+http://archive.org/download/a_yank_in_libya_ipod/AYankinLibya_512kb.mp4
+#EXTINF:0 group-title="Movies", Adventure Island 1942
+http://archive.org/download/AdventureIsland/AdventureIsland_512kb.mp4
+#EXTINF:0 group-title="Movies", Baby Face Morgan 1942
+http://archive.org/download/Baby.Face.Morgan/Baby.Face.Morgan_512kb.mp4
+#EXTINF:0 group-title="Movies", Wrecking Crew 1942
+http://archive.org/download/Wrecking_Crew_1942/Wrecking_Crew_1942_512kb.mp4
+#EXTINF:0 group-title="Movies", Back Room Boy 1942
+http://archive.org/download/back_room_boy_ipod/back_room_boy_512kb.mp4
+#EXTINF:0 group-title="Movies", X Marks The Spot 1942
+http://archive.org/download/x_marks_the_spot/x_marks_the_spot_512kb.mp4
+#EXTINF:0 group-title="Movies", Yanks Are Coming 1942
+http://archive.org/download/yanks_are_coming/yanks_are_coming_512kb.mp4
+#EXTINF:0 group-title="Movies", Zis Boom Bah (1941)
+http://archive.org/download/zis_boom_bah/zis_boom_bah.mp4
+#EXTINF:0 group-title="Movies", Escort Girl 1941
+http://archive.org/download/Escort_Girl_1941/Escort_Girl_512kb.mp4
+#EXTINF:0 group-title="Movies", Uncle Joe 1941
+http://archive.org/download/UncleJoe/Uncle_Joe_512kb.mp4
+#EXTINF:0 group-title="Movies", Underground Rustlers 1941
+http://archive.org/download/underground_rustlers/underground_rustlers_512kb.mp4
+#EXTINF:0 group-title="Movies", Up In The Air 1940
+http://archive.org/download/UpInTheAir/Up_in_the_Air_512kb.mp4
+#EXTINF:0 group-title="Movies", Where's That Fire 1940
+http://archive.org/download/WheresThatFire1940/WheresThatFire1940_512kb.mp4
+#EXTINF:0 group-title="Movies", Winners Of The West - Chapter 13 1940
+http://archive.org/download/WinnersOfTheWestChapter13/WW13_512kb.mp4
+#EXTINF:0 group-title="Movies", Back Door To Heaven 1939
+http://archive.org/download/Back_Door_to_Heaven/Back_Door_to_Heaven_512kb.mp4
+#EXTINF:0 group-title="Movies", Bad Boy 1939
+http://archive.org/download/bad_boy/bad_boy_512kb.mp4
 #EXTINF:0 group-title="Movies", Arrest Bulldog Drummond 1939
 http://archive.org/download/Arrest_Bulldog_Drummond/Arrest_Bulldog_Drummond_1939_512kb.mp4
-#EXTINF:0 group-title="Movies", As You Lik
-http://archive.org/download/AsYouLikeIt1936/AsYouLikeIt_512kb.mp4
+#EXTINF:0 group-title="Movies", Undercover Agent 1939
+http://archive.org/download/undercover_agent/undercover_agent_512kb.mp4
+#EXTINF:0 group-title="Movies", Sex Madness 1938
+http://archive.org/download/sex_madness/sex_madness_512kb.mp4
+#EXTINF:0 group-title="Movies", Water Rustlers 1938
+http://archive.org/download/water_rustlers/water_rustlers_512kb.mp4
+#EXTINF:0 group-title="Movies", Where The Buffalo Roam 1938
+http://archive.org/download/WheretheBuffaloRoam/WheretheBuffaloRoam.mp4
+#EXTINF:0 group-title="Movies", Where The West Begins 1938
+http://archive.org/download/WhereTheWestBegins1938/WhereTheWestBegins1938.mp4
+#EXTINF:0 group-title="Movies", While New York Sleeps 1938
+http://archive.org/download/WhileNewYorkSleeps/While-New-York-Sleeps-1938_1.mp4
+#EXTINF:0 group-title="Movies", Under The Big Top 1938
+http://archive.org/download/under_the_big_top/under_the_big_top_512kb.mp4
+#EXTINF:0 group-title="Movies", Under Western Stars 1938
+http://archive.org/download/UnderWesternStars/UnderWesternStars_512kb.mp4
+#EXTINF:0 group-title="Movies", Wives Under Suspicion 1938
+http://archive.org/download/Wives_under_Suspicion_1938/Wives_under_Suspicion_1938.mp4
+#EXTINF:0 group-title="Movies", Barefoot Boy 1938
+http://archive.org/download/barefoot_boy/barefoot_boy_512kb.mp4
+#EXTINF:0 group-title="Movies", Affairs Of Cappy Ricks 1938
+http://archive.org/download/affairs_of_cappy_ricks/affairs_of_cappy_ricks_512kb.mp4
+#EXTINF:0 group-title="Movies", Alf's Button Afloat 1938
+http://archive.org/download/AlfsButtonAfloat/AlfsButtonAfloat.mp4
+#EXTINF:0 group-title="Movies", Algiers 1938
+http://archive.org/download/Algiers_868/Algiers_512kb.mp4
+#EXTINF:0 group-title="Movies", Air Devils 1938
+http://archive.org/download/AirDevils/AirDevils_512kb.mp4
+#EXTINF:0 group-title="Movies", A Star Is Born 1937
+http://archive.org/download/AStarIsBorn/AStarIsBorn_512kb.mp4
+#EXTINF:0 group-title="Movies", A Bride For Henry 1937 
+http://archive.org/download/bride_for_henry_ipod/bride_for_henry_512kb.mp4
+#EXTINF:0 group-title="Movies", Atlantic Flight 1937
+http://archive.org/download/AtlanticFlight/AtlanticFlight_512kb.mp4
+#EXTINF:0 group-title="Movies", Bank Alarm 1937
+http://archive.org/download/bank_alarm/bank_alarm_512kb.mp4
+#EXTINF:0 group-title="Movies", Amateur Crook 1937
+http://archive.org/download/Amateur_Crook_1937/Amateur_Crook_1937.mp4
+#EXTINF:0 group-title="Movies", Young And Innocent 1937
+http://archive.org/download/YoungandInnocentTheGirlWasYoung/Young_and_Innocent_512kb.mp4
+#EXTINF:0 group-title="Movies", Yodelin' Kid From Pine Ridge 1937
+http://archive.org/download/YodelinKidofPineRidge/YodelinKidofPineRidge.mp4
+#EXTINF:0 group-title="Movies", What Price Vengeance 1937
+http://archive.org/download/What_Price_Vengeance_1937/What_Price_Vengeance_512kb.mp4
+#EXTINF:0 group-title="Movies", Under The Red Robe 1937
+http://archive.org/download/UndertheRedRobeVSjostrom1937RMassey/UndertheRedRobeVSjostrom1937RMassey_512kb.mp4
+#EXTINF:0 group-title="Movies", Windjammer 1937
+http://archive.org/download/windjammer/windjammer_512kb.mp4
+#EXTINF:0 group-title="Movies", With Words And Music 1937
+http://archive.org/download/WithWordsandMusic/WithWordsandMusic_512kb.mp4
+#EXTINF:0 group-title="Movies", We're In The Legion Now! 1936
+http://archive.org/download/WereInTheLegionNow/Were.In.the.Legion.Now.1936.mp4
+#EXTINF:0 group-title="Movies", What Becomes Of The Children? 1936
+http://archive.org/download/what_becomes_of_the_children/what_becomes_of_the_children_512kb.mp4
+#EXTINF:0 group-title="Movies", Where There's A Will 1936
+http://archive.org/download/WhereTheresAWill/WhereTheresAWill_512kb.mp4
+#EXTINF:0 group-title="Movies", White Legion 1936
+http://archive.org/download/WhiteLegion/WhiteLegion-1936.mp4
+#EXTINF:0 group-title="Movies", Vengeance Of Rannah 1936
+http://archive.org/download/VengeanceofRannah/VengeanceofRannah_512kb.mp4
+#EXTINF:0 group-title="Movies", Wild Brian Kent 1936
+http://archive.org/download/Wild_Brian_Kent/Wild-Brian-Kent-1936_1.mp4
+#EXTINF:0 group-title="Movies", Wildcat Trooper 1936
+http://archive.org/download/Wildcat_Trooper/Wildcat_Trooper.mp4
+#EXTINF:0 group-title="Movies", Windbag The Sailor 1936
+http://archive.org/download/WindbagTheSailor/WindbagTheSailor_512kb.mp4
+#EXTINF:0 group-title="Movies", Winds Of The Wasteland 1936
+http://archive.org/download/Winds_of_the_Wasteland/Winds_of_the_Wasteland_512kb.mp4
+#EXTINF:0 group-title="Movies", Winterset 1936
+http://archive.org/download/Winterset/Winterset_512kb.mp4
+#EXTINF:0 group-title="Movies", Yellowstone 1936
+http://archive.org/download/Yellowstone_/Yellowstone_512kb.mp4
+#EXTINF:0 group-title="Movies", August Weekend 1936
+http://archive.org/download/AugustWeekend/August-Weekend-1936_1.mp4
+#EXTINF:0 group-title="Movies", A Face In The Fog 1936
+http://archive.org/download/Face_in_the_Fog_1936/Face_in_the_Fog_512kb.mp4
+#EXTINF:0 group-title="Movies", Aces And Eights 1936
+http://archive.org/download/aces_and_eights/aces_and_eights_512kb.mp4
+#EXTINF:0 group-title="Movies", A Shot In The Dark 1935
+http://archive.org/download/AShotInTheDarkIPOD/ShotInTheDarkIPOD_512kb.mp4
+#EXTINF:0 group-title="Movies", Wreckless 1935
+http://archive.org/download/Wreckless_/Wreckless.mp4
+#EXTINF:0 group-title="Movies", Alibi Bye Bye 1935
+http://archive.org/download/AlibiByeBye/AlibiByeBye_512kb.mp4
+#EXTINF:0 group-title="Movies", Waterfront Lady 1935
+http://archive.org/download/waterfront_lady_1935/waterfront_lady_512kb.mp4
+#EXTINF:0 group-title="Movies", What Price Crime? 1935
+http://archive.org/download/WhatPriceCrime/WhatPriceCrime-1935.mp4
+#EXTINF:0 group-title="Movies", When A Man's A Man 1935
+http://archive.org/download/WhenaMansaMan/WhenaMansaMan.mp4
+#EXTINF:0 group-title="Movies", Valley Of Wanted Men 1935
+http://archive.org/download/ValleyOfWantedMen/ValleyOfWantedMen-1935.mp4
+#EXTINF:0 group-title="Movies", Way Of The West 1934
+http://archive.org/download/way_of_the_west/way_of_the_west_512kb.mp4
+#EXTINF:0 group-title="Movies", West Of The Divide 1934
+http://archive.org/download/west_of_the_divide/west_of_the_divide_512kb.mp4
+#EXTINF:0 group-title="Movies", Woman In The Dark 1934
+http://archive.org/download/Woman_in_the_Dark_1934/Woman_in_the_Dark_1934_512kb.mp4
+#EXTINF:0,Zouzou AKA Zou Zou (1934)
+http://archive.org/download/ZouzouAkaZouZoudecember211934/Zouzou1934MarcAllgretJosephineBakerEnFranais.mp4
+#EXTINF:0 group-title="Movies", Young And Beautiful 1934
+http://archive.org/download/Young_and_Beautiful_1934/Young_and_Beautiful_1934.mp4
+#EXTINF:0 group-title="Movies", A Study In Scarlet 1933
+http://archive.org/download/A_Study_In_Scarlet/A_Study_In_Scarlet_512kb.mp4
+#EXTINF:0 group-title="Movies", A Shriek In The Night 1933
+http://archive.org/download/A_Shriek_in_the_Night/A_Shriek_in_the_Night_512kb.mp4
+#EXTINF:0 group-title="Movies", Adventures Of Don Quixote 1933
+http://archive.org/download/DonQuixote/DonQuixote_512kb.mp4
+#EXTINF:0 group-title="Movies", White Zombie 1932
+http://archive.org/download/WhiteZombie/White_Zombie_512kb.mp4
+#EXTINF:0 group-title="Movies", Without Honor 1932
+http://archive.org/download/WithoutHonor/WithoutHonor_512kb.mp4
+#EXTINF:0 group-title="Movies", U-67 1931
+http://archive.org/download/U-67-TheSeaGhost/U67.mp4
+#EXTINF:0 group-title="Movies", Whispering Whoopee 1930
+http://archive.org/download/WhisperingWhoopee/CharleyChase-1930-WhisperingWhoopee.mp4
+#EXTINF:0 group-title="Movies", Under Texas Skies 1930
+http://archive.org/download/UnderTexasSkies/UnderTexasSkies.mp4
+#EXTINF:0 group-title="Movies", Winning The West 1930
+http://archive.org/download/WinningtheWest/WinningtheWest.mp4
+#EXTINF:0 group-title="Movies", Abraham Lincoln 1930
+http://archive.org/download/AbrahamLincoln_877/Abraham_Lincoln_1930.mp4
+#EXTINF:0 group-title="Movies", Africa Speaks 1930
+http://archive.org/download/africa_speaks/africa_speaks_512kb.mp4
 #EXTINF:0 group-title="Movies", Ask Dad 1929
 http://archive.org/download/ask_dad/ask_dad_512kb.mp4
 #EXTINF:0 group-title="Movies", Asphalt 1929
 http://www.archive.org/download/Asphalt1929/Asphalt1929.mp4
-#EXTINF:0 group-title="Movies", Assignment Outer Space 1960
-http://archive.org/download/AssignmentOuterSpace/AssignmentOuterSpacePresentedByMoviePowder_512kb.mp4
+#EXTINF:0 group-title="Movies", Won In The Clouds 1928
+http://archive.org/download/WonInTheClouds/wonintheclouds_512kb.mp4
+#EXTINF:0 group-title="Movies", Wolf Blood 1925
+http://archive.org/download/WolfBlood1925/WolfBlood_512kb.mp4
+#EXTINF:0 group-title="Movies", West Of Hot Dog 1924
+http://archive.org/download/westofhotdog/WestOfHotDog_512kb.mp4
+#EXTINF:0 group-title="Movies", Back Stage Our Gang Comedy 1923
+http://archive.org/download/BackStageOurGangSilent1923/BackStage.mp4
+#EXTINF:0 group-title="Movies", Why Change Your Wife? 1920
+http://archive.org/download/Why_Change_Your_Wife/Why_Change_Your_Wife_512kb.mp4
+#EXTINF:0 group-title="Movies", A Tale Of A Vampire 1920
+http://archive.org/download/RobertWienesgenuineATaleOfAVampire1920/Genuine1920muet_512kb.mp4
+#EXTINF:0 group-title="Movies", Within Our Gates 1919
+http://archive.org/download/WithinOurGates/WithinOurGates_512kb.mp4
+#EXTINF:0 group-title="Movies", Back Stage 1919
+http://archive.org/download/Backstage_928/backstage_512kb.mp4
+#EXTINF:0 group-title="Movies", A Day's Pleasure 1919
+http://archive.org/download/ADaysPleasure/ADaysPleasure_512kb.mp4
+#EXTINF:0 group-title="Movies", Wife And Auto Trouble 1916
+http://archive.org/download/Wife_and_Auto_Trouble_1916/Wife_and_Auto_Trouble_1916_512kb.mp4
+#EXTINF:0 group-title="Movies", 20,000 Leagues Under The Sea 1916
+http://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4
+#EXTINF:0 group-title="Movies", A Fool There Was 1915
+http://archive.org/download/A_Fool_There_Was/A_Fool_There_Was_512kb.mp4
+#EXTINF:0 group-title="Movies", An Arcadian Maid 1910
+http://archive.org/download/AnArcadianMaid_179/AnArcadianMaid_512kb.mp4
+#EXTINF:0 group-title="Movies", A Christmas Carol 1910
+http://archive.org/download/AChristmasCarol/AChristmasCarol_512kb.mp4
+#EXTINF:0 group-title="Movies", A Corner In Wheat 1909
+http://archive.org/download/ACornerInWheat/CornerInWheat_512kb.mp4
 #EXTINF:0 group-title="Movies", Assorted Silent Comedy Shorts 1 1900
 http://archive.org/download/AssortedSilentComedyShorts1/OldComedy.mp4
 #EXTINF:0 group-title="Movies", Assorted Silent Comedy Shorts 2 1900
@@ -1440,100 +2812,53 @@ http://archive.org/download/AssortedSilentComedyShorts7/OldComedy7.mp4
 http://archive.org/download/AssortedSilentComedyShorts8/OldComedy8.mp4
 #EXTINF:0 group-title="Movies", Assorted Silent Comedy Shorts 9 1900
 http://archive.org/download/AssortedSilentComedyShorts9/OldComedy9.mp4
-#EXTINF:0 group-title="Movies", Atlantic Flight 1937
-http://archive.org/download/AtlanticFlight/AtlanticFlight_512kb.mp4
-#EXTINF:0 group-title="Movies", Attack Of The Giant Leeches 1959
-http://archive.org/download/AttackOfTheGiantLeeches/AttackOfTheGiantLeeches_512kb.mp4
-#EXTINF:0 group-title="Movies", August Weekend 1936
-http://archive.org/download/AugustWeekend/August-Weekend-1936_1.mp4
-#EXTINF:0 group-title="Movies", Baby Face Morgan 1942
-http://archive.org/download/Baby.Face.Morgan/Baby.Face.Morgan_512kb.mp4
-#EXTINF:0 group-title="Movies", Back Door To Heaven 1939
-http://archive.org/download/Back_Door_to_Heaven/Back_Door_to_Heaven_512kb.mp4
-#EXTINF:0 group-title="Movies", Back Room Boy 1942
-http://archive.org/download/back_room_boy_ipod/back_room_boy_512kb.mp4
-#EXTINF:0 group-title="Movies", Back Stage 1919
-http://archive.org/download/Backstage_928/backstage_512kb.mp4
-#EXTINF:0 group-title="Movies", Back Stage Our Gang Comedy 1923
-http://archive.org/download/BackStageOurGangSilent1923/BackStage.mp4
-#EXTINF:0 group-title="Movies", Bad Boy 1939
-http://archive.org/download/bad_boy/bad_boy_512kb.mp4
-#EXTINF:0 group-title="Movies", Bank Alarm 1937
-http://archive.org/download/bank_alarm/bank_alarm_512kb.mp4
-#EXTINF:0 group-title="Movies", Barefoot Boy 1938
-http://archive.org/download/barefoot_boy/barefoot_boy_512kb.mp4
-#EXTINF:0 group-title="Movies", Bar-Z Bad
-http://archive.org/download/Bar-ZBadMen/Bar-ZBadMen_512kb.mp4
-#EXTINF:0 group-title="Movies", Battle of G
-http://archive.org/download/BattleofGreed/BattleofGreed.mp4
-#EXTINF:0 group-title="Movies", Beast From Haunted Cave 1959
-http://archive.org/download/BeastFromHauntedCave/BeastFromHauntedCave_512kb.mp4
-#EXTINF:0 group-title="Movies", Beast Of Borneo 1934
-http://archive.org/download/BeastOfBorneo1934/BeastOfBorneo1934_512kb.mp4
-#EXTINF:0 group-title="Movies", Beat The Devil 1953
-http://archive.org/download/BeatTheDevil1953/BeatTheDevil1954_512kb.mp4
-#EXTINF:0 group-title="Movies", Beau Ideal 1931
-http://archive.org/download/BeauIdeal/BeauIdeal_512kb.mp4
-#EXTINF:0 group-title="Movies", Becky Sharp 1935
-http://archive.org/download/BeckySharp1935/BeckySharp1935_512kb.mp4
-#EXTINF:0 group-title="Movies", Bee's Buzz 1929
-http://archive.org/download/bees_buzz/bees_buzz_512kb.mp4
-#EXTINF:0 group-title="Movies", Bees In Paradise 1944
-http://archive.org/download/BeesInParadise/BeesInParadise_512kb.mp4
-#EXTINF:0 group-title="Movies", Before Morning 1933
-http://archive.org/download/BeforeMorning1933/BeforeMorning1933.mp4
-#EXTINF:0 group-title="Movies", Beggars Of Ermine 1934
-http://archive.org/download/beggars_in_ermine_ipod/beggars_in_ermine_512kb.mp4
-#EXTINF:0 group-title="Movies", Behave Your
-http://archive.org/download/behave_yourself_ipod/behave_yourself.mp4
-#EXTINF:0 group-title="Movies", Behave Yourself 1951
-http://archive.org/download/behave_yourself_ipod/behave_yourself_512kb.mp4
+
+
+
 #EXTINF:0 group-title="Movies", Behind Green Lights 1946
 http://archive.org/download/behind_green_lights/behind_green_lights_512kb.mp4
-#EXTINF:0 group-title="Movies", Behind Office D
-http://archive.org/download/BehindOfficeDoors/BehindOfficeDoors_512kb.mp4
-#EXTINF:0 group-title="Movies", Behind Stone Walls 1932
-http://archive.org/download/Behind_Stone_Walls_1932/Behind_Stone_Walls_1932.mp4
-#EXTINF:0 group-title="Movies", Bela Lugosi Meets A Brooklyn Gorilla 1952
-http://archive.org/download/BelaLugosiMeetsaBrooklynGorilla/BelaLugosiMeetsaBrooklynGorilla_512kb.mp4
-#EXTINF:0 group-title="Movies", Below The Deadline 1936
-http://archive.org/download/below_the_deadline_1936/below_the_deadline_512kb.mp4
-#EXTINF:0 group-title="Movies", Beneath The 12-Mile Reef 1953
-http://archive.org/download/BeneathThe12-mileReef1953-FullScreenVersion/Beneath_the_12-Mile_Reef_512kb.mp4
-#EXTINF:0 group-title="Movies", Be
-http://archive.org/download/Beware_/Beware_512kb.mp4
-#EXTINF:0 group-title="Movies", Beyond Bengal 1933
-http://archive.org/download/beyond_bengal/beyond_bengal_512kb.mp4
+#EXTINF:0 group-title="Movies", Captain Kidd 1945
+http://archive.org/download/CaptainKidd_/CaptainKidd_512kb.mp4
+#EXTINF:0 group-title="Movies", Bees In Paradise 1944
+http://archive.org/download/BeesInParadise/BeesInParadise_512kb.mp4
 #EXTINF:0 group-title="Movies", Beyond Tomorrow 1940
 http://archive.org/download/Beyond_Tomorrow/Beyond_Tomorrow_512kb.mp4
-#EXTINF:0 group-title="Movies", Big Bluff 1955
-http://archive.org/download/big_bluff/big_bluff_512kb.mp4
+#EXTINF:0 group-title="Movies", Bill Cracks Down 1937
+http://archive.org/download/BillCracksDown/BillCracksDown_512kb.mp4
+#EXTINF:0 group-title="Movies", Below The Deadline 1936
+http://archive.org/download/below_the_deadline_1936/below_the_deadline_512kb.mp4
+#EXTINF:0 group-title="Movies", Captain Cala 1936
+http://archive.org/download/captain_calamity_1936/captain_calamity.mp4
+#EXTINF:0 group-title="Movies", Captain Calamity 1936
+http://archive.org/download/captain_calamity_1936/captain_calamity_512kb.mp4
+#EXTINF:0 group-title="Movies", Becky Sharp 1935
+http://archive.org/download/BeckySharp1935/BeckySharp1935_512kb.mp4
+#EXTINF:0 group-title="Movies", Beggars Of Ermine 1934
+http://archive.org/download/beggars_in_ermine_ipod/beggars_in_ermine_512kb.mp4
+#EXTINF:0 group-title="Movies", Beast Of Borneo 1934
+http://archive.org/download/BeastOfBorneo1934/BeastOfBorneo1934_512kb.mp4
+#EXTINF:0 group-title="Movies", Before Morning 1933
+http://archive.org/download/BeforeMorning1933/BeforeMorning1933.mp4
+#EXTINF:0 group-title="Movies", Behind Stone Walls 1932
+http://archive.org/download/Behind_Stone_Walls_1932/Behind_Stone_Walls_1932.mp4
+#EXTINF:0 group-title="Movies", Beau Ideal 1931
+http://archive.org/download/BeauIdeal/BeauIdeal_512kb.mp4
+#EXTINF:0 group-title="Movies", Bee's Buzz 1929
+http://archive.org/download/bees_buzz/bees_buzz_512kb.mp4
+#EXTINF:0 group-title="Movies", Beyond Bengal 1933
+http://archive.org/download/beyond_bengal/beyond_bengal_512kb.mp4
 #EXTINF:0 group-title="Movies", Big Business Our Gand Silent 1924
 http://archive.org/download/BigBuisnessOurGangSilentFilm1924/BigBuisness.mp4
 #EXTINF:0 group-title="Movies", Big News 1929
 http://archive.org/download/BigNews/BigNews_512kb.mp4
-#EXTINF:0 group-title="Movies", Bill Cracks Down 1937
-http://archive.org/download/BillCracksDown/BillCracksDown_512kb.mp4
 #EXTINF:0 group-title="Movies", Bird of Para
 http://archive.org/download/Bird_of_Paradise_1932/BirdofParadise_512kb.mp4
 #EXTINF:0 group-title="Movies", Bold Cabal
 http://archive.org/download/The_Bold_Caballero/TheBoldCaballero_512kb.mp4
-#EXTINF:0 group-title="Movies", Calendar Girl 1948
-http://archive.org/download/calendar_girl/calendar_girl_512kb.mp4
 #EXTINF:0 group-title="Movies", Call Of The Wilderness 1932
 http://archive.org/download/call_of_the_wilderness/call_of_the_wilderness_512kb.mp4
 #EXTINF:0 group-title="Movies", Call Of The Yukon 1938
 http://archive.org/download/call_of_the_yukon_1938/call_of_the_yukon.mp4
-#EXTINF:0 group-title="Movies", Captain Cala
-http://archive.org/download/captain_calamity_1936/captain_calamity.mp4
-#EXTINF:0 group-title="Movies", Captain Calamity 1936
-http://archive.org/download/captain_calamity_1936/captain_calamity_512kb.mp4
-#EXTINF:0 group-title="Movies", Captain Kidd 1945
-http://archive.org/download/CaptainKidd_/CaptainKidd_512kb.mp4
-#EXTINF:0 group-title="Movies", Captain Scarface 1953
-http://archive.org/download/captain_scarface/captain_scarface_512kb.mp4
-#EXTINF:0 group-title="Movies", Captain Scarlett 1953
-http://archive.org/download/CaptainScarlett/CaptainScarlett_512kb.mp4
 #EXTINF:0 group-title="Movies", Car Of Dreams 1935
 http://archive.org/download/CarOfDreams1935/CarOfDreams1935_512kb.mp4
 #EXTINF:0 group-title="Movies", Cartoon - Acrobatty Bunny 1946
@@ -1542,22 +2867,24 @@ http://archive.org/download/OldToonTheater/AcrobattyBunny.mp4
 http://archive.org/download/OldToonTheater/BoskoTheTalk-inkKid1929.mp4
 #EXTINF:0 group-title="Movies", Cartoon - Congo Jazz 1930
 http://archive.org/download/OldToonTheater/congoJazz.mp4
-#EXTINF:0 group-title="Movies", Cartoon - High And Flighty 1955
-http://archive.org/download/OldToonTheater/highandflighty.mp4
 #EXTINF:0 group-title="Movies", Cartoon - Out Of The Inkwell: The Ouija Board 1920
 http://archive.org/download/OutOfTheInkwellTheOuijaBoard/OutOfTheInkwell-TheOuijaBoardmaxFleischer1920_512kb.mp4
 #EXTINF:0 group-title="Movies", Cartoon - Sinkin' In The Bathtub 1930
 http://archive.org/download/OldToonTheater/sinkin_in_the_bathtub.mp4
-#EXTINF:0 group-title="Movies", Charlie Chaplin - A Burlesque On Carmen 1915
-http://archive.org/download/PeliculasDeChaplin-1915/1915-12-18ABurlesqueOnCarmen_512kb.mp4
-#EXTINF:0 group-title="Movies", Charlie Chaplin - A Busy Day 1914
-http://archive.org/download/PeliculasDeChaplin-1914/1914-05-07ABusyDay_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - A Days Pleasure 1919
 http://archive.org/download/PeliculasDeChaplin-1916-1919/1919-12-15ADaysPleasure_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - A Dogs Life 1918
 http://archive.org/download/PeliculasDeChaplin-1916-1919/1918-04-14ADogsLife_512kb.mp4
-#EXTINF:0 group-title="Movies", Charlie Chaplin - A Fair Exchange 1914
-http://archive.org/download/PeliculasDeChaplin-1914/1914-12-05AFairExchange_512kb.mp4
+#EXTINF:0 group-title="Movies", Charlie Chaplin - Easy Street 1917
+http://archive.org/download/PeliculasDeChaplin-1916-1919/1917-01-22EasyStreet_512kb.mp4
+#EXTINF:0 group-title="Movies", Charlie Chaplin - Behind The Screen 1916
+http://archive.org/download/PeliculasDeChaplin-1916-1919/1916-11-13BehindTheScreen_512kb.mp4
+#EXTINF:0 group-title="Movies", Charlie Chaplin - A Burlesque On Carmen 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-12-18ABurlesqueOnCarmen_512kb.mp4
+#EXTINF:0 group-title="Movies", Charlie Chaplin - Charlie Shanghaied 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-10-04CharlieShanghaied_512kb.mp4
+#EXTINF:0 group-title="Movies", Charlie Chaplin - His New Job 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-02-01HisNewJob_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - A Jitney Elopement 1915
 http://archive.org/download/PeliculasDeChaplin-1915/1915-04-01AJitneyElopement_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - A Night In The Show 1915
@@ -1566,18 +2893,18 @@ http://archive.org/download/PeliculasDeChaplin-1915/1915-11-20ANightInTheShow_51
 http://archive.org/download/PeliculasDeChaplin-1915/1915-02-15ANightOut_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - A Woman 1915
 http://archive.org/download/PeliculasDeChaplin-1915/1915-07-12AWoman_512kb.mp4
-#EXTINF:0 group-title="Movies", Charlie Chaplin - Behind The Screen 1916
-http://archive.org/download/PeliculasDeChaplin-1916-1919/1916-11-13BehindTheScreen_512kb.mp4
-#EXTINF:0 group-title="Movies", Charlie Chaplin - Between Showers 1914
-http://archive.org/download/PeliculasDeChaplin-1914/1914-02-28BetweenShowers_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - By The Sea 1915
 http://archive.org/download/PeliculasDeChaplin-1915/1915-04-29ByTheSea_512kb.mp4
+#EXTINF:0 group-title="Movies", Charlie Chaplin - A Busy Day 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-05-07ABusyDay_512kb.mp4
+#EXTINF:0 group-title="Movies", Charlie Chaplin - A Fair Exchange 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-12-05AFairExchange_512kb.mp4
+#EXTINF:0 group-title="Movies", Charlie Chaplin - Between Showers 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-02-28BetweenShowers_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - Caught In A Caberet 1914
 http://archive.org/download/PeliculasDeChaplin-1914/1914-04-27CaughtinaCaberet_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - Caugth In A Rain 1914
 http://archive.org/download/PeliculasDeChaplin-1914/1914-05-04CaugthInARain_512kb.mp4
-#EXTINF:0 group-title="Movies", Charlie Chaplin - Charlie Shanghaied 1915
-http://archive.org/download/PeliculasDeChaplin-1915/1915-10-04CharlieShanghaied_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - Charlot Gargon De Theater 1914
 http://archive.org/download/PeliculasDeChaplin-1914/1914-08-01CharlotGargonDeTheater_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - Charlott Et Le Mannequin 1914
@@ -1588,16 +2915,12 @@ http://archive.org/download/PeliculasDeChaplin-1914/1914-10-29CharlottMabelAuxCo
 http://archive.org/download/PeliculasDeChaplin-1914/1914-03-26CruelCruelLove_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - Dough And Dynamite 1914
 http://archive.org/download/PeliculasDeChaplin-1914/1914-10-26DoughAndDynamite_512kb.mp4
-#EXTINF:0 group-title="Movies", Charlie Chaplin - Easy Street 1917
-http://archive.org/download/PeliculasDeChaplin-1916-1919/1917-01-22EasyStreet_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - Face On The Barroom Floor 1914
 http://archive.org/download/PeliculasDeChaplin-1914/1914-08-10FaceOnTheBarroomFloor_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - Film Johnny 1914
 http://archive.org/download/PeliculasDeChaplin-1914/1914-03-02FilmJohnny_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - His Favorite Pasttime 1914
 http://archive.org/download/PeliculasDeChaplin-1914/1914-03-16HisFavoritePasttime_512kb.mp4
-#EXTINF:0 group-title="Movies", Charlie Chaplin - His New Job 1915
-http://archive.org/download/PeliculasDeChaplin-1915/1915-02-01HisNewJob_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - His Prehistoric Past 1914
 http://archive.org/download/PeliculasDeChaplin-1914/1914-12-07HisPrehistoricPast_512kb.mp4
 #EXTINF:0 group-title="Movies", Charlie Chaplin - His Regeneration 1915
@@ -1686,16 +3009,10 @@ http://archive.org/download/PeliculasDeChaplin-1914/1914-04-20TwentyMinutesOfLov
 http://archive.org/download/PeliculasDeChaplin-1915/1915-06-21Work_512kb.mp4
 #EXTINF:0 group-title="Movies", C-Man 1949
 http://archive.org/download/C-Man/C-Man_512kb.mp4
-#EXTINF:0 group-title="Movies", Colo
-http://archive.org/download/Colorado_/Colorado_512kb.mp4
-#EXTINF:0 group-title="Movies", Cowboy and the Seno
-http://archive.org/download/CowboyAndTheSenorita/CowboyAndTheSenorita_512kb.mp4
 #EXTINF:0 group-title="Movies", D.O.A. 1955
 http://archive.org/download/doa_ipod/doa_512kb.mp4
 #EXTINF:0 group-title="Movies", Damaged Lives 1933
 http://archive.org/download/Damaged_Lives/Damaged_Lives_512kb.mp4
-#EXTINF:0 group-title="Movies", Damon And Pythias 1962
-http://archive.org/download/DamonandPythias1962/DamonandPythias1962_512kb.mp4
 #EXTINF:0 group-title="Movies", Danger Ahead 1935
 http://archive.org/download/danger_ahead_ipod/danger_ahead_512kb.mp4
 #EXTINF:0 group-title="Movies", Danger Flight 1939
@@ -1730,12 +3047,8 @@ http://archive.org/download/EasyVirtue1928/EasyVirtue1928_512kb.mp4
 http://archive.org/download/Elephant_Boy_/Elephant_Boy_.mp4
 #EXTINF:0 group-title="Movies", Escape By Night 1937
 http://archive.org/download/Escape.by.Night/Escape.by.Night_512kb.mp4
-#EXTINF:0 group-title="Movies", Escape From Sobibor 1987
-http://archive.org/download/Escape_From_Sobibor.avi/Escape_from_Sobibor_512kb.mp4
 #EXTINF:0 group-title="Movies", Escape To Paradise 1939
 http://archive.org/download/escape_to_paradise_ipod/escape_to_paradise_512kb.mp4
-#EXTINF:0 group-title="Movies", Escort Girl 1941
-http://archive.org/download/Escort_Girl_1941/Escort_Girl_512kb.mp4
 #EXTINF:0 group-title="Movies", Eternally Y
 http://archive.org/download/eternally_yours_ipod/eternally_yours.mp4
 #EXTINF:0 group-title="Movies", Eternally Yours 1939
@@ -1898,8 +3211,6 @@ http://archive.org/download/kangaroo/Kangaroo_512kb.mp4
 http://archive.org/download/kansas_city_confidential_ipod/kansascityconfidencial_512kb.mp4
 #EXTINF:0 group-title="Movies", Kansas Pac
 http://archive.org/download/KansasPacific/KansasPacific_512kb.mp4
-#EXTINF:0 group-title="Movies", Kansas PacifiC 1953
-http://archive.org/download/kansas_pacific_ipod/kansas_pacific_512kb.mp4
 #EXTINF:0 group-title="Movies", Keeper Of The Bees 1935
 http://archive.org/download/Keeper_of_the_Bees_1935/Keeper_of_the_Bees_512kb.mp4
 #EXTINF:0 group-title="Movies", Kentucky Blue Streak 1935
@@ -1910,8 +3221,6 @@ http://archive.org/download/KeptHusbands/KeptHusbands_512kb.mp4
 http://archive.org/download/KickinTheCrownAround/KickinTheCrownAround_512kb.mp4
 #EXTINF:0 group-title="Movies", Kid Dynamite 1943
 http://archive.org/download/kid_dynamite/kid_dynamitearchive_512kb.mp4
-#EXTINF:0 group-title="Movies", Kid Monk Baroni 1952
-http://archive.org/download/Kid_Monk_Baroni/Kid_Monk_Baroni_512kb.mp4
 #EXTINF:0 group-title="Movies", Kiki 1931
 http://archive.org/download/Kiki_/Kiki.mp4
 #EXTINF:0 group-title="Movies", Killer Dill 1947
@@ -2000,8 +3309,7 @@ http://archive.org/download/MakeaMillion/MakeaMillion.mp4
 http://archive.org/download/Make_A_Wish_1937/Make-A-Wish-1937_1.mp4
 #EXTINF:0 group-title="Movies", Man From Headquarters 1942
 http://archive.org/download/ManFromHeadquarters/Man-From-Headquarters-1942_1.mp4
-#EXTINF:0 group-title="Movies", Man In The Attic 1953
-http://archive.org/download/ManInTheAttic/ManInTheAtticPresentedByMoviePowder_512kb.mp4
+
 #EXTINF:0 group-title="Movies", Man Of The Forest 1933
 http://archive.org/download/ManoftheForest/ManoftheForest_512kb.mp4
 #EXTINF:0 group-title="Movies", Man Of The Frontier 1936
@@ -2048,10 +3356,6 @@ http://archive.org/download/my_love_for_yours_ipod/my_love_for_yours_512kb.mp4
 http://archive.org/download/my_man_godfrey/my_man_godfrey.mp4
 #EXTINF:0 group-title="Movies", Nabonga 1944
 http://archive.org/download/nabonga_1944/nabonga_512kb.mp4
-#EXTINF:0 group-title="Movies", Naked Massacre 1976
-http://archive.org/download/NakedMassacre1976/MoviePowderPresentsNakedMassacre_512kb.mp4
-#EXTINF:0 group-title="Movies", Naked Youth 1961
-http://archive.org/download/NakedYouth/NakedYouth.mp4
 #EXTINF:0 group-title="Movies", Nancy Drew, Reporter 1939
 http://archive.org/download/NancyDrewReporter/Nancy_Drew_Reporter_512kb.mp4
 #EXTINF:0 group-title="Movies", Nanook Of The North 1922
@@ -2072,8 +3376,6 @@ http://archive.org/download/Neighbors/frigoNeighbors_512kb.mp4
 http://archive.org/download/nevada_city/nevada_city_512kb.mp4
 #EXTINF:0 group-title="Movies", Never Too Late To Mend 1937
 http://archive.org/download/NeverTooLateToMend/Never-Too-Late-to-Mend-1937-03_1.mp4
-#EXTINF:0 group-title="Movies", Never Wave At A WAC 1953
-http://archive.org/download/NeverWaveAtAWAC/NeverWaveAtaWAC.mp4
 #EXTINF:0 group-title="Movies", Never Weaken 1921
 http://archive.org/download/NeverWeaken/NeverWeaken_512kb.mp4
 #EXTINF:0 group-title="Movies", New Faces 1954
@@ -2432,8 +3734,6 @@ http://archive.org/download/renegade_girl/renegade_girl_512kb.mp4
 http://archive.org/download/renfrew_of_the_royal_mounted/renfrew_of_the_royal_mounted_512kb.mp4
 #EXTINF:0 group-title="Movies", Renfrew On The Great White Trail 1938
 http://archive.org/download/OnTheGreatWhiteTrail/OnTheGreatWhiteTrail.mp4
-#EXTINF:0 group-title="Movies", Rescue From Gilligan's Island 1978
-http://archive.org/download/RescuefromGilligansIsland/RescuefromGilligansIsland_512kb.mp4
 #EXTINF:0 group-title="Movies", Return Of The Scarlet Pimpernel 1937
 http://archive.org/download/ReturnoftheScarletPimpernel/ReturnoftheScarletPimpernel_512kb.mp4
 #EXTINF:0 group-title="Movies", Revenge Of The Virgins 1959
@@ -2558,8 +3858,6 @@ http://archive.org/download/clacinonl_SaltOfTheEarth/salt_of_the_earth_512kb.mp4
 http://archive.org/download/Samogonshiki/Pes.Barbos.Samogonshiki.by.DW_512kb.mp4
 #EXTINF:0 group-title="Movies", Sam's Song 1969
 http://archive.org/download/SamsSong/SamsSong_512kb.mp4
-#EXTINF:0 group-title="Movies", Samsara 2001
-http://archive.org/download/Samsara-PanNalin/Samsara_512kb.mp4
 #EXTINF:0 group-title="Movies", Sanders Of The River 1935
 http://archive.org/download/SandersoftheRiver/SandersoftheRiver_512kb.mp4
 #EXTINF:0 group-title="Movies", Sands Of Sacrifice 1921
@@ -2620,8 +3918,6 @@ http://archive.org/download/SevenKeysToBaldpate/SevenKeysToBaldpate1917.mp4
 http://archive.org/download/Seven_Sinners_1936/Seven_Sinners_1936_512kb.mp4
 #EXTINF:0 group-title="Movies", Seven Were Saved 1947
 http://archive.org/download/seven_were_saved/seven_were_saved_512kb.mp4
-#EXTINF:0 group-title="Movies", Sex Madness 1938
-http://archive.org/download/sex_madness/sex_madness_512kb.mp4
 #EXTINF:0 group-title="Movies", Shadow Of Chinatown 1936
 http://archive.org/download/ShadowOfChinatown/BelaLugosiShadowOfChinatownFullMovie.mp4
 #EXTINF:0 group-title="Movies", Shadow Ranch 1930
@@ -2736,8 +4032,6 @@ http://archive.org/download/SinnersinParadise/SinnersinParadise_512kb.mp4
 http://archive.org/download/SisterStreetfighter1974/SisterStreetFighter_512kb.mp4
 #EXTINF:0 group-title="Movies", Sisters Of Death 1977
 http://archive.org/download/SistersofDeath/SistersofDeath_512kb.mp4
-#EXTINF:0 group-title="Movies", Sita Sings The Blues 2008
-http://archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_small.mp4
 #EXTINF:0 group-title="Movies", Sitting On The Moon 1936
 http://archive.org/download/SittingontheMoon/SittingontheMoon_512kb.mp4
 #EXTINF:0 group-title="Movies", Six Gun Trail 1938
@@ -2782,8 +4076,6 @@ http://archive.org/download/Snowbeast_436/MoviePowderPresentsSnowbeast_512kb.mp4
 http://archive.org/download/so_this_is_washington/so_this_is_washington_512kb.mp4
 #EXTINF:0 group-title="Movies", Sobaka 2008
 http://archive.org/download/Sobaka/sobaka.mp4
-#EXTINF:0 group-title="Movies", Socrates 1970
-http://archive.org/download/Socrates/Socratesr.Rossellini.1970_subtSpanish.mp4
 #EXTINF:0 group-title="Movies", Something To Sing About 1937
 http://archive.org/download/SomethingtoSingAbout/SomethingtoSingAbout_512kb.mp4
 #EXTINF:0 group-title="Movies", Son Of Ingagi 1940
@@ -2846,8 +4138,6 @@ http://archive.org/download/StageCoachtoDenver/StagecoachtoDenver_512kb.mp4
 http://archive.org/download/StampDayForSUPERMAN/StampDayForSUPERMAN_512kb.mp4
 #EXTINF:0 group-title="Movies", Stampede 1936
 http://archive.org/download/Stampede/Stampede_512kb.mp4
-#EXTINF:0 group-title="Movies", Star Odyssey Italian Star Wars 1979
-http://archive.org/download/StarOdysseyitalianStarWars1979/STAR_ODYSSEY_1979-desktop_512kb.mp4
 #EXTINF:0 group-title="Movies", Star Reporter 1939
 http://archive.org/download/star_reporter/star_reporter_512kb.mp4
 #EXTINF:0 group-title="Movies", Stark Fear 1962
@@ -3184,8 +4474,6 @@ http://archive.org/download/TheChase_/TheChase_512kb.mp4
 http://archive.org/download/The_Cheat/The_Cheat_512kb.mp4
 #EXTINF:0 group-title="Movies", The Chinese Ring 1947
 http://archive.org/download/The_Chinese_Ring/The_Chinese_Ring_512kb.mp4
-#EXTINF:0 group-title="Movies", The Chinese Room 2009
-http://archive.org/download/TheChineseRoom/thechineseroom.mp4
 #EXTINF:0 group-title="Movies", The Choppers 1961
 http://archive.org/download/TheChoppers/TheChoppers_512kb.mp4
 #EXTINF:0 group-title="Movies", The Cocaine Fiends 1935
@@ -3238,7 +4526,7 @@ http://archive.org/download/Devil_Bat_movie/Devil_Bat_512kb.mp4
 http://archive.org/download/DeviloftheDesertAgainstSonofHercules/DeviloftheDesertAgainstSonofHercules_512kb.mp4
 #EXTINF:0 group-title="Movies", The Devil On Horseback 1936
 http://archive.org/download/TheDevilOnHorseback/The-Devil-On-Horseback-1936_1.mp4
-#EXTINF:0 group-title="Movies", The Devil¥s Messenger 1961
+#EXTINF:0 group-title="Movies", The Devil¬¥s Messenger 1961
 http://archive.org/download/The_Devils_Messenger/The_Devils_Messenger_512kb.mp4
 #EXTINF:0 group-title="Movies", The Devils Caveliers 1959
 http://archive.org/download/TheDevilsCaveliers/TheDevilsCaveliers_512kb.mp4
@@ -3410,8 +4698,6 @@ http://archive.org/download/TheHufflessPufflessDragon/HufflessPufflessDragon_512
 http://archive.org/download/TheHumanMonster720p1939/HumanMonster720p.mp4
 #EXTINF:0 group-title="Movies", The Hunchback Of Notre Dame 1923
 http://archive.org/download/The_Hunchback_of_Notre_Dame/The_Hunchback_of_Notre_Dame_512kb.mp4
-#EXTINF:0 group-title="Movies", The Hunt For Gollum 2009
-http://archive.org/download/TheHuntForGollum_291/TheHuntForGollum.640_512kb.mp4
 #EXTINF:0 group-title="Movies", The Idle Class 1921
 http://archive.org/download/TheIdleClass/TheIdleClass_512kb.mp4
 #EXTINF:0 group-title="Movies", The Impossible Kid 1982
@@ -3760,8 +5046,6 @@ http://archive.org/download/TheScreamingSkull1958/The-Screaming-Skull_512kb.mp4
 http://archive.org/download/TheSeaLion/TheSeaLion_512kb.mp4
 #EXTINF:0 group-title="Movies", The Second Woman 1951
 http://archive.org/download/The_Second_Woman_/The_Second_Woman__512kb.mp4
-#EXTINF:0 group-title="Movies", The Secret Life Of Adolf Hitler 1958
-http://archive.org/download/TheSecretLifeOfAdolfHitler/SecretLifeOfAdolphHitler_512kb.mp4
 #EXTINF:0 group-title="Movies", The Secret Of Doctor Kildare 1939
 http://archive.org/download/Secret_of_Doctor_Kildare_1939_2138/Secret_of_Dr._Kildare_512kb.mp4
 #EXTINF:0 group-title="Movies", The Secret Weapon 1942
@@ -4108,88 +5392,18 @@ http://archive.org/download/two_gun_man_from_harlem/two_gun_man_from_harlem_512k
 http://archive.org/download/TwoPlusFours/TwoPlusFours.mp4
 #EXTINF:0 group-title="Movies", Two Weeks To Live 1943
 http://archive.org/download/2_weeks_to_live/two_weeks_to_live_512kb.mp4
-#EXTINF:0 group-title="Movies", U-67 1931
-http://archive.org/download/U-67-TheSeaGhost/U67.mp4
-#EXTINF:0 group-title="Movies", UFO: Target Earth 1974
-http://archive.org/download/UFO-TargetEarth/UFO-TargetEarth_512kb.mp4
-#EXTINF:0 group-title="Movies", Uncle Joe 1941
-http://archive.org/download/UncleJoe/Uncle_Joe_512kb.mp4
-#EXTINF:0 group-title="Movies", Uncle Vanya 1970
-http://archive.org/download/Uncle_Vanya_1970/Uncle_Vanya_1970.mp4
-#EXTINF:0 group-title="Movies", Under California Stars 1948
-http://archive.org/download/under_california_stars/under_california_stars_512kb.mp4
-#EXTINF:0 group-title="Movies", Under Texas Skies 1930
-http://archive.org/download/UnderTexasSkies/UnderTexasSkies.mp4
-#EXTINF:0 group-title="Movies", Under The Big Top 1938
-http://archive.org/download/under_the_big_top/under_the_big_top_512kb.mp4
-#EXTINF:0 group-title="Movies", Under The Red Robe 1937
-http://archive.org/download/UndertheRedRobeVSjostrom1937RMassey/UndertheRedRobeVSjostrom1937RMassey_512kb.mp4
-#EXTINF:0 group-title="Movies", Under Western Stars 1938
-http://archive.org/download/UnderWesternStars/UnderWesternStars_512kb.mp4
-#EXTINF:0 group-title="Movies", Undercover Agent 1939
-http://archive.org/download/undercover_agent/undercover_agent_512kb.mp4
 #EXTINF:0 group-title="Movies", Undercover Men 1934
 http://archive.org/download/UndercoverMen/UndercoverMen-1934.mp4
-#EXTINF:0 group-title="Movies", Underground Rustlers 1941
-http://archive.org/download/underground_rustlers/underground_rustlers_512kb.mp4
-#EXTINF:0 group-title="Movies", Unfinished Task 1960
-http://archive.org/download/unfinished_task/unfinished_task_512kb.mp4
-#EXTINF:0 group-title="Movies", Unforgotten Crime 1942
-http://archive.org/download/UnforgottenCrime/UnforgottenCrime_512kb.mp4
-#EXTINF:0 group-title="Movies", Unknown World 1951
-http://archive.org/download/UnknownWorld/UnknownWorld_512kb.mp4
-#EXTINF:0 group-title="Movies", Up In The Air 1940
-http://archive.org/download/UpInTheAir/Up_in_the_Air_512kb.mp4
-#EXTINF:0 group-title="Movies", Uptown New 
-http://archive.org/download/UptownNewYork/UptownNewYork_512kb.mp4
-#EXTINF:0 group-title="Movies", Utah 1945
-http://archive.org/download/Utah_/Utah_512kb.mp4
-#EXTINF:0 group-title="Movies", Utopia 1951
-http://archive.org/download/utopia/Utopia_512kb.mp4
-#EXTINF:0 group-title="Movies", Valley Of Wanted Men 1935
-http://archive.org/download/ValleyOfWantedMen/ValleyOfWantedMen-1935.mp4
-#EXTINF:0 group-title="Movies", Vampire Over London 1952
-http://archive.org/download/VampireOverLondon1952/VampireOverLondon1952_512kb.mp4
-#EXTINF:0 group-title="Movies", Vengeance Of Rannah 1936
-http://archive.org/download/VengeanceofRannah/VengeanceofRannah_512kb.mp4
-#EXTINF:0 group-title="Movies", Vengeance Valley 1951
-http://archive.org/download/VengeanceValley/VengeanceValley_512kb.mp4
-#EXTINF:0 group-title="Movies", Vengence Of The Zombies 1973
-http://archive.org/download/Vengence_of_the_Zombies/Vengence_of_the_Zombies_512kb.mp4
-#EXTINF:0 group-title="Movies", Virus 1980
-http://archive.org/download/cco_virus/ccoPublicDomainVirus_512kb.mp4
-#EXTINF:0 group-title="Movies", Voodoo Man 1944
-http://archive.org/download/VoodooMan1944/VoodooMan_512kb.mp4
-#EXTINF:0 group-title="Movies", Vorlage 1997
-http://archive.org/download/VORLAGE/VORLAGE_512kb.mp4
-#EXTINF:0 group-title="Movies", Voyage To The Planet Of Prehistoric Women 1967
-http://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen_512kb.mp4
-#EXTINF:0 group-title="Movies", Vulcan, Son of Jupiter 1961
-http://archive.org/download/VulcanSonOfJupiter/VulcanSonOfJupiter_512kb.mp4
 #EXTINF:0 group-title="Movies", Wagon Wheels 1934
 http://archive.org/download/WagonWheels/WagonWheels-randolphScott_512kb.mp4
-#EXTINF:0 group-title="Movies", Wake Me Up When The War Is Over 1969
-http://archive.org/download/WakeMeUpWhentheWarisOverKenBarryJimBackus1969goofyrip/WakeMeUpWhentheWarisOverKenBarryJimBackus1969goofyrip_512kb.mp4
 #EXTINF:0 group-title="Movies", Wake Up And Dream 1934
 http://archive.org/download/WakeUpAndDream/RussieRossPresentsWakeUpDream.mp4
-#EXTINF:0 group-title="Movies", Walk The Dark Street 1956
-http://archive.org/download/WalkTheDarkStreet/WalkTheDarkStreet1956_512kb.mp4
 #EXTINF:0 group-title="Movies", Wallaby Jim Of The Islands 1937
 http://archive.org/download/WallabyJimOfTheIslands/WallabyJimOfTheIslands-1937.mp4
 #EXTINF:0 group-title="Movies", Waltzes From Vienna 1934
 http://archive.org/download/Waltzes_from_Vienna/Waltzes_from_Vienna_512kb.mp4
 #EXTINF:0 group-title="Movies", War Babies 1932
 http://archive.org/download/war_babies/war_babies_512kb.mp4
-#EXTINF:0 group-title="Movies", War Comes To America 1945
-http://archive.org/download/war_comes_to_america/war_comes_to_america_512kb.mp4
-#EXTINF:0 group-title="Movies", War Dogs 1942
-http://archive.org/download/war_dogs/war_dogs_512kb.mp4
-#EXTINF:0 group-title="Movies", War Of The Monsters 1966
-http://archive.org/download/WarOfTheMonsters1966_106/warofthemonsters.mpeg_512kb.mp4
-#EXTINF:0 group-title="Movies", War Of The Wildcats 1943
-http://archive.org/download/WarOfTheWildcats-JohnWayne1943/JohnWayne-WarOfTheWildcats1943_512kb.mp4
-#EXTINF:0 group-title="Movies", Warhead 1977
-http://archive.org/download/Warhead-1977/PrisonerInTheMiddle-1977.mp4
 #EXTINF:0 group-title="Movies", Warner Brothers, Break Downs And Blow Ups 1936
 http://archive.org/download/Breakdowns_Blowups_1936-1947/1936Breakdowns_512kb.mp4
 #EXTINF:0 group-title="Movies", Warner Brothers, Break Downs And Blow Ups 1937
@@ -4208,165 +5422,44 @@ http://archive.org/download/Breakdowns_Blowups_1936-1947/BreakDowns1942_512kb.mp
 http://archive.org/download/Breakdowns_Blowups_1936-1947/1946BlowUps_512kb.mp4
 #EXTINF:0 group-title="Movies", Warner Brothers, Break Downs And Blow Ups 1947
 http://archive.org/download/Breakdowns_Blowups_1936-1947/1947BlowUps_512kb.mp4
-#EXTINF:0 group-title="Movies", Warning From Space 1956
-http://archive.org/download/Warning_From_Space_ACM/Warning_From_Space_512kb.mp4
-#EXTINF:0 group-title="Movies", Warning Red 1950
-http://archive.org/download/WarningRed/WarningRed_512kb.mp4
-#EXTINF:0 group-title="Movies", Warriors Of The Net 2002
-http://archive.org/download/warriors_of_net/warriors_full_1227_512kb.mp4
-#EXTINF:0 group-title="Movies", Water Rustlers 1938
-http://archive.org/download/water_rustlers/water_rustlers_512kb.mp4
-#EXTINF:0 group-title="Movies", Waterfront 1944
-http://archive.org/download/waterfront/waterfront_512kb.mp4
-#EXTINF:0 group-title="Movies", Waterfront Lady 1935
-http://archive.org/download/waterfront_lady_1935/waterfront_lady_512kb.mp4
-#EXTINF:0 group-title="Movies", Way Of The West 1934
-http://archive.org/download/way_of_the_west/way_of_the_west_512kb.mp4
-#EXTINF:0 group-title="Movies", We Dive At Dawn 1943
-http://archive.org/download/We_Dive_at_Dawn_1943/We_Dive_at_Dawn_512kb.mp4
-#EXTINF:0 group-title="Movies", We're In The Legion Now! 1936
-http://archive.org/download/WereInTheLegionNow/Were.In.the.Legion.Now.1936.mp4
-#EXTINF:0 group-title="Movies", Werewolf In A Girls' Dormitory 1962
-http://archive.org/download/Werewolf_In_A_Girls_Dormitory/Werewolf_In_A_Girls_Dormitory_512kb.mp4
-#EXTINF:0 group-title="Movies", Werewolf Of Washington 1973
-http://archive.org/download/werewolf_washington/werewolf_of_washington_512kb.mp4
-#EXTINF:0 group-title="Movies", West Of Hot Dog 1924
-http://archive.org/download/westofhotdog/WestOfHotDog_512kb.mp4
-#EXTINF:0 group-title="Movies", West Of The Divide 1934
-http://archive.org/download/west_of_the_divide/west_of_the_divide_512kb.mp4
-#EXTINF:0 group-title="Movies", Western Cyclone 1943
-http://archive.org/download/westerncyclone/WesternCyclone_512kb.mp4
-#EXTINF:0 group-title="Movies", Western Mail 1942
-http://archive.org/download/western_mail/western_mail_512kb.mp4
-#EXTINF:0 group-title="Movies", What Becomes Of The Children? 1936
-http://archive.org/download/what_becomes_of_the_children/what_becomes_of_the_children_512kb.mp4
-#EXTINF:0 group-title="Movies", What Price Crime? 1935
-http://archive.org/download/WhatPriceCrime/WhatPriceCrime-1935.mp4
-#EXTINF:0 group-title="Movies", What Price Vengeance 1937
-http://archive.org/download/What_Price_Vengeance_1937/What_Price_Vengeance_512kb.mp4
-#EXTINF:0 group-title="Movies", When A Man's A Man 1935
-http://archive.org/download/WhenaMansaMan/WhenaMansaMan.mp4
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 group-title="Movies", When's Your Birth
 http://archive.org/download/WhensYourBirthday/WhensYourBirthday_512kb.mp4
-#EXTINF:0 group-title="Movies", Where The Buffalo Roam 1938
-http://archive.org/download/WheretheBuffaloRoam/WheretheBuffaloRoam.mp4
-#EXTINF:0 group-title="Movies", Where The West Begins 1938
-http://archive.org/download/WhereTheWestBegins1938/WhereTheWestBegins1938.mp4
-#EXTINF:0 group-title="Movies", Where There's A Will 1936
-http://archive.org/download/WhereTheresAWill/WhereTheresAWill_512kb.mp4
-#EXTINF:0 group-title="Movies", Where's My Man To-Nite 1943
-http://archive.org/download/WheresMyManTonight/WheresMyManTonight_512kb.mp4
-#EXTINF:0 group-title="Movies", Where's That Fire 1940
-http://archive.org/download/WheresThatFire1940/WheresThatFire1940_512kb.mp4
-#EXTINF:0 group-title="Movies", While New York Sleeps 1938
-http://archive.org/download/WhileNewYorkSleeps/While-New-York-Sleeps-1938_1.mp4
-#EXTINF:0 group-title="Movies", Whispering City 1947
-http://archive.org/download/WhisperingCity/WhisperingCity1947_512kb.mp4
-#EXTINF:0 group-title="Movies", Whispering Whoopee 1930
-http://archive.org/download/WhisperingWhoopee/CharleyChase-1930-WhisperingWhoopee.mp4
-#EXTINF:0 group-title="Movies", Whistle Stop 1946
-http://archive.org/download/Whistle_Stop/Whistle_Stop_512kb.mp4
-#EXTINF:0 group-title="Movies", White Legion 1936
-http://archive.org/download/WhiteLegion/WhiteLegion-1936.mp4
-#EXTINF:0 group-title="Movies", White Pongo 1945
-http://archive.org/download/WhitePongo/WhitePongo_512kb.mp4
-#EXTINF:0 group-title="Movies", White Sun Of The Desert 1970
-http://archive.org/download/WhiteSunOfTheDesert/WhiteSunOfTheDesert_512kb.mp4
-#EXTINF:0 group-title="Movies", White Zombie 1932
-http://archive.org/download/WhiteZombie/White_Zombie_512kb.mp4
-#EXTINF:0 group-title="Movies", Who Killed Doc Robbin? 1948
-http://archive.org/download/WhoKilledDocRobbin_773/WhoKilledDocR_512kb.mp4
-#EXTINF:0 group-title="Movies", Wholesale Souls, Inc. 2006
-http://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
-#EXTINF:0 group-title="Movies", Why Change Your Wife? 1920
-http://archive.org/download/Why_Change_Your_Wife/Why_Change_Your_Wife_512kb.mp4
-#EXTINF:0 group-title="Movies", Why We Fight: Divide And Conquer 1943
-http://archive.org/download/wwf_divide_and_conquer/divide_and_conquer_512kb.mp4
-#EXTINF:0 group-title="Movies", Why We Fight: Prelude To War 1943
-http://archive.org/download/wwf_prelude_to_war/prelude_to_war_512kb.mp4
-#EXTINF:0 group-title="Movies", Why We Fight: The Battle Of Britain 1943
-http://archive.org/download/wwf_the_battle_of_britain/the_battle_of_britain_512kb.mp4
-#EXTINF:0 group-title="Movies", Why We Fight: The Battle Of China 1943
-http://archive.org/download/wwf_the_battle_of_china/the_battle_of_china_512kb.mp4
-#EXTINF:0 group-title="Movies", Why We Fight: The Battle Of Russia Part 1 1943
-http://archive.org/download/wwf_the_battle_of_russia_pt1/the_battle_of_russia_pt1_512kb.mp4
-#EXTINF:0 group-title="Movies", Why We Fight: The Battle Of Russia Part 2 1943
-http://archive.org/download/wwf_the_battle_of_russia_pt2/the_battle_of_russia_pt2_512kb.mp4
-#EXTINF:0 group-title="Movies", Why We Fight: The Nazis Strike 1943
-http://archive.org/download/wwf_the_nazis_strike/the_nazis_strike_512kb.mp4
-#EXTINF:0 group-title="Movies", Why We Fight: War Comes To America 1943
-http://archive.org/download/wwf_war_comes_to_america/war_comes_to_america_512kb.mp4
-#EXTINF:0 group-title="Movies", Wife And Auto Trouble 1916
-http://archive.org/download/Wife_and_Auto_Trouble_1916/Wife_and_Auto_Trouble_1916_512kb.mp4
-#EXTINF:0 group-title="Movies", Wild Brian Kent 1936
-http://archive.org/download/Wild_Brian_Kent/Wild-Brian-Kent-1936_1.mp4
-#EXTINF:0 group-title="Movies", Wild Country 1947
-http://archive.org/download/WildCountry/WildCountry.mp4
-#EXTINF:0 group-title="Movies", Wild Guitar 1962
-http://archive.org/download/Wild_Guitar_1962/Wild_Guitar_512kb.mp4
-#EXTINF:0 group-title="Movies", Wild Horse Phantom 1944
-http://archive.org/download/WildHorsePhantom/WildHorsePhantom_512kb.mp4
-#EXTINF:0 group-title="Movies", Wildcat 1942
-http://archive.org/download/Wildcat_1942/Wildcat_1942.mp4
-#EXTINF:0 group-title="Movies", Wildcat Trooper 1936
-http://archive.org/download/Wildcat_Trooper/Wildcat_Trooper.mp4
-#EXTINF:0 group-title="Movies", Wildfire 1945
-http://archive.org/download/Wildfire/Wildfire_512kb.mp4
-#EXTINF:0 group-title="Movies", Windbag The Sailor 1936
-http://archive.org/download/WindbagTheSailor/WindbagTheSailor_512kb.mp4
-#EXTINF:0 group-title="Movies", Windjammer 1937
-http://archive.org/download/windjammer/windjammer_512kb.mp4
-#EXTINF:0 group-title="Movies", Winds Of The Wasteland 1936
-http://archive.org/download/Winds_of_the_Wasteland/Winds_of_the_Wasteland_512kb.mp4
-#EXTINF:0 group-title="Movies", Winners Of The West - Chapter 13 1940
-http://archive.org/download/WinnersOfTheWestChapter13/WW13_512kb.mp4
-#EXTINF:0 group-title="Movies", Winning The West 1930
-http://archive.org/download/WinningtheWest/WinningtheWest.mp4
-#EXTINF:0 group-title="Movies", Winterset 1936
-http://archive.org/download/Winterset/Winterset_512kb.mp4
-#EXTINF:0 group-title="Movies", With Words And Music 1937
-http://archive.org/download/WithWordsandMusic/WithWordsandMusic_512kb.mp4
-#EXTINF:0 group-title="Movies", Within Our Gates 1919
-http://archive.org/download/WithinOurGates/WithinOurGates_512kb.mp4
-#EXTINF:0 group-title="Movies", Without Honor 1932
-http://archive.org/download/WithoutHonor/WithoutHonor_512kb.mp4
-#EXTINF:0 group-title="Movies", Wives Under Suspicion 1938
-http://archive.org/download/Wives_under_Suspicion_1938/Wives_under_Suspicion_1938.mp4
-#EXTINF:0 group-title="Movies", Wolf Blood 1925
-http://archive.org/download/WolfBlood1925/WolfBlood_512kb.mp4
-#EXTINF:0 group-title="Movies", Wolves Of The Range 1943
-http://archive.org/download/WolvesoftheRange/WolvesoftheRange_512kb.mp4
-#EXTINF:0 group-title="Movies", Woman In Brown 1948
-http://archive.org/download/woman_in_brown/woman_in_brown_512kb.mp4
-#EXTINF:0 group-title="Movies", Woman In Green 1945
-http://archive.org/download/WomanInGreen720p1945/WomanInGreen720p.mp4
-#EXTINF:0 group-title="Movies", Woman In The Dark 1934
-http://archive.org/download/Woman_in_the_Dark_1934/Woman_in_the_Dark_1934_512kb.mp4
-#EXTINF:0 group-title="Movies", Woman On The Run 1950
-http://archive.org/download/Woman_on_the_Run/Woman_on_the_Run_512kb.mp4
-#EXTINF:0 group-title="Movies", Women In The Night 1948
-http://archive.org/download/women_in_the_night/women_in_the_night_512kb.mp4
-#EXTINF:0 group-title="Movies", Won In The Clouds 1928
-http://archive.org/download/WonInTheClouds/wonintheclouds_512kb.mp4
-#EXTINF:0 group-title="Movies", Wrecking Crew 1942
-http://archive.org/download/Wrecking_Crew_1942/Wrecking_Crew_1942_512kb.mp4
-#EXTINF:0 group-title="Movies", Wreckless 1935
-http://archive.org/download/Wreckless_/Wreckless.mp4
-#EXTINF:0 group-title="Movies", X Marks The Spot 1942
-http://archive.org/download/x_marks_the_spot/x_marks_the_spot_512kb.mp4
-#EXTINF:0 group-title="Movies", Yanks Are Coming 1942
-http://archive.org/download/yanks_are_coming/yanks_are_coming_512kb.mp4
-#EXTINF:0 group-title="Movies", Yellowneck 1955
-http://archive.org/download/Yellowneck1955cosmo/Yellowneck1955cosmo_512kb.mp4
-#EXTINF:0 group-title="Movies", Yellowstone 1936
-http://archive.org/download/Yellowstone_/Yellowstone_512kb.mp4
-#EXTINF:0 group-title="Movies", Yodelin' Kid From Pine Ridge 1937
-http://archive.org/download/YodelinKidofPineRidge/YodelinKidofPineRidge.mp4
-#EXTINF:0 group-title="Movies", Yongary, Monster From The Deep 1967
-http://archive.org/download/Yongary-MonsterFromTheDeep/Yongara_512kb.mp4
-#EXTINF:0 group-title="Movies", You Asked For It - Bela Lugosi 1952
-http://archive.org/download/YouAskedForIt_BelaLugosi/DUMONT_YouAskedForIt_Lugosi_512kb.mp4
-#EXTINF:0 group-title="Movies", Young And Beautiful 1934
-http://archive.org/download/Young_and_Beautiful_1934/Young_and_Beautiful_1934.mp4
-#EXTINF:0 group-title="Movies", Young And Innocent 1937
-http://archive.org/download/YoungandInnocentTheGirlWasYoung/Young_and_Innocent_512kb.mp4
+#EXTINF:0 group-title="Movies", Uptown New 
+http://archive.org/download/UptownNewYork/UptownNewYork_512kb.mp4
+#EXTINF:0 group-title="Movies", Alg
+http://archive.org/download/Algiers_/Algiers_512kb.mp4
+#EXTINF:0 group-title="Movies", Abilene 
+http://archive.org/download/AbileneTown/AbileneTown_512kb.mp4
+#EXTINF:0 group-title="Movies", All Over Town
+http://archive.org/download/AllOverTown_OlsenJohnson/AllOverTown.mp4
+#EXTINF:0 group-title="Movies", Angel and the Ba
+http://archive.org/download/angel_and_the_badman/angel_and_the_badman_512kb.mp4
+#EXTINF:0 group-title="Movies", Angel on My Shou
+http://archive.org/download/angelOnMyShoulder/angel_on_my_shoulder.mp4
+#EXTINF:0 group-title="Movies", As You Lik
+http://archive.org/download/AsYouLikeIt1936/AsYouLikeIt_512kb.mp4
+#EXTINF:0 group-title="Movies", Bar-Z Bad
+http://archive.org/download/Bar-ZBadMen/Bar-ZBadMen_512kb.mp4
+#EXTINF:0 group-title="Movies", Battle of G
+http://archive.org/download/BattleofGreed/BattleofGreed.mp4
+#EXTINF:0 group-title="Movies", Be
+http://archive.org/download/Beware_/Beware_512kb.mp4
+#EXTINF:0 group-title="Movies", Behave Your
+http://archive.org/download/behave_yourself_ipod/behave_yourself.mp4
+
+#EXTINF:0 group-title="Movies", Behind Office D
+http://archive.org/download/BehindOfficeDoors/BehindOfficeDoors_512kb.mp4
+#EXTINF:0 group-title="Movies", Colo
+http://archive.org/download/Colorado_/Colorado_512kb.mp4
+#EXTINF:0 group-title="Movies", Cowboy and the Seno
+http://archive.org/download/CowboyAndTheSenorita/CowboyAndTheSenorita_512kb.mp4
