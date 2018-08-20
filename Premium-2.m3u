@@ -420,13 +420,13 @@ http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 
 #EXTINF:0 group-title="Webcam1", USA-Las Vegas -Nevada
 http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Broadway
+#EXTINF:0 group-title="Webcam1", Broadway NY
 http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", South View
+#EXTINF:0 group-title="Webcam1", South View NY
 http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Brooklyn Bridge
+#EXTINF:0 group-title="Webcam1", Brooklyn Bridge NY
 http://video3.earthcam.com/fecnetwork/3983.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Wedding chapel -Nevada
+#EXTINF:0 group-title="Webcam1", Wedding chapel -Nevada Las Vegas
 http://video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
 
 #EXTINF:0 group-title="Webcam1", BeachCam -South Carolina
