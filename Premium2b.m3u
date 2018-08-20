@@ -1,0 +1,937 @@
+#EXTM3U
+#EXTINF:0 group-title="TV", BeMad FHD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:0 group-title="TV", MULTIMEDIOS MONTERREY HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 group-title="TV", Azteca UNO
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:0 group-title="TV", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+#EXTINF:0 group-title="TV", Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:0 group-title="TV", Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:0 group-title="TV", MLB EN VIVO
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 group-title="TV", CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0 group-title="TV", Mexico - milenio_centro
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:0 group-title="TV", El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:0 group-title="TV", Canal 26 (News) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 group-title="TV", Xtremo channel (News) (ES) (Spanish)
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+#EXTINF:0 group-title="TV", (Entertainment) Catalan
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:0 group-title="TV", UANL TV Canal 53 México
+mms://streaming.uanl.mx/canal53bandaancha
+#EXTINF:0  group-title="TV", UNO TV HD 
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
+#EXTINF:0 group-title="TV", Sevilla Futbol Club TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:0 group-title="TV", Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
+#EXTINF:0 group-title="TV", CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0 group-title="TV", Patilla Vision
+https://www.youtube.com/watch?v=fMYOB9xzCPQ
+#EXTINF:0 group-title="TV", TeleSUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:0 group-title="TV", Real Madrid TV (España)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+
+#EXTINF:0 group-title="Mexico",TV Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:0 group-title="Mexico",Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+#EXTINF:0 group-title="Mexico",RCG TV Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:0 group-title="Mexico",RTG Guerrero
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:0 group-title="Mexico",TVMas Veracruz
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+#EXTINF:0 group-title="Mexico",TV MAS Veracruz México
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:0 group-title="Mexico",RTG Soy Guerero México
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0 group-title="Mexico",Televisión Querétaro México
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgentina
+
+
+
+#EXTINF:0  group-title="USA", Weather Channel 
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0 group-title="USA",PAC 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 group-title="USA",PAC 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 group-title="USA",PAC 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 group-title="USA",PAC 12 Whashington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 group-title="USA",NFL
+http://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_3000k.m3u8
+#EXTINF:0 group-title="USA",CDO OP2
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w72729836.m3u8
+#EXTINF:0 group-title="USA",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 group-title="USA", Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0 group-title="USA", Twit
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0 group-title="USA", TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0 group-title="USA", NOTV 41 New Orleans - LA Louisiana
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0 group-title="USA", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:0 group-title="USA", BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0 group-title="USA", CBN News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0 group-title="USA", C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="USA", C-SPAN Other content
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="USA", C-SPAN more Other content
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 group-title="USA", FOX 25 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
+#EXTINF:0 group-title="USA", FOX 59 News
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:0 group-title="USA", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:0 group-title="USA", BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0 group-title="USA", ABC News 2
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0 group-title="USA", RT Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:0 group-title="USA", TRT News
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0 group-title="USA", WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0 group-title="USA", Munchen 2
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
+#EXTINF:0 group-title="USA", RAIN WS24 Italy
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+#EXTINF:0 group-title="USA", TV Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:0 group-title="USA", 24H Catalan
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
+#EXTINF:0 group-title="USA", PAX TV HD
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:0 group-title="USA", Aliento Visión
+http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
+#EXTINF:0 group-title="USA", Bethel TV
+http://premium.exabytetv.info/livestream.php?acc=16199200&eve=4590066&token=QZPXF-1011000011010101011100111010100-ExabyteTV&f=.m3u8
+#EXTINF:0 group-title="USA", Condavisión
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:0 group-title="USA", CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0 group-title="USA", Esperanza TV
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+
+
+#EXTINF:0 group-title="Medio", NDTV INDIA
+http://ndtv.indostan.epac.to/ndtv/247lo/live/native
+#EXTINF:0 group-title="Medio", Al Jazeera 
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:0 group-title="Medio", VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0 group-title="Medio", CNN Turkia
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0 group-title="Medio", Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+
+
+
+
+#EXTINF:-1  group-title="Musica", HEART TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
+#EXTINF:-1  group-title="Musica", Telemusica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:0 group-title="Musica",HD ONE Music (720p)
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:0 group-title="Musica",Fresh TV Music (352p)
+http://wse.planeta-online.tv:1935/live/channel_4/master.m3u8
+#EXTINF:0 group-title="Musica",OneFM HD Music (720p)
+http://rtmp.infomaniak.ch/livecast/onefmhd/playlist.m3u8
+#EXTINF:0 group-title="Musica",Number One TV (270p)
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/master.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="Musica",OTTO 8 FM (540p)
+http://live.youiptv.ch:1935/8FM/ngrp%3a8FM_all/playlist.m3u8
+#EXTINF:0 group-title="Musica",ATOMIC
+rtmp://5.154.185.153/live/live.flv
+#EXTINF:0 group-title="Musica",Russian Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
+#EXTINF:0 group-title="Musica",4FUN.TV
+http://93.105.216.87:9981/stream/channelid/45?ticket=3ED09E6E447391F562C1D7DEAEEC6882E48F8DEE
+#EXTINF:0 group-title="Musica", Amazing Music
+http://live.tvplayerlatino.com/lista_remota/src3/jObqB.m3u8
+#EXTINF:0 group-title="Musica", Bandamax
+http://live.tvplayerlatino.com/lista_remota/src1/cxbdK.m3u8
+#EXTINF:0 group-title="Musica", Vevo Hip Hop
+http://live.tvplayerlatino.com/lista_remota/src3/vevhp.m3u8
+#EXTINF:0 group-title="Musica", Vevo TV
+http://live.tvplayerlatino.com/lista_remota/src4/TnzyN.m3u8
+#EXTINF:0 group-title="Musica", VH1 Classic
+http://live.tvplayerlatino.com/lista_remota/src1/KW2YQ.m3u8
+#EXTINF:0 group-title="Musica", VH1 HD
+http://live.tvplayerlatino.com/lista_remota/src1/eriD9.m3u8
+#EXTINF:0 group-title="Musica", Virgin TV
+http://live.tvplayerlatino.com/lista_remota/src3/virtv.m3u8
+#EXTINF:0 group-title="Musica", Mi Musica HD
+http://live.tvplayerlatino.com/lista_remota/src3/94Ab5.m3u8
+#EXTINF:0 group-title="Musica", Cantinazo TV
+http://live.tvplayerlatino.com/lista_remota/src3/G8ML9.m3u8
+#EXTINF:0 group-title="Musica", Capital TV
+http://live.tvplayerlatino.com/lista_remota/src3/YrMVO.m3u8
+#EXTINF:0 group-title="Musica", Djing Ibiza
+http://live.tvplayerlatino.com/lista_remota/src3/djitv.m3u8
+#EXTINF:0 group-title="Musica", Ritmoson Latino
+http://live.tvplayerlatino.com/lista_remota/src1/2xsUx.m3u8
+#EXTINF:0 group-title="Musica", Telehit
+http://live.tvplayerlatino.com/lista_remota/src1/LKqfP.m3u8
+#EXTINF:0 group-title="Musica", Tigo Music
+http://live.tvplayerlatino.com/lista_remota/src3/mZBvu.m3u8
+#EXTINF:0 group-title="Musica",4FUN HITS
+http://93.105.216.87:9981/stream/channelid/46?ticket=BC4E4EE923DD95348A4354F6BEE99034DE205630
+#EXTINF:0 group-title="Musica",Atomic
+rtmp://5.154.185.153/live/live.flv
+#EXTINF:0 group-title="Musica",Radio 105 (432p)
+rtmp://fms.105.net/live/105Test1
+
+
+
+
+
+
+
+
+#EXTINF:0  group-title="SUDAmerica", Canal 4 Rosario
+http://media203.services.digitar.net:1935/cablehogar/cablehogar/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", DeporTV (DXTV) Argentina
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0  group-title="SUDAmerica", Telemax Arg
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0  group-title="SUDAmerica", Telpin HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:0  group-title="SUDAmerica", Tele Vida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:0  group-title="SUDAmerica", TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:0  group-title="SUDAmerica", Canal 4 Jujuy
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", Canal 13 Chile
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Chilevision HD 720 Chile
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Chilevision Chile
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 9 Bio Bio HD 720
+http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8?MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 9 Bio Bio
+http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8?MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal del Vino Chile
+http://evo.eltelon.com:443/live/canaldelvinotv/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Cesfam TV Chile
+http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", DCH TV Chile
+http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", El Pingüino TV Chile
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 2 San Antonio Chile
+rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
+#EXTINF:0  group-title="SUDAmerica", Canal 2 ValleTV Chile
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", ATV Valdivia Chile
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
+#EXTINF:0  group-title="SUDAmerica", TV 4 Chile
+http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", TV Independencia Chile
+http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Campus TV Chile
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+
+#EXTINF:0 group-title="SUDAmerica", Quinta Vision Viña del Mar Chile
+http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 5 Linares Chile
+rtmp://v1.streaminglatinoamerica.com/canal5/canal5
+#EXTINF:0  group-title="SUDAmerica", TV Red Chile
+http://69.164.193.177:1935/live/myStream/chunklist.m3u8?wowzasessionid=2143164950
+#EXTINF:0  group-title="SUDAmerica", Canal 11 Punta del Este Uruguay
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", TV Publica HD 720 Argentina
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", TV Publica Argentina
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", El Trece HD 720 Argentina
+http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", El Trece Argentina
+http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", TeLeFe HD 720 Argentina
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-720/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", TeLeFe SD HQ Argentina
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", America TV HD 720 Argentina
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", America TV Argentina
+http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 9 Bs As Argentina (HTTP)
+http://72.46.226.61/live01/canal91/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Antena Negra Argentina
+http://servicioamerica.net:1935/8680/8680/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Magazine Argentina
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:0  group-title="SUDAmerica", Telemax Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Solo Tango Argentina
+mms://stream.tangocity.com.ar/tangocity
+#EXTINF:0  group-title="SUDAmerica", Telecreativa Lanús Argentina
+http://iphone-streaming.ustream.tv/uhls/18545628/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 5 Tigre Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Señal Provincial Argentina
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", U TV La Plata Argentina
+rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
+#EXTINF:0  group-title="SUDAmerica", Canal 4 Lobos Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/5808974/streams/live/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 29 Ensenada Argentina
+rtmp://panel.dattalive.com/8008/8008
+#EXTINF:0  group-title="SUDAmerica", Tele Junin Argentina
+rtmp://65.254.42.234/telejunin/telejunin
+#EXTINF:0  group-title="SUDAmerica", Canal 2 Santa Teresita
+mmsh://190.14.32.204:3905/
+#EXTINF:0  group-title="SUDAmerica", Canal 28 Mar del Plata
+http://iphone-streaming.ustream.tv/uhls/18752678/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 41 Mar del Plata
+rtmp://painel.serveron.com.br/8172/8172
+#EXTINF:0  group-title="SUDAmerica", Canal 79 Mar del Plata
+rtmp://painel.serveron.com.br:1935/8168/8168
+#EXTINF:0  group-title="SUDAmerica", Telpin Canal 2 HD 720 Pinamar Argentina
+rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
+#EXTINF:0  group-title="SUDAmerica", Canal 11 Mar de Ajó
+http://iphone-streaming.ustream.tv/ustreamVideo/18678216/streams/live/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", Canal 5 Olavarría Argentina
+http://iphone-streaming.ustream.tv/uhls/510556/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Celta TV Tres Arroyos Argentina
+http://iphone-streaming.ustream.tv/uhls/13952483/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 12 Zárate Argentina
+http://190.151.144.22:8083/canallocal.flv
+#EXTINF:0  group-title="SUDAmerica", Cable Hogar TV Rosario Argentina
+http://iphone-streaming.ustream.tv/uhls/8053481/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 13 San Luis Argentina
+http://iphone-streaming.ustream.tv/uhls/18347718/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", CCC San Luis Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/5031477/streams/live/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", CCC San Luis Argentina (Opc.2)
+http://iphone-streaming.ustream.tv/uhls/5031477/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Señal U Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/20087208/streams/live/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal C Córdoba Argentina
+http://iphone-streaming.ustream.tv/uhls/15263481/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Quatro TV Rio Cuarto Argentina
+rtmp://enhd.co/8938/8938
+#EXTINF:0  group-title="SUDAmerica", Canal 10 Cordoba Argentina
+http://iphone-streaming.ustream.tv/uhls/20251601/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 10 Cordoba Argentina (opc.2)
+http://iphone-streaming.ustream.tv/ustreamVideo/20251601/streams/live/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Imperio TV Rio Cuarto Argentina
+http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", El Once TV Entre Rios Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/8957585/streams/live/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 6 Entre Rios Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/9042949/streams/live/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 6 Entre Rios Argentina (Opc.2)
+http://iphone-streaming.ustream.tv/uhls/9042949/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 9 Paraná Argentina
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 10 Entre Rios Argentina
+http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", Canal 4 San Juan Argentina
+rtmp://streamlky.alsolnet.com:1935/canal4sanjuan/live
+#EXTINF:0  group-title="SUDAmerica", Canal 13 San Juan Argentina
+http://iphone-streaming.ustream.tv/uhls/7650561/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 9 La Rioja Argentina
+http://200.5.80.158:1935/vod/canal9/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 2 Misiones Argentina
+http://190.57.237.214/live/canal.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", 13 MAX TV Misiones Argentina
+rtsp://coninfo.info/13m
+#EXTINF:0  group-title="SUDAmerica", Litoral TV Corrienes Argentina
+http://iphone-streaming.ustream.tv/uhls/9160292/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 9 Salta Argentina
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8%20%20
+#EXTINF:0  group-title="SUDAmerica", Tele 10 Salta Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/14183607/streams/live/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 20 Salta Argentina
+http://iphone-streaming.ustream.tv/uhls/13425182/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", Canal 4 HD 720 Jujuy Argentina
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+#EXTINF:0  group-title="SUDAmerica", Canal 7 Jujuy Argentina
+mms://200.43.187.111/canal7
+
+#EXTINF:0  group-title="SUDAmerica", Canal 79 San Juan Argentina
+rtmp://painel.serveron.com.br:1935/8162/8162
+#EXTINF:0  group-title="SUDAmerica", Canal 4 Esquel Argentina
+rtmp://streamlky.alsolnet.com/canal4/live
+
+#EXTINF:0  group-title="SUDAmerica", Atreseries Español
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0  group-title="SUDAmerica", TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:0  group-title="SUDAmerica", Jasmin (720p)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:0  group-title="SUDAmerica", RTV Religion
+http://178.32.53.254/radiovida/mobile/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", Tele Uno TV Costa Rica
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:0  group-title="SUDAmerica", SMO TV Costa Rica
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:0  group-title="SUDAmerica", Canal 11 Venezuela Religion
+rtmp://edge.wms28.lorini.net/canalonce/canalonce
+#EXTINF:0  group-title="SUDAmerica", TVO Canal 23 Venezuela
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", Television Nacional de Ecuador
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+#EXTINF:0  group-title="SUDAmerica", UCSG TV Ecuador
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:0  group-title="SUDAmerica", Canal 2 Internac. Nicaragua
+rtmp://162.244.81.181:1935/live//Stream1
+#EXTINF:0  group-title="SUDAmerica", Campus TV Guatemala
+http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0  group-title="SUDAmerica", HCH Honduras
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+#EXTINF:0  group-title="SUDAmerica", Canal U Colombia
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+
+
+
+
+#EXTINF:0 group-title="Webcam1", USA-Las Vegas -Nevada
+http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Broadway NY
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", South View NY
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Brooklyn Bridge NY
+http://video3.earthcam.com/fecnetwork/3983.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Wedding chapel -Nevada Las Vegas
+http://video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
+
+#EXTINF:0 group-title="Webcam1", BeachCam -South Carolina
+http://video3.earthcam.com/fecnetwork/3635.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Red Rock Cam -Arizona
+http://video3.earthcam.com/fecnetwork/sedonawebcam.flv/hasbahca.m3u8
+#EXTINF:0 group-title="Webcam1", Düsseldorf Airport cam1
+rtmp://stream-5gw.1000eyes.de/rtplive//dus0600.stream
+#EXTINF:0 group-title="Webcam1",  New York (3sec) - Wall Street (USA)
+rtmp://video4.earthcam.com:1935/fecnetwork%20playpath=chargingbull.flv%20swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126%20pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
+#EXTINF:0 group-title="Webcam1", Biscayne Bay -Florida
+http://video3.earthcam.com/fecnetwork/miamivishd4.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Irish Kevin's Bar Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8
+#EXTINF:0 group-title="Webcam1", Irish Kevin's Duval Street Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
+#EXTINF:0 group-title="Webcam1", Irish Kevin's Stage Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
+#EXTINF:0 group-title="Webcam1", USA - Bayfield
+http://wse1.resortcams.com/live/bayfieldinn.stream/playlist.m3u8
+#EXTINF:0 group-title="Webcam1", USA - Bristol
+http://wse1.resortcams.com/live/bristol.stream/playlist.m3u8
+#EXTINF:0 group-title="Webcam1", USA - Fishy Cafe
+rtmp://208.43.68.139/surfchex/fishy-super
+#EXTINF:0 group-title="Webcam1", USA - Westland
+http://590804fbbbc47.streamlock.net:1935/westland/westland.stream/playlist.m3u8
+#EXTINF:0 group-title="Webcam1", USA-Destin -Florida
+http://video3.earthcam.com/fecnetwork/5424.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", USA-Oak Harbor -Washington
+http://video3.earthcam.com/fecnetwork/6172.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", USA-San Francisco -California
+http://video3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", USA-San Jacinto Monument -Texas
+http://video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", USA-Sante Fe -New Mexico
+http://video3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Berlin - 40 Seconds
+rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
+#EXTINF:0 group-title="Webcam1", Berlin - Restaurant Hugos/Hotel InterContinental
+rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
+#EXTINF:0 group-title="Webcam1",  Hawaii (4sec) Honolulu Hotel
+rtsp://66.175.76.125/axis-media/media.amp
+#EXTINF:0 group-title="Webcam1",  Street View (3sec)_USA
+rtsp://96.10.1.168:554/axis-media/media.amp
+#EXTINF:0 group-title="Webcam1",  Alaska (5sec)
+http://climatecam.gi.alaska.edu/mjpg/video.mjpg
+#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Bar Cam_Key West FL USA
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Duval Street Cam_Key West FL USA
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Stage Cam_Key West FL USA
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+#EXTINF:0 group-title="Webcam1", Africa 1
+http://stream.africam.com:1935/nk/nk.stream_source/playlist.m3u8
+#EXTINF:0 group-title="Webcam1", Africa 3
+http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
+#EXTINF:0 group-title="Webcam1", Africa 4
+http://stream.africam.com:1935/na/na.stream_source/playlist.m3u8
+#EXTINF:0 group-title="Webcam1", Africa 5
+http://stream.africam.com:1935/rc/rc.stream_source/playlist.m3u8
+
+
+#EXTINF:0 group-title="Webcam2", Abakan - El anillo del trabajo
+rtmp://91.219.96.146/live//nekrasova1
+#EXTINF:0 group-title="Webcam2", Abakan - Encrucijada de ADM
+rtmp://91.219.96.146/live//druzhbynarodov23
+#EXTINF:0 group-title="Webcam2", Abakan - Encrucijada de la amistad de los pueblos y Krylov
+rtmp://91.219.96.146/live//shchetinkina73
+#EXTINF:0 group-title="Webcam2", Abakan - Encrucijada de Nekrasov y Kirov
+rtmp://91.219.96.146/live//kirova204a
+#EXTINF:0 group-title="Webcam2", Abakan - Encrucijada de Nekrasov y Krylov
+rtmp://91.219.96.146/live//krylova85
+#EXTINF:0 group-title="Webcam2", Abakan - Crossroads Sovetskaya y Nekrasova
+rtmp://91.219.96.146/live//sovetskaya113
+#EXTINF:0 group-title="Webcam2", Aktau - costa del mar Caspio 14 m
+http://cam.x-com.kz:8081/caspy14/index.m3u8
+#EXTINF:0 group-title="Webcam2", Aktau - La costa del mar Caspio 15 mn
+http://cam.x-com.kz:8081/caspy15/index.m3u8
+#EXTINF:0 group-title="Webcam2", Aktau - El Mar Caspio 5/7 mrn
+http://cam.x-com.kz:8081/caspy5/index.m3u8
+#EXTINF:0 group-title="Webcam2", Aktau - Regiones superiores
+http://cam.x-com.kz:8081/yntymak/index.m3u8
+#EXTINF:0 group-title="Webcam2", Aktau - Teatro Dramático
+http://cam.x-com.kz:8081/dramteatr/index.m3u8
+#EXTINF:0 group-title="Webcam2", Aktau - Regiones bajas
+http://cam.x-com.kz:8081/downtown/index.m3u8
+#EXTINF:0 group-title="Webcam2", Argentina
+http://201.219.100.30:1935/camara-rambla//rambla.stream_720p/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", ARTEM - DK
+rtmp://81.200.144.3:1935/cam1/stream
+#EXTINF:0 group-title="Webcam2", Artem - El anillo
+rtmp://81.200.144.3:1935/cam3/stream
+#EXTINF:0 group-title="Webcam2", Artem - Area
+rtmp://81.200.144.3:1935/cam2/stream
+#EXTINF:0 group-title="Webcam2", {U+0410}strakhan 2
+http://176.100.100.186/cam3/index.m3u8
+#EXTINF:0 group-title="Webcam2", {U+0410}strakhan 3
+http://176.100.100.186/cam15/index.m3u8
+#EXTINF:0 group-title="Webcam2", Astrakhan 4
+http://176.100.100.186/cam19/index.m3u8
+#EXTINF:0 group-title="Webcam2", Astrakhan 5
+http://176.100.100.186/cam20/index.m3u8
+#EXTINF:0 group-title="Webcam2", Astrakhan 6
+http://176.100.100.186/cam28/index.m3u8
+#EXTINF:0 group-title="Webcam2", Astrakhan 7
+http://176.100.100.186/cam15/index.m3u8
+#EXTINF:0 group-title="Webcam2", Aeropuerto de Colonia / Bonn 1
+rtmp://stream-5gw.1000eyes.de/rtplive/cgnC8409D.stream
+#EXTINF:0 group-title="Webcam2", Aeropuerto de Colonia / Bonn 2
+rtmp://stream-5gw.1000eyes.de/rtplive/cgnC84090.stream
+#EXTINF:0 group-title="Webcam2", Aeropuerto de Colonia / Bonn 3
+rtmp://stream-5gw.1000eyes.de/rtplive/cgnCAA490.stream
+#EXTINF:0 group-title="Webcam2", Biysk 1
+http://cctv1.biisk.ru:8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 10
+http://cctv1.biisk.ru:8080/hls/180934/53663534f98f5479c774/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 11
+http://cctv1.biisk.ru:8080/hls/179642/6c4afedf5c44e100007c/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 12
+http://cctv1.biisk.ru:8080/hls/110612/c3a9c630d8054de8f810/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 13
+http://cctv1.biisk.ru:8080/hls/493/a5997fc2c553f5d4bf6f/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 14
+http://cctv1.biisk.ru:8080/hls/510357/56856f2bd8a9402e9d08/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 15
+http://cctv1.biisk.ru:8080/hls/814337/b3e8f84eeba4c85d924e/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 16
+http://cctv1.biisk.ru:8080/hls/2953/8da733afb8c422bd27ce/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 17
+http://cctv1.biisk.ru:8080/hls/482881/7ecbe0e1b720bba295e5/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 18
+http://cctv1.biisk.ru:8080/hls/687724/613b5a38b4ca26b7185b/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 19
+http://cctv1.biisk.ru:8080/hls/797779/cf9b272f5fc731f6a0fb/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 2
+http://cctv1.biisk.ru:8080/hls/594731/a379659e997bac4f5d1a/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 20
+http://cctv1.biisk.ru:8080/hls/355630/382e019f2610439ffb91/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 21
+http://cctv1.biisk.ru:8080/hls/188600/9f61ed5f48a5ef4eced8/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 22
+http://cctv1.biisk.ru:8080/hls/491413/0e15b8d35d6da34da17a/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 23
+http://cctv1.biisk.ru:8080/hls/357416/eaa67a0e03fdb0057696/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 24
+http://cctv1.biisk.ru:8080/hls/615945/b6e2670b4d91a0c2d350/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 25
+http://cctv1.biisk.ru:8080/hls/629256/1e7a15b8f402137dfb1c/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 26
+http://cctv1.biisk.ru:8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 27
+http://cctv1.biisk.ru:8080/hls/130038/f259e7e2d827f1f0168f/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 28
+http://cctv1.biisk.ru:8080/hls/389845/3c4d29c61d2d9b1a15c1/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 29
+http://cctv1.biisk.ru:8080/hls/388545/7868edc4b59da671ec25/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 3
+http://cctv1.biisk.ru:8080/hls/230453/178c952b7d1869584d04/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 30
+http://cctv1.biisk.ru:8080/hls/497/d6df5c0e8f982f9dca7f/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 31
+http://cctv1.biisk.ru:8080/hls/868905/de1245c4c64ea85a7fe8/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 32
+http://cctv1.biisk.ru:8080/hls/358711/c2735a61fc8b067df0a5/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 33
+http://cctv1.biisk.ru:8080/hls/483/7e7b18a8a42200863e5d/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 34
+http://cctv1.biisk.ru:8080/hls/16855/a821b71440124e5914d9/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 35
+http://cctv1.biisk.ru:8080/hls/714580/9ab09688ed63aee2e227/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 36
+http://cctv1.biisk.ru:8080/hls/178548/d46267d245a243786377/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 37
+http://cctv1.biisk.ru:8080/hls/676975/4caac64e4cd4e5f14536/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 38
+http://cctv1.biisk.ru:8080/hls/11938/1736d7f74799287cbc04/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 39
+http://cctv1.biisk.ru:8080/hls/881838/5b78c61db406dd6b6988/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 4
+http://cctv1.biisk.ru:8080/hls/185678/b896f95ec885d7ba112c/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 40
+http://cctv1.biisk.ru:8080/hls/364250/e9675faf7c5bf319e75c/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 41
+http://cctv1.biisk.ru:8080/hls/419227/904fc4d9fc2704b262e4/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 42
+http://cctv1.biisk.ru:8080/hls/5/452e70cecbafe495920d/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 43
+http://cctv1.biisk.ru:8080/hls/714510/a04f3417c6cfd40e859c/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 44
+http://cctv1.biisk.ru:8080/hls/348492/c710a58231a641930eb2/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 45
+http://cctv1.biisk.ru:8080/hls/423923/c9e8eb5ea7243d99ad17/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 46
+http://cctv1.biisk.ru:8080/hls/495/cae0b5d8a9b35e4b0e4e/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 47
+http://cctv1.biisk.ru:8080/hls/106439/d1f01417c1220c2fd823/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 48
+http://cctv1.biisk.ru:8080/hls/363946/3dfea2c2cf9932bec24f/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 49
+http://cctv1.biisk.ru:8080/hls/74202/a97bfc864469641845da/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 5
+http://cctv1.biisk.ru:8080/hls/3716/06bf19c7e1a9f32cfdf8/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 50
+http://cctv1.biisk.ru:8080/hls/19460/201b9b030ed27b71e15b/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 51
+http://cctv1.biisk.ru:8080/hls/21253/d3d13f51ba6100b514f1/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 52
+http://cctv1.biisk.ru:8080/hls/747833/941160d961d57bd8aeb4/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 53
+http://cctv1.biisk.ru:8080/hls/201962/2b4939cb9ede5c4831c8/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 54
+http://cctv1.biisk.ru:8080/hls/291366/070a3f9cc80cc3412bc8/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 55
+http://cctv1.biisk.ru:8080/hls/111452/1da81c9482a53f2713de/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 56
+http://cctv1.biisk.ru:8080/hls/187766/c8ac630191fa68293ee4/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 57
+http://cctv1.biisk.ru:8080/hls/262003/488d2a22430cc517594c/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 58
+http://cctv1.biisk.ru:8080/hls/811131/cb726aaabd6774a499c4/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 59
+http://cctv1.biisk.ru:8080/hls/489676/bbe69ba894578db7d79b/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 6
+http://cctv1.biisk.ru:8080/hls/27505/a70048d0ccd1bd594282/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 60
+http://cctv1.biisk.ru:8080/hls/488180/766d7dcab64aa5a59f4b/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 7
+http://cctv1.biisk.ru:8080/hls/615836/ea200b79cfe81f8b9ab8/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 8
+http://cctv1.biisk.ru:8080/hls/902370/67d5e778ca124e000717/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 9
+http://cctv1.biisk.ru:8080/hls/11184/ca1fad7866c9e129ebb5/playlist.m3u8
+
+
+#EXTINF:0 group-title="Webcam2", Achensee - Christlum
+rtmp://stream.livespotting.tv/windit-edge/vv148_720p.stream
+#EXTINF:0 group-title="Webcam2", Augsburg - Hotel Augusta
+rtmp://stream.livespotting.tv/windit-edge/vv73_720p.stream
+#EXTINF:0 group-title="Webcam2", Augsburg - Königsplatz
+rtmp://stream.livespotting.tv/windit-edge/vv39_450p.stream
+#EXTINF:0 group-title="Webcam2", Bad Brückenau - Kurverwaltung Bad Brückenau
+rtmp://stream.livespotting.tv/windit-edge/vv140_720p.stream
+#EXTINF:0 group-title="Webcam2", Baden-Baden - Hotel Magnetberg
+rtmp://stream.livespotting.tv/windit-edge/vv124_720p.stream
+#EXTINF:0 group-title="Webcam2", Bamberg - Klein Venedig
+rtmp://stream.livespotting.tv/windit-edge/vv79_720p.stream
+#EXTINF:0 group-title="Webcam2", Banja Luka (?????? ? ???????????) 1
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist.m3u8
+#EXTINF:0 group-title="Webcam2", Banja Luka (?????? ? ???????????) 2
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera01.stream_all/chunklist.m3u8
+#EXTINF:0 group-title="Webcam2", Bayreuth - Neues Rathaus
+rtmp://stream.livespotting.tv/windit-edge/vv107_720p.stream
+#EXTINF:0 group-title="Webcam2", Bielefeld - Stadthalle
+rtmp://stream.livespotting.tv/windit-edge/vv86_720p.stream
+#EXTINF:0 group-title="Webcam2", Binz - HOTEL AM MEER & SPA
+rtmp://stream.livespotting.tv/windit-edge/vv103_720p.stream
+#EXTINF:0 group-title="Webcam2", Bonn - Hausverwaltung Uwe Brodesser
+rtmp://stream.livespotting.tv/windit-edge/vv114_720p.stream
+#EXTINF:0 group-title="Webcam2", Bremen - Kontorhaus
+rtmp://stream.livespotting.tv/windit-edge/vv134_720p.stream
+#EXTINF:0 group-title="Webcam2", Bremerhaven - Hotel Atlantic Sail City
+rtmp://stream.livespotting.tv/windit-edge/vv106_720p.stream
+#EXTINF:0 group-title="Webcam2", Brunsbüttel - Schleuse
+rtmp://stream.livespotting.tv/windit-edge/vv37_720p.stream
+#EXTINF:0 group-title="Webcam2", Büsum - Familienlagune
+rtmp://stream.livespotting.tv/windit-edge/vv42_720p.stream
+#EXTINF:0 group-title="Webcam2", Büsum - Hauptstrand
+rtmp://stream.livespotting.tv/windit-edge/vv32_720p.stream
+#EXTINF:0 group-title="Webcam2", Büsum - Museumshafen
+rtmp://stream.livespotting.tv/windit-edge/vv33_720p.stream
+#EXTINF:0 group-title="Webcam2", Cats Meow Karaokebar -Louisiana
+http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam2", Chemnitz - HeiBe
+rtmp://stream.livespotting.tv/windit-edge/vv93_720p.stream
+#EXTINF:0 group-title="Webcam2", Columbus Circle
+http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam2", Crossroads
+http://video3.earthcam.com/fecnetwork/4717.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam2", Dortmund - Neues Stadthaus
+rtmp://stream.livespotting.tv/windit-edge/vv95_720p.stream
+#EXTINF:0 group-title="Webcam2", Dresden - Dresdner Aussicht
+rtmp://stream.livespotting.tv/windit-edge/vv59_720p.stream
+#EXTINF:0 group-title="Webcam2", Duisburg - Sportschule Wedau
+rtmp://stream.livespotting.tv/windit-edge/vv61_720p.stream
+#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam2
+rtmp://stream-5gw.1000eyes.de/rtplive//dus8a21.stream
+#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam3
+rtmp://stream-5gw.1000eyes.de/rtplive//dus2777.stream
+#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam4
+rtmp://stream-5gw.1000eyes.de/rtplive//dus275d.stream
+#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam5
+rtmp://stream-5gw.1000eyes.de/rtplive//dusbc0c.stream
+#EXTINF:0 group-title="Webcam2", Eckernförde - Hafen
+rtmp://stream.livespotting.tv/windit-edge/vv46_720p.stream
+#EXTINF:0 group-title="Webcam2", Eckernförde - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv45_720p.stream
+#EXTINF:0 group-title="Webcam2", Elburg - Netherlands
+rtmp://stream.livespotting.tv/windit-edge/LS_36290_720p.stream
+#EXTINF:0 group-title="Webcam2", Erfurt - KoWo
+rtmp://stream.livespotting.tv/windit-edge/vv101_720p.stream
+#EXTINF:0 group-title="Webcam2", Essen - Ruhrturm
+rtmp://stream.livespotting.tv/windit-edge/vv60_720p.stream
+#EXTINF:0 group-title="Webcam2", FallsCam -New Jersey
+http://video3.earthcam.com/fecnetwork/4918.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam2", Flensburg - Fjord Tourismus
+rtmp://stream.livespotting.tv/windit-edge/vv17_720p.stream
+#EXTINF:0 group-title="Webcam2", Frankfurt - Stadt Frankfurt am Main
+rtmp://stream.livespotting.tv/windit-edge/vv100_720p.stream
+#EXTINF:0 group-title="Webcam2", Freiburg - Volksbank
+rtmp://stream.livespotting.tv/windit-edge/vv112_720p.stream
+#EXTINF:0 group-title="Webcam2", Fulda - Schlossstraße
+rtmp://stream.livespotting.tv/windit-edge/vv62_720p.stream
+#EXTINF:0 group-title="Webcam2", Gaienhofen - Hotel Gasthaus Hirschen
+rtmp://stream.livespotting.tv/windit-edge/vv105_720p.stream
+#EXTINF:0 group-title="Webcam2", Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
+rtmp://stream.livespotting.tv/windit-edge/vv111_720p.stream
+#EXTINF:0 group-title="Webcam2", Gdansk - Brzezno molo
+http://hls12.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Gehlberg - Michael Gebser
+rtmp://stream.livespotting.tv/windit-edge/vv123_720p.stream
+#EXTINF:0 group-title="Webcam2", Germany
+http://ls11.webcamera.pl/karpacz_cam_133512/karpacz_cam_133512.stream/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Haffkrug - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv40_720p.stream
+#EXTINF:0 group-title="Webcam2", Halle - Mitteldeutsches Multimediazentrum
+rtmp://stream.livespotting.tv/windit-edge/vv115_720p.stream
+#EXTINF:0 group-title="Webcam2", Hamburg - Emporio
+rtmp://stream.livespotting.tv/windit-edge/vv47_720p.stream
+#EXTINF:0 group-title="Webcam2", Hamburg - Michel
+rtmp://stream.livespotting.tv/windit-edge/LS_b5586_720p.stream
+#EXTINF:0 group-title="Webcam2", Hamburg - Unileverhaus
+rtmp://stream.livespotting.tv/windit-edge/vv74_720p.stream
+#EXTINF:0 group-title="Webcam2", Hannover - Congress Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv71_720p.stream
+#EXTINF:0 group-title="Webcam2", Heidelberg - Hotel Panorama
+rtmp://stream.livespotting.tv/windit-edge/vv75_720p.stream
+#EXTINF:0 group-title="Webcam2", Heidelberg - PundM
+rtmp://stream.livespotting.tv/windit-edge/vv122_720p.stream
+#EXTINF:0 group-title="Webcam2", Hollywood Blvd -California
+http://video3.earthcam.com/fecnetwork/lacitytours1.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam2", Hörnum - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv7_720p.stream
+#EXTINF:0 group-title="Webcam2", INFORUM FARGO ND USA
+http://iphone-streaming.ustream.tv/uhls/13415669/streams/live/iphone/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Ischgl - Pardatschgrat Seilbahn
+rtmp://stream.livespotting.tv/windit-edge/vv157_720p.stream
+#EXTINF:0 group-title="Webcam2", Ischgl - Talstation
+rtmp://stream.livespotting.tv/windit-edge/vv128_720p.stream
+#EXTINF:0 group-title="Webcam2", Juist - Inselgemeinde Juist
+rtmp://stream.livespotting.tv/windit-edge/vv51_720p.stream
+#EXTINF:0 group-title="Webcam2", Juister Hof - Juist
+rtmp://stream.livespotting.tv/windit-edge/vv146_720p.stream
+#EXTINF:0 group-title="Webcam2", KASPROWY WIERCH
+http://www.vision-environnement.com:1935/live/krasprowy.stream/index.m3u8
+#EXTINF:0 group-title="Webcam2", KRAKÓW Grodzka 2
+http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", KRAKÓW rynek Podgórski
+http://hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", KRAKÓW widok na WAWEL
+http://hls1.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", KRAKÓW. plaza Live
+http://hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Kampen - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv49_720p.stream
+#EXTINF:0 group-title="Webcam2", Kassel - Best Western
+rtmp://stream.livespotting.tv/windit-edge/vv125_720p.stream
+#EXTINF:0 group-title="Webcam2", Kiel - Ostufer
+rtmp://stream.livespotting.tv/windit-edge/vv28_720p.stream
+#EXTINF:0 group-title="Webcam2", Kiel - Port of Kiel
+rtmp://stream.livespotting.tv/windit-edge/vv77_720p.stream
+#EXTINF:0 group-title="Webcam2", Kiel - Schleuse
+rtmp://stream.livespotting.tv/windit-edge/vv38_720p.stream
+#EXTINF:0 group-title="Webcam2", Kitzbühel - Hahnenkamm Bergstation
+rtmp://stream.livespotting.tv/windit-edge/vv121_720p.stream
+#EXTINF:0 group-title="Webcam2", Kitzbühel - Hotel Rasmushof
+rtmp://stream.livespotting.tv/windit-edge/vv143_720p.stream
+#EXTINF:0 group-title="Webcam2", Koblenz - Hotel Continental
+rtmp://stream.livespotting.tv/windit-edge/vv36_720p.stream
+#EXTINF:0 group-title="Webcam2", Kowal Park Kazimierza Wielkiego
+rtmp://176.103.33.5:1935/live/kowal2
+#EXTINF:0 group-title="Webcam2", Kowal Park Kazimierza Wielkiego 2
+rtmp://176.103.33.5:1935/live/kowal
+#EXTINF:0 group-title="Webcam2", Kolobrzeg molo
+http://hls14.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream_audio/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Krefeld - Garden Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv67_720p.stream
+#EXTINF:0 group-title="Webcam2", Krynica Zdroj
+http://hls1.webcamera.pl/nocowanie_cam_06a0f6/nocowanie_cam_06a0f6.stream/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Kwidzyn Stadnina koni
+http://hls1.webcamera.pl/kwidzyn_cam_5a33f5/kwidzyn_cam_5a33f5.stream/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Köln - Kölnturm
+rtmp://stream.livespotting.tv/windit-edge/vv69_720p.stream
+#EXTINF:0 group-title="Webcam2", Köln - Pullman Cologne
+rtmp://stream.livespotting.tv/windit-edge/vv99_720p.stream
+#EXTINF:0 group-title="Webcam2", Köln Heumarkt (Rhein- Domblick)
+rtmp://62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream
+#EXTINF:0 group-title="Webcam2", Kühlungsborn - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv35_450p.stream
+#EXTINF:0 group-title="Webcam2", Laboe - Ehrenmal
+rtmp://stream.livespotting.tv/windit-edge/vv82_720p.stream
+#EXTINF:0 group-title="Webcam2", Langeness - TU Harburg
+rtmp://stream.livespotting.tv/windit-edge/vv136_720p.stream
+#EXTINF:0 group-title="Webcam2", Lech am Arlberg
+rtmp://stream.livespotting.tv/windit-edge/vv22_720p.stream
+#EXTINF:0 group-title="Webcam2", Lermoos - Zugspitze
+rtmp://stream.livespotting.tv/windit-edge/vv120_720p.stream
+#EXTINF:0 group-title="Webcam2", Lindau - Bodensee
+rtmp://stream.livespotting.tv:1935/windit-edge/vv50_720p.stream
+#EXTINF:0 group-title="Webcam2", Lindau - Lindauer Hof
+rtmp://stream.livespotting.tv/windit-edge/vv113_720p.stream
+#EXTINF:0 group-title="Webcam2", Lübeck - MUK
+rtmp://stream.livespotting.tv/windit-edge/vv44_720p.stream
+#EXTINF:0 group-title="Webcam2", Lübeck - Radisson Blu
+rtmp://stream.livespotting.tv/windit-edge/vv64_720p.stream
+#EXTINF:0 group-title="Webcam2", Lüneburg - Hotel Bergström
+rtmp://stream.livespotting.tv/windit-edge/vv135_720p.stream
+#EXTINF:0 group-title="Webcam2", Midtown East
+http://video3.earthcam.com/fecnetwork/5321.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam2", Mönchengladbach - Best Western Crown
+rtmp://stream.livespotting.tv/windit-edge/vv118_720p.stream
+#EXTINF:0 group-title="Webcam2", München - Deutsche Eiche
+rtmp://stream.livespotting.tv/windit-edge/vv72_720p.stream
+#EXTINF:0 group-title="Webcam2", München - wetter.com-Redaktion
+rtmp://stream.livespotting.tv/windit-edge/vv55_450p.stream
+#EXTINF:0 group-title="Webcam2", Münster - Raphaelsklinik
+rtmp://stream.livespotting.tv/windit-edge/vv116_720p.stream
+#EXTINF:0 group-title="Webcam2", Münster - Stadthaus
+rtmp://stream.livespotting.tv/windit-edge/vv63_720p.stream
+#EXTINF:0 group-title="Webcam2", Neuharlingersiel - Hafen Ost
+rtmp://stream.livespotting.tv/windit-edge/vv12_450p.stream
+#EXTINF:0 group-title="Webcam2", Neuharlingersiel - Hafen West
+rtmp://stream.livespotting.tv/windit-edge/vv13_450p.stream
+#EXTINF:0 group-title="Webcam2", Neuharlingersiel - Panorama
+rtmp://stream.livespotting.tv/windit-edge/vv14_450p.stream
+#EXTINF:0 group-title="Webcam2", Niendorf - Meerwasserhallenbad
+rtmp://stream.livespotting.tv/windit-edge/vv81_720p.stream
+#EXTINF:0 group-title="Webcam2", Norderney - Zimmerservice - Norderney
+rtmp://stream.livespotting.tv/windit-edge/vv147_720p.stream
+#EXTINF:0 group-title="Webcam2", NoviSad Trg Slobode
+rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream
+#EXTINF:0 group-title="Webcam2", OLSZTYN - panorama miasta
+http://hls13.webcamera.pl/olsztyn_cam_43a997/olsztyn_cam_43a997.stream/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Oberstdorf - Hotel Exquisit
+rtmp://stream.livespotting.tv/windit-edge/vv137_720p.stream
+#EXTINF:0 group-title="Webcam2", Oberwiesenthal - Hotel Fichtelberghaus
+rtmp://stream.livespotting.tv/windit-edge/vv30_720p.stream
+#EXTINF:0 group-title="Webcam2", Oldenburg - Nordwest-Zeitung
+rtmp://stream.livespotting.tv/windit-edge/vv91_720p.stream
+#EXTINF:0 group-title="Webcam2", Passau - Hotel König
+rtmp://stream.livespotting.tv/windit-edge/vv98_720p.stream
+#EXTINF:0 group-title="Webcam2", Pelzerhaken - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv8_450p.stream
+#EXTINF:0 group-title="Webcam2", Pertisau am Achensee - Bergstation
+rtmp://stream.livespotting.tv/windit-edge/vv126_720p.stream
+#EXTINF:0 group-title="Webcam2", Pier -California
+http://video3.earthcam.com/fecnetwork/6253.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam2", Plougonvelin - Bretagne - France
+rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ALVOR
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CAPARICA S.JOÃO
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CARVALHAL
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: EVARISTO
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: GRANDE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: LEÇA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MEIA PRAIA
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: NAZARÉ
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: PRAIA DA GALÉ
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+
+
+
