@@ -419,16 +419,67 @@ http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 
 
 
+
 #EXTINF:0 group-title="Webcam1", USA-Las Vegas -Nevada
 http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Broadway NY
-http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", South View NY
-http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Brooklyn Bridge NY
-http://video3.earthcam.com/fecnetwork/3983.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam1", Wedding chapel -Nevada Las Vegas
 http://video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
+
+#EXTINF:0 group-title="Webcam1", Broadway NY
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Broadway NY  Street Cam
+http://video3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8
+#EXTINF:0 group-title="Webcam1", Broadway NY  North View 
+http://video3.earthcam.com/fecnetwork/485.flv/playlist.m3u8
+
+#EXTINF:0 group-title="Webcam1", Broadway South View NY
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Broadway Crossroads NY
+http://video3.earthcam.com/fecnetwork/4717.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Cats Meow Karaokebar -Louisiana
+http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Cats Meow Balcony - Lousiana
+http://video3.earthcam.com/fecnetwork/4282.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", New Orleans, LA - Bourbon Street
+http://video3.earthcam.com/fecnetwork/4280.flv/HasBahCa.m3u8
+
+#EXTINF:0 group-title="Webcam1", Florida Everglades
+http://video3.earthcam.com/fecnetwork/14162.flv/playlist.m3u8
+
+
+#EXTINF:0 group-title="Webcam1", Eiffel cam HD
+http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8
+
+#EXTINF:0 group-title="Webcam1", Mulberry France Street
+http://video3.earthcam.com/fecnetwork/5775.flv/playlist.m3u8
+
+#EXTINF:0 group-title="Webcam1", Chicago
+http://video3.earthcam.com/fecnetwork/13661.flv/playlist.m3u8
+
+#EXTINF:0 group-title="Webcam1", Manatee Cam US
+http://video3.earthcam.com/fecnetwork/14014.flv/playlist.m3u8
+
+#EXTINF:0 group-title="Webcam1", Miami Cafe US
+http://video3.earthcam.com/fecnetwork/15061.flv/playlist.m3u8
+
+#EXTINF:0 group-title="Webcam1", Mc Allen Texas
+http://video3.earthcam.com/fecnetwork/7461.flv/playlist.m3u8
+
+#EXTINF:0 group-title="Webcam1", Dallas Texas 1
+http://video3.earthcam.com/fecnetwork/7524.flv/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="Webcam1", Hollywood Blvd -California
+http://video3.earthcam.com/fecnetwork/lacitytours1.flv/HasBahCa.m3u8
+
+
+
+#EXTINF:0 group-title="Webcam1", Brooklyn Bridge NY
+http://video3.earthcam.com/fecnetwork/3983.flv/HasBahCa.m3u8
+
+#EXTINF:0 group-title="Webcam1", USA-San Francisco -California
+http://video3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8
 
 #EXTINF:0 group-title="Webcam1", BeachCam -South Carolina
 http://video3.earthcam.com/fecnetwork/3635.flv/HasBahCa.m3u8
@@ -458,8 +509,6 @@ http://590804fbbbc47.streamlock.net:1935/westland/westland.stream/playlist.m3u8
 http://video3.earthcam.com/fecnetwork/5424.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam1", USA-Oak Harbor -Washington
 http://video3.earthcam.com/fecnetwork/6172.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", USA-San Francisco -California
-http://video3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam1", USA-San Jacinto Monument -Texas
 http://video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam1", USA-Sante Fe -New Mexico
@@ -698,14 +747,10 @@ rtmp://stream.livespotting.tv/windit-edge/vv42_720p.stream
 rtmp://stream.livespotting.tv/windit-edge/vv32_720p.stream
 #EXTINF:0 group-title="Webcam2", Büsum - Museumshafen
 rtmp://stream.livespotting.tv/windit-edge/vv33_720p.stream
-#EXTINF:0 group-title="Webcam2", Cats Meow Karaokebar -Louisiana
-http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam2", Chemnitz - HeiBe
 rtmp://stream.livespotting.tv/windit-edge/vv93_720p.stream
 #EXTINF:0 group-title="Webcam2", Columbus Circle
 http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam2", Crossroads
-http://video3.earthcam.com/fecnetwork/4717.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam2", Dortmund - Neues Stadthaus
 rtmp://stream.livespotting.tv/windit-edge/vv95_720p.stream
 #EXTINF:0 group-title="Webcam2", Dresden - Dresdner Aussicht
@@ -766,8 +811,6 @@ rtmp://stream.livespotting.tv/windit-edge/vv71_720p.stream
 rtmp://stream.livespotting.tv/windit-edge/vv75_720p.stream
 #EXTINF:0 group-title="Webcam2", Heidelberg - PundM
 rtmp://stream.livespotting.tv/windit-edge/vv122_720p.stream
-#EXTINF:0 group-title="Webcam2", Hollywood Blvd -California
-http://video3.earthcam.com/fecnetwork/lacitytours1.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam2", Hörnum - Sylt
 rtmp://stream.livespotting.tv/windit-edge/vv7_720p.stream
 #EXTINF:0 group-title="Webcam2", INFORUM FARGO ND USA
@@ -932,6 +975,647 @@ http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
 http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
 #EXTINF:0 group-title="Webcam2", Portugal WEBCAM: PRAIA DA LUZ
 http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+
+
+
+#EXTINF:0 group-title="Peliculas", La Sirenita | SRREGIO.NET
+https://srregio.xyz/sirenita
+#EXTINF:0 group-title="Peliculas", Las Locuras del Emperador | SRREGIO.NET
+https://srregio.xyz/locurasemperador
+#EXTINF:0 group-title="Peliculas", Notorious Big | SRREGIO.NET
+https://srregio.xyz/notorious
+#EXTINF:0 group-title="Peliculas", Verdad o Reto LATINO | SRREGIO.NET
+https://srregio.xyz/verdadoretolat
+#EXTINF:0 group-title="Peliculas", El Alma de la Fiesta | SRREGIO.NET
+https://srregio.xyz/almafiesta
+#EXTINF:0 group-title="Peliculas", Sexy por Accidente | SRREGIO.NET
+https://srregio.xyz/sexyaccidente
+#EXTINF:0 group-title="Peliculas", La Boda de Valentina | REGIOTECNO
+https://srregio.xyz/bodavalentina
+#EXTINF:0 group-title="Peliculas", Black Panther | REGIOTECNO
+https://srregio.xyz/pantherblack
+#EXTINF:0 group-title="Peliculas", El Stand de los Besos | REGIOTECNO
+https://srregio.xyz/stand
+#EXTINF:0 group-title="Peliculas", Sentenciado a Morir | REGIOTECNO
+https://srregio.xyz/sentenciado
+#EXTINF:0 group-title="Peliculas", Coco | SRREGIO.NET
+https://srregio.xyz/coocoo
+#EXTINF:0 group-title="Peliculas", El Mejor Regalo | SRREGIO.NET
+https://srregio.xyz/elmejorregalo
+#EXTINF:0 group-title="Peliculas", Verdad o Reto SUBTITULADA | SRREGIO.NET
+https://srregio.xyz/verdadoretosub
+#EXTINF:0 group-title="Peliculas", Basada En Hechos Reales | REGIOFLIX
+https://srregio.xyz/basada
+#EXTINF:0 group-title="Peliculas", Sherlock Gnomes | REGIOFLIX
+https://srregio.xyz/sgnomes
+#EXTINF:0 group-title="Peliculas", Hasta Que La Boda Nos Separe | REGIOFLIX
+https://srregio.xyz/hqlbodansepare
+#EXTINF:0 group-title="Peliculas", Rampage LATINO | REGIOFLIX
+https://srregio.xyz/raampaage
+#EXTINF:0 group-title="Peliculas", Un Lugar En Silencio LATINO | REGIOFLIX
+https://srregio.xyz/lugarsilenciolat
+#EXTINF:0 group-title="Peliculas", 28 DIAS DESPUES: EXTERMINIO (2002) | REGIOFLIX
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/28%20Days%20Later%20%282002%29%20%281%29.mkv
+#EXTINF:0 group-title="Peliculas", 28 SEMANAS DESPUES: EXTERMINIO 2 (2007) | REGIOFLIX
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/28%20Weeks%20Later%20%282007%29%20%281%29.mkv
+#EXTINF:0 group-title="Peliculas", ANNABELLE (2014) | REGIOFLIX
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014%20%281%29.mkv
+#EXTINF:0 group-title="Peliculas", IT ESO (1990) | REGIOFLIX
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/It%20%5beso%5d%20%281990%29%20%20Dual.mkv
+#EXTINF:0 group-title="Peliculas", Todo El Dinero Del Mundo | REGIOFLIX
+http://regiotv.xyz/todoeldinerodelmundo
+#EXTINF:0 group-title="Peliculas", Mudbound | REGIOFLIX
+http://srregio.xyz/mudbound
+#EXTINF:0 group-title="Peliculas", Terror en la Oscuridad CAST | REGIOFLIX  
+http://srregio.xyz/insidecast
+#EXTINF:0 group-title="Peliculas", Papa Por Sorpresa | REGIOFLIX  
+http://srregio.net/papaporsorpresa
+#EXTINF:0 group-title="Peliculas", Tomb Raider 2018 SUB | REGIOFLIX  
+http://srregio.net/tombraidersub
+#EXTINF:0 group-title="Peliculas", The Cured | REGIOFLIX  
+http://srregio.xyz/thecure
+#EXTINF:0 group-title="Peliculas", Los Extranos | REGIOFLIX  
+http://regiotv.xyz/losextranos
+#EXTINF:0 group-title="Peliculas", Hasta Pronto Christoper Robin | REGIOFLIX  
+http://regiotv.xyz/christoperrobin
+#EXTINF:0 group-title="Peliculas", Talento De Barrio | REGIOFLIX  
+http://regiotv.xyz/talentodebarrio
+#EXTINF:0 group-title="Peliculas", Mom & Dad SUB | REGIOFLIX  
+http://regiotv.xyz/momanddad
+#EXTINF:0 group-title="Peliculas", Mom & Dad | REGIOFLIX  
+http://regiotv.xyz/momanddadLAT
+#EXTINF:0 group-title="Peliculas", 24hrs Para Sobrevivir SUB | REGIOFLIX  
+http://regiotv.xyz/24hrssobrevivir
+#EXTINF:0 group-title="Peliculas", Pesadilla Siniestra | REGIOFLIX  
+http://regiotv.xyz/pesadillasiniestra
+#EXTINF:0 group-title="Peliculas", 10000 B.C | REGIOFLIX  
+https://movies1.ottmex.com/disk1/accion/10000.MP4
+#EXTINF:0 group-title="Peliculas", 12 Rounds 3 Lockdown | REGIOFLIX  
+https://movies1.ottmex.com/disk1/accion/12.r0unds.3.l0ckd0wn.2016.dvdrip.latino.gnula1.mp4.mp4
+#EXTINF:0 group-title="Peliculas", 13 Guerreros | REGIOFLIX  
+https://movies1.ottmex.com/disk1/accion/13guerreros.MP4
+#EXTINF:0 group-title="Peliculas", Todo Poderoso | REGIOFLIX  
+https://bit.ly/2GajoTS
+#EXTINF:0 group-title="Peliculas", American Pie | REGIOFLIX  
+https://bit.ly/2KS5ucG
+#EXTINF:0 group-title="Peliculas", La Leyenda de la Nahuala | REGIOFLIX  
+https://bit.ly/2wBzaYz
+#EXTINF:0 group-title="Peliculas", Mulan | REGIOFLIX  
+https://movies1.ottmex.com/disk1/drama/Mulan.2009.mp4
+#EXTINF:0 group-title="Peliculas", Que Culpa Tiene el Nino | REGIOFLIX  
+https://bit.ly/2wBG4x8
+#EXTINF:0 group-title="Peliculas", Terminator 2 | REGIOFLIX  
+https://movies1.ottmex.com/vod/peliculas/sci-fi/Terminator.2.mkv
+#EXTINF:0 group-title="Peliculas", Charlie y La Fabrica de Chocolate | REGIOFLIX  
+https://movies1.ottmex.com/disk1/infantiles/charlieylafabricadechocolate.mp4
+#EXTINF:0 group-title="Peliculas", 3 idiotas | REGIOFLIX  
+http://srregio.xyz/regioflix/3idiotas
+#EXTINF:0 group-title="Peliculas", Operacion Red Sparrow | REGIOFLIX  
+http://regiotv.xyz/regioflix/redsparrow
+#EXTINF:0 group-title="Peliculas", Anon | REGIOFLIX  
+http://srregio.xyz/regioflix/anon
+#EXTINF:0 group-title="Peliculas", Samson | REGIOFLIX  
+http://srregio.xyz/regioflix/samson
+#EXTINF:0 group-title="Peliculas", Mariposas Verdes | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/mariposasverdes.php
+#EXTINF:0 group-title="Peliculas", Darc | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/darc.php
+#EXTINF:0 group-title="Peliculas", Lego DC Super Hero Girls: Instituto de Supervillanos | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/legogirls.php
+#EXTINF:0 group-title="Peliculas", 15:17 Tren a Paris | REGIOFLIX  
+http://srregio.xyz/regioflix/trenaparis
+#EXTINF:0 group-title="Peliculas", La Leyenda de la Llorona | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/lallorona.php
+#EXTINF:0 group-title="Peliculas", Pequeno Vampiro | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/pequenovampiro.php
+#EXTINF:0 group-title="Peliculas", La Leyenda del Charro Negro | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/charronegro.php
+#EXTINF:0 group-title="Peliculas", Batman Ninja | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/batmanninja.php
+#EXTINF:0 group-title="Peliculas", 50 Sombras Liberadas | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/50sombraslat.php
+#EXTINF:0 group-title="Peliculas", Tremors Cold Day in the Hell | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/tremors2018.php
+#EXTINF:0 group-title="Peliculas", Una Historia de Fantasmas | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/ghosthistory.php
+#EXTINF:0 group-title="Peliculas", Me gusta -  Comparte, Sigue | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/megustacompartesigue.php
+#EXTINF:0 group-title="Peliculas", La Maldicion de la Casa Winchester | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/winchesterlat.php
+#EXTINF:0 group-title="Peliculas", El Cavernicola | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/elcavernicola.php
+#EXTINF:0 group-title="Peliculas", Oro y Polvo | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/oroypolvo.php
+#EXTINF:0 group-title="Peliculas", Demonio de Media Noche | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/demoniodemedianoche.php
+#EXTINF:0 group-title="Peliculas", Winchester SUBTITULADO | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/winchester.php
+#EXTINF:0 group-title="Peliculas", Las Aventuras de Peter Rabbit | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/peterrabbit.php
+#EXTINF:0 group-title="Peliculas", 50 Sombras Liberadas (SUBTITULADO) | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/50sombrassub.php
+#EXTINF:0 group-title="Peliculas", Carteristas | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/carteristas.php
+#EXTINF:0 group-title="Peliculas", Paddington | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/paddington.php
+#EXTINF:0 group-title="Peliculas", Space Jam | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/spacejam.php
+#EXTINF:0 group-title="Peliculas", Maze Runner La Cura Mortal | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/mazerunner3.php
+#EXTINF:0 group-title="Peliculas", Marcianos vs Mexicanos | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/marcianosvsmexicanos.php
+#EXTINF:0 group-title="Peliculas", Alma de Heroes | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/almadeheroes.php
+#EXTINF:0 group-title="Peliculas", Aniquilacion | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/aniquilacion.php
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS (1974) | REGIOFLIX  
+https://ia800602.us.archive.org/22/items/col.mas.tex/La%20Masacre%20de%20Texas%201%20%281974%29.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS 2 (1986) | REGIOFLIX  
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas21986.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS 3 (1990) | REGIOFLIX  
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas31990.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS: LA NUEVA GENERACION (1994) | REGIOFLIX  
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas41994LaNuevaGeneracion.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS (2003) | REGIOFLIX  
+https://ia600602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas52003RemakeParte1.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS: EL INICIO (2006) | REGIOFLIX  
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas62006ElInicio-RemakeParte2.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS: HERENCIA MALDITA (2013)  | REGIOFLIX  
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas720133d.mp4
+#EXTINF:0 group-title="Peliculas", Condorito La Pelicula | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/condorito.php
+#EXTINF:0 group-title="Peliculas", Paddington 2 | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/paddington.php
+#EXTINF:0 group-title="Peliculas", El Gran Huracan Categoria 5 | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/elgranhuracancategoria5.php
+#EXTINF:0 group-title="Peliculas", Shrek | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/shrek.php
+#EXTINF:0 group-title="Peliculas", La Bella y La Bestia | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/labellaylabestia.php
+#EXTINF:0 group-title="Peliculas", Moana | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/moana.php
+#EXTINF:0 group-title="Peliculas", El Infierno | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/elinfierno.php
+#EXTINF:0 group-title="Peliculas", Ted 2 | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/ted2.php
+#EXTINF:0 group-title="Peliculas", Spiderman Regreso a Casa | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/spidermanregresoacasa.php
+#EXTINF:0 group-title="Peliculas", Guardianes de la Galaxia 2 | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/guardianesdelagalaxia2.php
+#EXTINF:0 group-title="Peliculas", Tadeo Jones 2 | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/tadeojones2.php
+#EXTINF:0 group-title="Peliculas", Dont Hang Up | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/donthangup.php
+#EXTINF:0 group-title="Peliculas", La Isla De Los Monstruos | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/laisladelosmonstruos.php
+#EXTINF:0 group-title="Peliculas", Quien *#$%!? es papa | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/quienespapa.php
+#EXTINF:0 group-title="Peliculas", Batman Gotham Luz de Gas | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/batmanluzdegas.php
+#EXTINF:0 group-title="Peliculas", El Pajaro Loco La Pelicula | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/elpajaroloco.php
+#EXTINF:0 group-title="Peliculas", El Gran Showman | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/elgranshowman.php
+#EXTINF:0 group-title="Peliculas", Insidious La Ultima Llave | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/lanochedeldemonio4.php
+#EXTINF:0 group-title="Peliculas", Phoenix Forgotten | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/phoenixforgotten.php
+#EXTINF:0 group-title="Peliculas", El Ritual | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/elritual.php
+#EXTINF:0 group-title="Peliculas", La Forma del Agua  | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/laformadelagua.php
+#EXTINF:0 group-title="Peliculas", Navidad de las Madres Rebeldes | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/navidadmadresrebeldes.php
+#EXTINF:0 group-title="Peliculas", Skyline 2 Beyond  | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/skyline2beyond.php
+#EXTINF:0 group-title="Peliculas", Notas Perfectas 3 | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/notasperfectas3.php
+#EXTINF:0 group-title="Peliculas", Insidious The Last Key SUBTITULADA  | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/insidiousthelastkey.php
+#EXTINF:0 group-title="Peliculas", Pextronauta La Pelicula | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/peztronauta.php
+#EXTINF:0 group-title="Peliculas", Lego DC Comics Super Heroes: The Flash | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/legosuperheroes.php
+#EXTINF:0 group-title="Peliculas", La Estrella de Belen | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/laestrelladebelen.php
+#EXTINF:0 group-title="Peliculas", Star Wars The Last Jedi | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/starwars.php
+#EXTINF:0 group-title="Peliculas", Implacable | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/implacable.php
+#EXTINF:0 group-title="Peliculas", Camino a Marte | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/caminoamarte.php
+#EXTINF:0 group-title="Peliculas", Kick Boxer Retaliation | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/kickboxer.php
+#EXTINF:0 group-title="Peliculas", Camera Obscura | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/cameraobscura.php
+#EXTINF:0 group-title="Peliculas", Maestro del Crimen | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/maestrodelcrimen.php
+#EXTINF:0 group-title="Peliculas", Pequeña Gran Vida | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/pequenagranvida.php
+#EXTINF:0 group-title="Peliculas", Liga de la Justicia | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/ligadelajusticia.php
+#EXTINF:0 group-title="Peliculas", Thor Ragnarok | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/thor2017.php
+#EXTINF:0 group-title="Peliculas", Jumanji En la Selva| REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/jumanji.php
+#EXTINF:0 group-title="Peliculas", Una Mujer Fantastica | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/unamujerfantastica.php
+#EXTINF:0 group-title="Peliculas", Ferdinand | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/ole.php
+#EXTINF:0 group-title="Peliculas", First Kill | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/firstkill.php
+#EXTINF:0 group-title="Peliculas", Mujer Maravilla | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/mujermaravilla.php
+#EXTINF:0 group-title="Peliculas", El Ultimo Regalo | REGIOFLIX  
+https://srregio.xyz/regioflix/pelisregio/elultimoregalo.php
+#EXTINF:0 group-title="Peliculas", La Fuerza De La Ilusion | REGIOFLIX  
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Cuando nos Conocimos | REGIOFLIX  
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", La Forma del Agua SUBTITULADO | REGIOFLIX  
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Nosotros Los Nobles | REGIOFLIX  
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:0 group-title="Peliculas", The Cloverfield Paradox | REGIOFLIX  
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0 group-title="Peliculas", Terminus | REGIOFLIX  
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Deadpool | REGIOFLIX  
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Intensamente | REGIOFLIX  
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", JIGSAW VIII | REGIOFLIX  
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Doctor Strange | REGIOFLIX  
+https://ia801505.us.archive.org/11/items/dsSRREGIO/dsSRREGIO.mp4
+#EXTINF:0 group-title="Peliculas", Redada Asesina | REGIOFLIX  
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", SAW VIII SUBTITULADO | REGIOFLIX  
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Konvert SUBTITULADO | REGIOFLIX  
+https://archive.org/download/KonSRREGIO/KonSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Civil War | REGIOFLIX  
+https://archive.org/download/CiWaSRREGIO/CiWaSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Por que el | REGIOFLIX  
+https://archive.org/download/XQESRREGIO/XQESRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Amigos Intocables | REGIOFLIX  
+https://archive.org/download/AmInSRREGIO/AmInSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", La Vida En Juego | REGIOFLIX  
+https://archive.org/download/LaViEJuSRREGIO/LaViEJuSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Lowriders (Subtitulada) | REGIOFLIX  
+https://archive.org/download/LowSRREGIO/LowSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Battleship Batalla Naval | REGIOFLIX  
+https://archive.org/download/BatSRREGIO/BatSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", My Little Pony La Pelicula | REGIOFLIX  
+https://archive.org/download/mlplpSRREGIO/mlplpSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Leatherface | REGIOFLIX  
+https://archive.org/download/LeaSRREGIO/LeaSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Pokemon Yo Te Elijo | REGIOFLIX  
+https://archive.org/download/PoYoTESRREGIO/PoYoTESRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Melanie Apocalipsis Zombie | REGIOFLIX  
+https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Fragiles | REGIOFLIX  
+https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Atomica | REGIOFLIX  
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+#EXTINF:0 group-title="Peliculas", Zombiology | REGIOFLIX  
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", La Noche de la Bruja | REGIOFLIX  
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Quija | REGIOFLIX  
+https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Jeepers Creepers 3 | REGIOFLIX  
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Valerian y la ciudad de los mil planetas | REGIOFLIX  
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Como cortar a tu patan | REGIOFLIX  
+https://ia601508.us.archive.org/4/items/patan/patan.mp4
+#EXTINF:0 group-title="Peliculas", El Rostro De Un Angel | REGIOFLIX  
+https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Una Loca Pelicula de The Walking Dead | REGIOFLIX  
+https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Sangre por Sangre | REGIOFLIX  
+https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4
+#EXTINF:0 group-title="Peliculas", Marjorie Prime
+https://ia801507.us.archive.org/22/items/major_201710/major.mp4
+#EXTINF:0 group-title="Peliculas", Wheelman | REGIOFLIX  
+https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
+#EXTINF:0 group-title="Peliculas", Amytiville El Despertar | REGIOFLIX  
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", L.O.R.D The Legend Of Ravaging Dynasties | REGIOFLIX  
+https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
+#EXTINF:0 group-title="Peliculas", NinjaGO | REGIOFLIX  
+https://archive.org/download/pickidj74_gmail_Gole/gole.mp4
+#EXTINF:0 group-title="Peliculas", Duelo de Titanes | REGIOFLIX  
+https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Locas Vacaciones Sobre Ruedas | REGIOFLIX  
+https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
+#EXTINF:0 group-title="Peliculas", Annabelle La Creacion | REGIOFLIX  
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+#EXTINF:0 group-title="Peliculas", Colors CASTELLANO | REGIOFLIX  
+https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
+#EXTINF:0 group-title="Peliculas", Huye | REGIOFLIX  
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+#EXTINF:0 group-title="Peliculas", Alien Covenant | REGIOFLIX  
+http://ow.ly/SgXZ30eXN93?CONEXION?null=
+#EXTINF:0 group-title="Peliculas", Expedientes Secretos X | REGIOFLIX  
+https://archive.org/download/EXPEDIENTESX.SRREGIO.NET/EXPEDIENTESSECRETOSX.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Peliculas", Bailarina | REGIOFLIX  
+https://archive.org/download/21354gSRREGIO.NET/21354g216d66855x.mp4
+#EXTINF:0 group-title="Peliculas", Los Pitufos La Aldea Perdida | REGIOFLIX  
+https://archive.org/download/pituregioSRREGIO.NET/pituregio.mkv
+#EXTINF:0 group-title="Peliculas", Guardianes de la Galaxia | REGIOFLIX  
+https://goo.gl/sFaEVq
+#EXTINF:0 group-title="Peliculas", Cementerio de Mascotas | REGIOFLIX  
+https://archive.org/download/06052017AQC06052017/06052017_AQC.avi
+#EXTINF:0 group-title="Peliculas", Viaje Salvaje | REGIOFLIX  
+https://archive.org/download/2132154654SRREGIO.NET/21321546548978456132.mkv
+#EXTINF:0 group-title="Peliculas", Cult Of Chucky | REGIOFLIX  
+https://archive.org/download/00000007.SRREGIO/00000007.SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Batman y Harley Queen | REGIOFLIX  
+https://ia801502.us.archive.org/8/items/33548979815123SRREGIO/33548979815123.mp4
+#EXTINF:0 group-title="Peliculas", Encuentro Cercano del 3er Tipo | REGIOFLIX  
+https://archive.org/download/3213265489SRREGIO.NET/321326548978778798797997.mkv
+#EXTINF:0 group-title="Peliculas", Annabelle 2: La creación (2017) HD
+https://archive.org/download/ANNFGHBERLPPELIXMAX/ANNFGHBERLPPELIXMAX.mp4
+#EXTINF:0 group-title="Peliculas", Prometeus 2012 HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:0 group-title="Peliculas", Interstellar
+https://archive.org/download/Interstellar20014PelixMax/Interstellar%20(2014).mp4
+#EXTINF:0 group-title="Peliculas", Mi Villano Favorito 3 HD
+https://archive.org/download/VillanoTercero2017/Villano%20Tercero%202017.mp4
+#EXTINF:0 group-title="Peliculas", Transformers: el último caballero
+https://archive.org/download/Saldelclosetcaabllero2017/Saldelclosetcaabllero2017.mp4
+#EXTINF:0 group-title="Peliculas", Diario de una pasión
+https://archive.org/download/Family1960196004/Family%201960%20196004.mp4
+#EXTINF:0 group-title="Peliculas", Un don excepcional
+https://archive.org/download/Family1960196003/Family_1960-196003.mp4
+#EXTINF:0 group-title="Peliculas", La Era De Hielo I 2002
+https://ia800803.us.archive.org/28/items/chayoterodance_Track01/chayoterodance_Track01.mp4
+#EXTINF:0 group-title="Peliculas", La Era De Hielo II  2006
+https://ia601508.us.archive.org/28/items/chayoterodance_Track02/chayoterodance_Track02.mp4?PelixMax1.mp4
+#EXTINF:0 group-title="Peliculas", La Era De Hielo III : El Origen De Los Dinosaurios  2009
+https://ia601503.us.archive.org/0/items/chayoterodance_Track03/chayoterodance_Track03.mp4?PelixMax1.mp4
+#EXTINF:0 group-title="Peliculas", La Era De Hielo IV : La Formacion De Los Continentes  2012
+https://ia601507.us.archive.org/28/items/chayoterodance_Track04/chayoterodance_Track04.mp4?PelixMax1.mp4
+#EXTINF:0 group-title="Peliculas", La Era De Hielo V : Choque De Mundos 2016
+https://ia601503.us.archive.org/2/items/chayoterodance_Track05/chayoterodance_Track05.mp4?PelixMax1.mp4
+#EXTINF:0 group-title="Peliculas", Los Ilusionistas
+https://ia601907.us.archive.org/25/items/Los.Ilusionistas/Los.Ilusionistas.mp4
+#EXTINF:0 group-title="Peliculas", Life: Vida Inteligente (2017) HD
+https://ia801507.us.archive.org/20/items/Life2017_20017081/Life%202017.mp4?Pelixmax1.mp4
+#EXTINF:0 group-title="Peliculas", SHREK
+https://archive.org/download/444445456889/444445456889.mp4
+#EXTINF:0 group-title="Peliculas", La Bella y la Bestia
+https://archive.org/download/454as65dd5ad45dsa54/454as65dd5ad45dsa54.mp4
+#EXTINF:0 group-title="Peliculas", Cars 2
+https://ia800801.us.archive.org/30/items/MilOchoMil005/MilOchoMil_005.mp4
+#EXTINF:0 group-title="Peliculas", La Era De Hielo IV : La Formacion De Los Continentes
+https://ia600805.us.archive.org/14/items/chayoterodance_Track04/chayoterodance_Track04.mp4
+#EXTINF:0 group-title="Peliculas", Alicia En El Pais de Las Maravillas
+https://ia800809.us.archive.org/16/items/MilOchoMil001/MilOchoMil_001.mp4
+#EXTINF:0 group-title="Peliculas", Cementerio De Mascotas
+https://ia801603.us.archive.org/6/items/06052017AQC06052017/06052017_AQC.mp4
+#EXTINF:0 group-title="Peliculas", La Torre Oscura
+https://ia800808.us.archive.org/32/items/NegraTorre/negra%20torre.mp4
+#EXTINF:0 group-title="Peliculas", VALERIAN Y LA CIUDAD DE MIL PLANETAS
+https://ia800803.us.archive.org/21/items/ValeSRREGIO/ValeSRREGIO.mp4
+#EXTINF:0 group-title="Peliculas", ATOMICA
+https://ia800101.us.archive.org/27/items/AtoSRRegio/AtoSRRegio.mp4
+#EXTINF:0 group-title="Peliculas", La Momia
+https://ia600801.us.archive.org/23/items/CalaveraTieneHambre/calavera%20tiene%20hambre.mp4
+#EXTINF:0 group-title="Peliculas", HUYE GET OUT
+https://ia800803.us.archive.org/14/items/Cheverefans0012017/cheverefans%200012017.mp4
+#EXTINF:0 group-title="Peliculas", STRIPTEASE
+https://ia800803.us.archive.org/22/items/Cheverefans0032017.mkv/Cheverefans%200032017.mkv.mp4
+#EXTINF:0 group-title="Peliculas", Bambi
+https://ia800804.us.archive.org/12/items/MilOchoMil003/MilOchoMil_003.mp4
+#EXTINF:0 group-title="Peliculas", EL MENSAJERO DE LA OSCURIDAD
+http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", ESPIA POR ACCIDENTE
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", ESQUIZOFRENIA
+http://discontrol@media-es-am.crackle.com/1/8/r0/zmoyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", FISTA DE BODAS
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
+#EXTINF:0 group-title="Peliculas",  HALLOWEN
+http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
+#EXTINF:0 group-title="Peliculas", HERMANOS GRIMM
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", ILUCIONISTA
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", IMPACTO MORTAL
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", LA PANTERA ROSA
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?
+#EXTINF:0 group-title="Peliculas", LA VIDA PERFECTA
+http://discontrol@media-es-am.crackle.com/1/q/v0/apoyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", PELIGRO EN BANGKOK
+http://discontrol@media-es-am.crackle.com/1/o/n0/cdoyk_480p_1mbps.mp4?
+#EXTINF:0 group-title="Peliculas", PERFUME
+http://discontrol@media-es-am.crackle.com/1/0/n0/seoyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", PREMONICIONES
+http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?
+#EXTINF:0 group-title="Peliculas", TRISTE SAN VALENTIN
+http://iptvperu@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
+#EXTINF:0 group-title="Peliculas", UN VUELO DE LOCURA
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", ROBOCOP DEFENSOR DEL FUTURO
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", ZONA DE MIEDO
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4
+#EXTINF:0 group-title="Peliculas", DANIEL EL TRAVIESO (CLASICA)
+https://ia800605.us.archive.org/3/items/31052017_201705678678687687/31052017.mp4
+#EXTINF:0 group-title="Peliculas", Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+#EXTINF:0 group-title="Peliculas", Civil War
+https://ia800103.us.archive.org/23/items/CiWaSRREGIO/CiWaSRREGIO.mp4
+#EXTINF:0 group-title="Peliculas", Por que el
+https://ia800104.us.archive.org/15/items/XQESRREGIO/XQESRREGIO.mp4
+#EXTINF:0 group-title="Peliculas", Mudbound | 
+http://srregio.xyz/mudbound
+#EXTINF:0 group-title="Peliculas", Terror en la Oscuridad CAST | 
+http://srregio.xyz/insidecast
+#EXTINF:0 group-title="Peliculas", Papa Por Sorpresa | 
+http://srregio.net/papaporsorpresa
+#EXTINF:0 group-title="Peliculas", Tomb Raider 2018 SUB | 
+http://srregio.net/tombraidersub
+#EXTINF:0 group-title="Peliculas", The Cured | 
+http://srregio.xyz/thecure
+#EXTINF:0 group-title="Peliculas", Los Extranos | 
+http://regiotv.xyz/losextranos
+#EXTINF:0 group-title="Peliculas", Hasta Pronto Christoper Robin | 
+http://regiotv.xyz/christoperrobin
+#EXTINF:0 group-title="Peliculas", Talento De Barrio | T
+http://regiotv.xyz/talentodebarrio
+#EXTINF:0 group-title="Peliculas", Mom & Dad SUB | 
+http://regiotv.xyz/momanddad
+#EXTINF:0 group-title="Peliculas", Mom & Dad | 
+http://regiotv.xyz/momanddadLAT
+#EXTINF:0 group-title="Peliculas", 24hrs Para Sobrevivir SUB | 
+http://regiotv.xyz/24hrssobrevivir
+#EXTINF:0 group-title="Peliculas", Pesadilla Siniestra | 
+http://regiotv.xyz/pesadillasiniestra
+#EXTINF:0 group-title="Peliculas", 10000 B.C |
+https://movies1.ottmex.com/disk1/accion/10000.MP4
+#EXTINF:0 group-title="Peliculas", 12 Rounds 3 Lockdown | 
+https://movies1.ottmex.com/disk1/accion/12.r0unds.3.l0ckd0wn.2016.dvdrip.latino.gnula1.mp4.mp4
+#EXTINF:0 group-title="Peliculas", 13 Guerreros | 
+https://movies1.ottmex.com/disk1/accion/13guerreros.MP4
+#EXTINF:0 group-title="Peliculas", Todo Poderoso | 
+https://bit.ly/2GajoTS
+#EXTINF:0 group-title="Peliculas", American Pie | 
+https://bit.ly/2KS5ucG
+#EXTINF:0 group-title="Peliculas", La Leyenda de la Nahuala | 
+https://bit.ly/2wBzaYz
+#EXTINF:0 group-title="Peliculas", Mulan | 
+https://movies1.ottmex.com/disk1/drama/Mulan.2009.mp4
+#EXTINF:0 group-title="Peliculas", Que Culpa Tiene el Nino | 
+https://bit.ly/2wBG4x8
+#EXTINF:0 group-title="Peliculas", Terminator 2 | 
+https://movies1.ottmex.com/vod/peliculas/sci-fi/Terminator.2.mkv
+#EXTINF:0 group-title="Peliculas", Charlie y La Fabrica de Chocolate | 
+https://movies1.ottmex.com/disk1/infantiles/charlieylafabricadechocolate.mp4
+#EXTINF:0 group-title="Peliculas", 3 idiotas | 
+http://srregio.xyz/regioflix/3idiotas
+#EXTINF:0 group-title="Peliculas", Operacion Red Sparrow | 
+http://regiotv.xyz/regioflix/redsparrow
+#EXTINF:0 group-title="Peliculas", Anon | 
+http://srregio.xyz/regioflix/anon
+#EXTINF:0 group-title="Peliculas", Samson | 
+http://srregio.xyz/regioflix/samson
+#EXTINF:0 group-title="Peliculas", 15:17 Tren a Paris | 
+http://srregio.xyz/regioflix/trenaparis
+#EXTINF:0 group-title="Peliculas", La Era de Hielo 5 | 
+http://goo.gl/X9dHAo
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS (1974) | 
+https://ia800602.us.archive.org/22/items/col.mas.tex/La%20Masacre%20de%20Texas%201%20%281974%29.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS 2 (1986) | 
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas21986.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS 3 (1990) | 
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas31990.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS: LA NUEVA GENERACION (1994) | 
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas41994LaNuevaGeneracion.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS (2003) | 
+https://ia600602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas52003RemakeParte1.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS: EL INICIO (2006) | 
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas62006ElInicio-RemakeParte2.mp4
+#EXTINF:0 group-title="Peliculas", LA MASACRE DE TEXAS: HERENCIA MALDITA (2013)  | 
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas720133d.mp4
+#EXTINF:0 group-title="Peliculas", La Fuerza De La Ilusion | 
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Cuando nos Conocimos | 
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", La Forma del Agua SUBTITULADO | 
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", 0 - 182,268_AL_.jpg", Nosotros Los Nobles | 
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:0 group-title="Peliculas", The Cloverfield Paradox | 
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0 group-title="Peliculas", Terminus | 
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Deadpool | 
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Intensamente | 
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", JIGSAW VIII | 
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Doctor Strange | 
+https://ia801505.us.archive.org/11/items/dsSRREGIO/dsSRREGIO.mp4
+#EXTINF:0 group-title="Peliculas", Escuadron Suicida | 
+https://ia601507.us.archive.org/25/items/89721396258147/89721396258147.mp4
+#EXTINF:0 group-title="Peliculas", Redada Asesina | 
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Konvert SUBTITULADO | 
+https://archive.org/download/KonSRREGIO/KonSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Civil War | 
+https://archive.org/download/CiWaSRREGIO/CiWaSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Por que el | 
+https://archive.org/download/XQESRREGIO/XQESRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Amigos Intocables | 
+https://archive.org/download/AmInSRREGIO/AmInSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", La Vida En Juego | 
+https://archive.org/download/LaViEJuSRREGIO/LaViEJuSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Lowriders (Subtitulada) | 
+https://archive.org/download/LowSRREGIO/LowSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Battleship Batalla Naval | 
+https://archive.org/download/BatSRREGIO/BatSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", My Little Pony La Pelicula | 
+https://archive.org/download/mlplpSRREGIO/mlplpSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Leatherface | 
+https://archive.org/download/LeaSRREGIO/LeaSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Pokemon Yo Te Elijo | 
+https://archive.org/download/PoYoTESRREGIO/PoYoTESRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Melanie Apocalipsis Zombie | 
+https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Fragiles | 
+https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Atomica | 
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+#EXTINF:0 group-title="Peliculas", Zombiology | 
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", La Noche de la Bruja | 
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Quija | 
+https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", q_auto:good - w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg", Jeepers Creepers 3 | 
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Valerian y la ciudad de los mil planetas | 
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Como cortar a tu patan | 
+https://ia601508.us.archive.org/4/items/patan/patan.mp4
+#EXTINF:0 group-title="Peliculas", El Rostro De Un Angel | 
+https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Una Loca Pelicula de The Walking Dead | 
+https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Sangre por Sangre | 
+https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4
+#EXTINF:0 group-title="Peliculas", Marjorie Prime
+https://ia801507.us.archive.org/22/items/major_201710/major.mp4
+#EXTINF:0 group-title="Peliculas", Wheelman | 
+https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
+#EXTINF:0 group-title="Peliculas", Amytiville El Despertar | 
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", L.O.R.D The Legend Of Ravaging Dynasties | 
+https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
+#EXTINF:0 group-title="Peliculas", NinjaGO | 
+https://archive.org/download/pickidj74_gmail_Gole/gole.mp4
+#EXTINF:0 group-title="Peliculas", Duelo de Titanes | 
+https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Locas Vacaciones Sobre Ruedas | 
+https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
+#EXTINF:0 group-title="Peliculas", Annabelle La Creacion | 
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+#EXTINF:0 group-title="Peliculas", Colors CASTELLANO | 
+https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
+#EXTINF:0 group-title="Peliculas", Huye | 
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+#EXTINF:0 group-title="Peliculas", Alien Covenant | 
+http://ow.ly/SgXZ30eXN93?CONEXION?null=
+#EXTINF:0 group-title="Peliculas", Expedientes Secretos X | 
+https://archive.org/download/EXPEDIENTESX.SRREGIO.NET/EXPEDIENTESSECRETOSX.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Peliculas", Bailarina | 
+https://archive.org/download/21354gSRREGIO.NET/21354g216d66855x.mp4
+#EXTINF:0 group-title="Peliculas", Los Pitufos La Aldea Perdida | SRREGIO.NET
+https://archive.org/download/pituregioSRREGIO.NET/pituregio.mkv
+#EXTINF:0 group-title="Peliculas", Guardianes de la Galaxia | SRREGIO.NET
+https://goo.gl/sFaEVq
+#EXTINF:0 group-title="Peliculas", Cementerio de Mascotas | SRREGIO.NET
+https://archive.org/download/06052017AQC06052017/06052017_AQC.avi
+#EXTINF:0 group-title="Peliculas", Viaje Salvaje | 
+https://archive.org/download/2132154654SRREGIO.NET/21321546548978456132.mkv
+#EXTINF:0 group-title="Peliculas", Cult Of Chucky | 
+https://archive.org/download/00000007.SRREGIO/00000007.SRREGIO.mkv
+#EXTINF:0 group-title="Peliculas", Batman y Harley Queen | 
+https://ia801502.us.archive.org/8/items/33548979815123SRREGIO/33548979815123.mp4
+#EXTINF:0 group-title="Peliculas", Encuentro Cercano del 3er Tipo | 
+
 
 
 
