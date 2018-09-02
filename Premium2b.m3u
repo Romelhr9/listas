@@ -17,6 +17,12 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:0 group-title="TV", Mexico - milenio_centro
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:0  group-title="TV", Telemax Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8#MegaIPTVArgentina
+
+#EXTINF:0  group-title="TV", UCSG TV Ecuador
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+
 #EXTINF:0 group-title="TV", El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 #EXTINF:0 group-title="TV", Canal 26 (News) (AR) (Spanish)
@@ -41,6 +47,11 @@ https://www.youtube.com/watch?v=fMYOB9xzCPQ
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:0 group-title="TV", Real Madrid TV (España)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 group-title="TV", CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0  group-title="TV", TV3 Catalan 
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+
 
 
 #EXTINF:0 group-title="Mexico",TV Tlaxcala
@@ -104,14 +115,6 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 #EXTINF:0 group-title="USA", MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:0 group-title="USA", BLOOMBERG
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0 group-title="USA", ABC News 2
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:0 group-title="USA", RT Documentary
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
-#EXTINF:0 group-title="USA", TRT News
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:0 group-title="USA", WGN Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:0 group-title="USA", Munchen 2
@@ -126,18 +129,10 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
 rtmp://124.139.232.61:1935/live/livestream
 #EXTINF:0 group-title="USA", Aliento Visión
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
-#EXTINF:0 group-title="USA", Bethel TV
-http://premium.exabytetv.info/livestream.php?acc=16199200&eve=4590066&token=QZPXF-1011000011010101011100111010100-ExabyteTV&f=.m3u8
-#EXTINF:0 group-title="USA", Condavisión
-http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
-#EXTINF:0 group-title="USA", CTNi
-http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
 #EXTINF:0 group-title="USA", Esperanza TV
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
 
 
-#EXTINF:0 group-title="Medio", NDTV INDIA
-http://ndtv.indostan.epac.to/ndtv/247lo/live/native
 #EXTINF:0 group-title="Medio", Al Jazeera 
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 #EXTINF:0 group-title="Medio", VoA
@@ -150,60 +145,23 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 
 
 
-#EXTINF:-1  group-title="Musica", HEART TV 
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1  group-title="Musica", Telemusica
-http://186.155.200.118:1935/live/telemusica/playlist.m3u8
-#EXTINF:0 group-title="Musica",HD ONE Music (720p)
-rtmp://rtmp.one.by/HD/1muz
 #EXTINF:0 group-title="Musica",Fresh TV Music (352p)
 http://wse.planeta-online.tv:1935/live/channel_4/master.m3u8
-#EXTINF:0 group-title="Musica",OneFM HD Music (720p)
-http://rtmp.infomaniak.ch/livecast/onefmhd/playlist.m3u8
-#EXTINF:0 group-title="Musica",Number One TV (270p)
-http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/master.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="Musica",OTTO 8 FM (540p)
 http://live.youiptv.ch:1935/8FM/ngrp%3a8FM_all/playlist.m3u8
-#EXTINF:0 group-title="Musica",ATOMIC
-rtmp://5.154.185.153/live/live.flv
-#EXTINF:0 group-title="Musica",Russian Music Box
-http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
-#EXTINF:0 group-title="Musica",4FUN.TV
-http://93.105.216.87:9981/stream/channelid/45?ticket=3ED09E6E447391F562C1D7DEAEEC6882E48F8DEE
-#EXTINF:0 group-title="Musica", Amazing Music
-http://live.tvplayerlatino.com/lista_remota/src3/jObqB.m3u8
-#EXTINF:0 group-title="Musica", Bandamax
-http://live.tvplayerlatino.com/lista_remota/src1/cxbdK.m3u8
-#EXTINF:0 group-title="Musica", Vevo Hip Hop
-http://live.tvplayerlatino.com/lista_remota/src3/vevhp.m3u8
-#EXTINF:0 group-title="Musica", Vevo TV
-http://live.tvplayerlatino.com/lista_remota/src4/TnzyN.m3u8
-#EXTINF:0 group-title="Musica", VH1 Classic
-http://live.tvplayerlatino.com/lista_remota/src1/KW2YQ.m3u8
-#EXTINF:0 group-title="Musica", VH1 HD
-http://live.tvplayerlatino.com/lista_remota/src1/eriD9.m3u8
-#EXTINF:0 group-title="Musica", Virgin TV
-http://live.tvplayerlatino.com/lista_remota/src3/virtv.m3u8
-#EXTINF:0 group-title="Musica", Mi Musica HD
-http://live.tvplayerlatino.com/lista_remota/src3/94Ab5.m3u8
-#EXTINF:0 group-title="Musica", Cantinazo TV
-http://live.tvplayerlatino.com/lista_remota/src3/G8ML9.m3u8
-#EXTINF:0 group-title="Musica", Capital TV
-http://live.tvplayerlatino.com/lista_remota/src3/YrMVO.m3u8
-#EXTINF:0 group-title="Musica", Djing Ibiza
-http://live.tvplayerlatino.com/lista_remota/src3/djitv.m3u8
-#EXTINF:0 group-title="Musica", Ritmoson Latino
-http://live.tvplayerlatino.com/lista_remota/src1/2xsUx.m3u8
-#EXTINF:0 group-title="Musica", Telehit
-http://live.tvplayerlatino.com/lista_remota/src1/LKqfP.m3u8
-#EXTINF:0 group-title="Musica", Tigo Music
-http://live.tvplayerlatino.com/lista_remota/src3/mZBvu.m3u8
-#EXTINF:0 group-title="Musica",4FUN HITS
-http://93.105.216.87:9981/stream/channelid/46?ticket=BC4E4EE923DD95348A4354F6BEE99034DE205630
-#EXTINF:0 group-title="Musica",Atomic
-rtmp://5.154.185.153/live/live.flv
 #EXTINF:0 group-title="Musica",Radio 105 (432p)
 rtmp://fms.105.net/live/105Test1
+#EXTINF:-1  group-title="Musica", HEART TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
+#EXTINF:0 group-title="Musica",HD ONE Music (720p)
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:0  group-title="Musica", Antena Negra Argentina
+http://servicioamerica.net:1935/8680/8680/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0  group-title="Musica", Jasmin (720p)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+
+
 
 
 
@@ -238,79 +196,25 @@ http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8#MegaIPTVArgentin
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="SUDAmerica", Chilevision Chile
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 9 Bio Bio HD 720
-http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8?MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 9 Bio Bio
-http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8?MegaIPTVArgentina
 #EXTINF:0  group-title="SUDAmerica", Canal del Vino Chile
 http://evo.eltelon.com:443/live/canaldelvinotv/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:0  group-title="SUDAmerica", Cesfam TV Chile
 http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", DCH TV Chile
-http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:0  group-title="SUDAmerica", El Pingüino TV Chile
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 2 San Antonio Chile
-rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
 #EXTINF:0  group-title="SUDAmerica", Canal 2 ValleTV Chile
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", ATV Valdivia Chile
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
-#EXTINF:0  group-title="SUDAmerica", TV 4 Chile
-http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", TV Independencia Chile
-http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Campus TV Chile
-http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
 
-#EXTINF:0 group-title="SUDAmerica", Quinta Vision Viña del Mar Chile
-http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 5 Linares Chile
-rtmp://v1.streaminglatinoamerica.com/canal5/canal5
-#EXTINF:0  group-title="SUDAmerica", TV Red Chile
-http://69.164.193.177:1935/live/myStream/chunklist.m3u8?wowzasessionid=2143164950
-#EXTINF:0  group-title="SUDAmerica", Canal 11 Punta del Este Uruguay
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", TV Publica HD 720 Argentina
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", TV Publica Argentina
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", El Trece HD 720 Argentina
-http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", El Trece Argentina
-http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", TeLeFe HD 720 Argentina
-http://live-edge01.telecentro.net.ar:1935/live/tlfhd-720/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", TeLeFe SD HQ Argentina
-http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", America TV HD 720 Argentina
-http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", America TV Argentina
-http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 9 Bs As Argentina (HTTP)
-http://72.46.226.61/live01/canal91/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Antena Negra Argentina
-http://servicioamerica.net:1935/8680/8680/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Magazine Argentina
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:0  group-title="SUDAmerica", Telemax Argentina
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Solo Tango Argentina
-mms://stream.tangocity.com.ar/tangocity
-#EXTINF:0  group-title="SUDAmerica", Telecreativa Lanús Argentina
-http://iphone-streaming.ustream.tv/uhls/18545628/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 5 Tigre Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8#MegaIPTVArgentina
+
 #EXTINF:0  group-title="SUDAmerica", Señal Provincial Argentina
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="SUDAmerica", U TV La Plata Argentina
 rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
-#EXTINF:0  group-title="SUDAmerica", Canal 4 Lobos Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/5808974/streams/live/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="SUDAmerica", Canal 29 Ensenada Argentina
 rtmp://panel.dattalive.com/8008/8008
 #EXTINF:0  group-title="SUDAmerica", Tele Junin Argentina
 rtmp://65.254.42.234/telejunin/telejunin
+
 #EXTINF:0  group-title="SUDAmerica", Canal 2 Santa Teresita
 mmsh://190.14.32.204:3905/
 #EXTINF:0  group-title="SUDAmerica", Canal 28 Mar del Plata
@@ -321,92 +225,13 @@ rtmp://painel.serveron.com.br/8172/8172
 rtmp://painel.serveron.com.br:1935/8168/8168
 #EXTINF:0  group-title="SUDAmerica", Telpin Canal 2 HD 720 Pinamar Argentina
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
-#EXTINF:0  group-title="SUDAmerica", Canal 11 Mar de Ajó
-http://iphone-streaming.ustream.tv/ustreamVideo/18678216/streams/live/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Canal 5 Olavarría Argentina
-http://iphone-streaming.ustream.tv/uhls/510556/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Celta TV Tres Arroyos Argentina
-http://iphone-streaming.ustream.tv/uhls/13952483/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 12 Zárate Argentina
-http://190.151.144.22:8083/canallocal.flv
-#EXTINF:0  group-title="SUDAmerica", Cable Hogar TV Rosario Argentina
-http://iphone-streaming.ustream.tv/uhls/8053481/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 13 San Luis Argentina
-http://iphone-streaming.ustream.tv/uhls/18347718/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", CCC San Luis Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/5031477/streams/live/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", CCC San Luis Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/5031477/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Señal U Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/20087208/streams/live/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal C Córdoba Argentina
-http://iphone-streaming.ustream.tv/uhls/15263481/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Quatro TV Rio Cuarto Argentina
-rtmp://enhd.co/8938/8938
-#EXTINF:0  group-title="SUDAmerica", Canal 10 Cordoba Argentina
-http://iphone-streaming.ustream.tv/uhls/20251601/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 10 Cordoba Argentina (opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/20251601/streams/live/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Imperio TV Rio Cuarto Argentina
-http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", El Once TV Entre Rios Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/8957585/streams/live/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 6 Entre Rios Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/9042949/streams/live/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 6 Entre Rios Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/9042949/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 9 Paraná Argentina
-http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 10 Entre Rios Argentina
-http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Canal 4 San Juan Argentina
-rtmp://streamlky.alsolnet.com:1935/canal4sanjuan/live
-#EXTINF:0  group-title="SUDAmerica", Canal 13 San Juan Argentina
-http://iphone-streaming.ustream.tv/uhls/7650561/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 9 La Rioja Argentina
-http://200.5.80.158:1935/vod/canal9/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 2 Misiones Argentina
-http://190.57.237.214/live/canal.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", 13 MAX TV Misiones Argentina
-rtsp://coninfo.info/13m
-#EXTINF:0  group-title="SUDAmerica", Litoral TV Corrienes Argentina
-http://iphone-streaming.ustream.tv/uhls/9160292/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 9 Salta Argentina
-http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8%20%20
-#EXTINF:0  group-title="SUDAmerica", Tele 10 Salta Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/14183607/streams/live/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 20 Salta Argentina
-http://iphone-streaming.ustream.tv/uhls/13425182/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 4 HD 720 Jujuy Argentina
-rtmp://streaming.wirenetserver.com.ar/canal4/live_1
-#EXTINF:0  group-title="SUDAmerica", Canal 7 Jujuy Argentina
-mms://200.43.187.111/canal7
 
-#EXTINF:0  group-title="SUDAmerica", Canal 79 San Juan Argentina
-rtmp://painel.serveron.com.br:1935/8162/8162
-#EXTINF:0  group-title="SUDAmerica", Canal 4 Esquel Argentina
-rtmp://streamlky.alsolnet.com/canal4/live
 
-#EXTINF:0  group-title="SUDAmerica", Atreseries Español
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:0  group-title="SUDAmerica", TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
-#EXTINF:0  group-title="SUDAmerica", Jasmin (720p)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
 #EXTINF:0  group-title="SUDAmerica", RTV Religion
 http://178.32.53.254/radiovida/mobile/playlist.m3u8
 #EXTINF:0  group-title="SUDAmerica", Tele Uno TV Costa Rica
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:0  group-title="SUDAmerica", SMO TV Costa Rica
-rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:0  group-title="SUDAmerica", Canal 11 Venezuela Religion
-rtmp://edge.wms28.lorini.net/canalonce/canalonce
-#EXTINF:0  group-title="SUDAmerica", TVO Canal 23 Venezuela
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Television Nacional de Ecuador
-http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", UCSG TV Ecuador
-rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
 #EXTINF:0  group-title="SUDAmerica", Canal 2 Internac. Nicaragua
 rtmp://162.244.81.181:1935/live//Stream1
 #EXTINF:0  group-title="SUDAmerica", Campus TV Guatemala
@@ -462,8 +287,6 @@ http://video3.earthcam.com/fecnetwork/14014.flv/playlist.m3u8
 #EXTINF:0 group-title="Webcam1", Miami Cafe US
 http://video3.earthcam.com/fecnetwork/15061.flv/playlist.m3u8
 
-#EXTINF:0 group-title="Webcam1", Mc Allen Texas
-http://video3.earthcam.com/fecnetwork/7461.flv/playlist.m3u8
 
 #EXTINF:0 group-title="Webcam1", Dallas Texas 1
 http://video3.earthcam.com/fecnetwork/7524.flv/playlist.m3u8
