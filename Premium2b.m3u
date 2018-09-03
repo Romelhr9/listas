@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:0 group-title="TV", BeMad FHD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:0 group-title="TV", Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+
 #EXTINF:0 group-title="TV", MULTIMEDIOS MONTERREY HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 group-title="TV", Azteca UNO
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
 #EXTINF:0 group-title="TV", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
-#EXTINF:0 group-title="TV", Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:0 group-title="TV", Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:0 group-title="TV", MLB EN VIVO
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 group-title="TV", BeMad FHD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
 #EXTINF:0 group-title="TV", CBN Español
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:0 group-title="TV", Mexico - milenio_centro
@@ -245,15 +247,19 @@ http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 
 
 
-#EXTINF:0 group-title="Webcam1", USA-Las Vegas -Nevada
-http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam1", Wedding chapel -Nevada Las Vegas
 http://video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
 
-#EXTINF:0 group-title="Webcam1", Broadway NY
-http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Duval Street Cam_Key West FL USA
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+
+#EXTINF:0 group-title="Webcam1", Irish Kevin's Duval Street Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
 #EXTINF:0 group-title="Webcam1", Broadway NY  Street Cam
 http://video3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8
+
+#EXTINF:0 group-title="Webcam1", Broadway NY
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam1", Broadway NY  North View 
 http://video3.earthcam.com/fecnetwork/485.flv/playlist.m3u8
 
@@ -263,10 +269,37 @@ http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
 http://video3.earthcam.com/fecnetwork/4717.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam1", Cats Meow Karaokebar -Louisiana
 http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam1", Irish Kevin's Stage Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
+
+#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Bar Cam_Key West FL USA
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Stage Cam_Key West FL USA
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+#EXTINF:0 group-title="Webcam1", Africa 1
+http://stream.africam.com:1935/nk/nk.stream_source/playlist.m3u8
+#EXTINF:0 group-title="Webcam1", Africa 3
+http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
+#EXTINF:0 group-title="Webcam1", Africa 4
+http://stream.africam.com:1935/na/na.stream_source/playlist.m3u8
+#EXTINF:0 group-title="Webcam1", Africa 5
+http://stream.africam.com:1935/rc/rc.stream_source/playlist.m3u8
+
+
+#EXTINF:0 group-title="Webcam1", USA-Las Vegas -Nevada
+http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
+
 #EXTINF:0 group-title="Webcam1", Cats Meow Balcony - Lousiana
 http://video3.earthcam.com/fecnetwork/4282.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam1", New Orleans, LA - Bourbon Street
 http://video3.earthcam.com/fecnetwork/4280.flv/HasBahCa.m3u8
+
+#EXTINF:0 group-title="Webcam1", Gdansk - Brzezno molo
+http://hls12.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
+#EXTINF:0 group-title="Webcam1", Elburg_Netherlands
+rtmp://stream.livespotting.tv/windit-edge/LS_36290_720p.stream
+#EXTINF:0 group-title="Webcam1", INFORUM FARGO ND USA
+http://iphone-streaming.ustream.tv/uhls/13415669/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0 group-title="Webcam1", Florida Everglades
 http://video3.earthcam.com/fecnetwork/14162.flv/playlist.m3u8
@@ -316,10 +349,6 @@ rtmp://video4.earthcam.com:1935/fecnetwork%20playpath=chargingbull.flv%20swfUrl=
 http://video3.earthcam.com/fecnetwork/miamivishd4.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam1", Irish Kevin's Bar Cam - Key West FL USA
 http://wowza.floridakeysmedia.com:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8
-#EXTINF:0 group-title="Webcam1", Irish Kevin's Duval Street Cam - Key West FL USA
-http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
-#EXTINF:0 group-title="Webcam1", Irish Kevin's Stage Cam - Key West FL USA
-http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
 #EXTINF:0 group-title="Webcam1", USA - Bayfield
 http://wse1.resortcams.com/live/bayfieldinn.stream/playlist.m3u8
 #EXTINF:0 group-title="Webcam1", USA - Bristol
@@ -346,20 +375,6 @@ rtsp://66.175.76.125/axis-media/media.amp
 rtsp://96.10.1.168:554/axis-media/media.amp
 #EXTINF:0 group-title="Webcam1",  Alaska (5sec)
 http://climatecam.gi.alaska.edu/mjpg/video.mjpg
-#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Bar Cam_Key West FL USA
-http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
-#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Duval Street Cam_Key West FL USA
-http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
-#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Stage Cam_Key West FL USA
-http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
-#EXTINF:0 group-title="Webcam1", Africa 1
-http://stream.africam.com:1935/nk/nk.stream_source/playlist.m3u8
-#EXTINF:0 group-title="Webcam1", Africa 3
-http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
-#EXTINF:0 group-title="Webcam1", Africa 4
-http://stream.africam.com:1935/na/na.stream_source/playlist.m3u8
-#EXTINF:0 group-title="Webcam1", Africa 5
-http://stream.africam.com:1935/rc/rc.stream_source/playlist.m3u8
 
 
 #EXTINF:0 group-title="Webcam2", Abakan - El anillo del trabajo
@@ -592,8 +607,6 @@ rtmp://stream-5gw.1000eyes.de/rtplive//dusbc0c.stream
 rtmp://stream.livespotting.tv/windit-edge/vv46_720p.stream
 #EXTINF:0 group-title="Webcam2", Eckernförde - Strand
 rtmp://stream.livespotting.tv/windit-edge/vv45_720p.stream
-#EXTINF:0 group-title="Webcam2", Elburg - Netherlands
-rtmp://stream.livespotting.tv/windit-edge/LS_36290_720p.stream
 #EXTINF:0 group-title="Webcam2", Erfurt - KoWo
 rtmp://stream.livespotting.tv/windit-edge/vv101_720p.stream
 #EXTINF:0 group-title="Webcam2", Essen - Ruhrturm
@@ -612,8 +625,6 @@ rtmp://stream.livespotting.tv/windit-edge/vv62_720p.stream
 rtmp://stream.livespotting.tv/windit-edge/vv105_720p.stream
 #EXTINF:0 group-title="Webcam2", Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
 rtmp://stream.livespotting.tv/windit-edge/vv111_720p.stream
-#EXTINF:0 group-title="Webcam2", Gdansk - Brzezno molo
-http://hls12.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
 #EXTINF:0 group-title="Webcam2", Gehlberg - Michael Gebser
 rtmp://stream.livespotting.tv/windit-edge/vv123_720p.stream
 #EXTINF:0 group-title="Webcam2", Germany
@@ -636,8 +647,6 @@ rtmp://stream.livespotting.tv/windit-edge/vv75_720p.stream
 rtmp://stream.livespotting.tv/windit-edge/vv122_720p.stream
 #EXTINF:0 group-title="Webcam2", Hörnum - Sylt
 rtmp://stream.livespotting.tv/windit-edge/vv7_720p.stream
-#EXTINF:0 group-title="Webcam2", INFORUM FARGO ND USA
-http://iphone-streaming.ustream.tv/uhls/13415669/streams/live/iphone/playlist.m3u8
 #EXTINF:0 group-title="Webcam2", Ischgl - Pardatschgrat Seilbahn
 rtmp://stream.livespotting.tv/windit-edge/vv157_720p.stream
 #EXTINF:0 group-title="Webcam2", Ischgl - Talstation
@@ -1437,8 +1446,4 @@ https://archive.org/download/2132154654SRREGIO.NET/21321546548978456132.mkv
 https://archive.org/download/00000007.SRREGIO/00000007.SRREGIO.mkv
 #EXTINF:0 group-title="Peliculas", Batman y Harley Queen | 
 https://ia801502.us.archive.org/8/items/33548979815123SRREGIO/33548979815123.mp4
-#EXTINF:0 group-title="Peliculas", Encuentro Cercano del 3er Tipo | 
-
-
-
-
+ 
