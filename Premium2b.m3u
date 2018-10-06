@@ -242,7 +242,7 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3
 http://unlimited4-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 #EXTINF:0  group-title="Musica", Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:0 group-title="Musica" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png" , Mezzo Live
+#EXTINF:0 group-title="Musica" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png", Mezzo Live
 http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/217/index.m3u8
 #EXTINF:0  group-title="Musica" tvg-logo="http://puu.sh/nsWwi/c18fe4842e.png", m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
@@ -254,38 +254,23 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 
 
-
+#EXTINF:0  group-title="SUDAmerica", Tele Uno TV Costa Rica
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:0 group-title="SUDAmerica"  tvg-logo="http://cableaudiovision.com.ar/grilla-web/canales/mvnueve.png", Canal 9 Multivision
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 
 #EXTINF:0  group-title="SUDAmerica" tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png", MEGA TV PERU
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Canal 4 Rosario
-http://media203.services.digitar.net:19+35/cablehogar/cablehogar/playlist.m3u8
 #EXTINF:0  group-title="SUDAmerica", DeporTV (DXTV) Argentina
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Orbe 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:0  group-title="SUDAmerica", Telemax Arg
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:0  group-title="SUDAmerica", Telpin HD
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Telecafe
-http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Telemedellin
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:0  group-title="SUDAmerica", Tele Vida
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
-#EXTINF:0  group-title="SUDAmerica", TV Agro
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
 #EXTINF:0  group-title="SUDAmerica", Canal 4 Jujuy
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 #EXTINF:0  group-title="SUDAmerica", Canal 13 Chile
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Chilevision HD 720 Chile
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Chilevision Chile
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8#MegaIPTVArgentina
 #EXTINF:0  group-title="SUDAmerica", Canal del Vino Chile
 http://evo.eltelon.com:443/live/canaldelvinotv/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:0  group-title="SUDAmerica", Cesfam TV Chile
@@ -302,17 +287,8 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8#MegaIPTVArgentina
 rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
 #EXTINF:0  group-title="SUDAmerica", Canal 29 Ensenada Argentina
 rtmp://panel.dattalive.com/8008/8008
-#EXTINF:0  group-title="SUDAmerica", Tele Junin Argentina
-rtmp://65.254.42.234/telejunin/telejunin
-
-#EXTINF:0  group-title="SUDAmerica", Canal 2 Santa Teresita
-mmsh://190.14.32.204:3905/
 #EXTINF:0  group-title="SUDAmerica", Canal 28 Mar del Plata
 http://iphone-streaming.ustream.tv/uhls/18752678/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 41 Mar del Plata
-rtmp://painel.serveron.com.br/8172/8172
-#EXTINF:0  group-title="SUDAmerica", Canal 79 Mar del Plata
-rtmp://painel.serveron.com.br:1935/8168/8168
 #EXTINF:0  group-title="SUDAmerica", Telpin Canal 2 HD 720 Pinamar Argentina
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
 
@@ -320,16 +296,8 @@ rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
 
 #EXTINF:0  group-title="SUDAmerica", RTV Religion
 http://178.32.53.254/radiovida/mobile/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Tele Uno TV Costa Rica
-rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:0  group-title="SUDAmerica", Canal 2 Internac. Nicaragua
 rtmp://162.244.81.181:1935/live//Stream1
-#EXTINF:0  group-title="SUDAmerica", Campus TV Guatemala
-http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", HCH Honduras
-http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
-#EXTINF:0  group-title="SUDAmerica", Canal U Colombia
-http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 
 
 
@@ -459,14 +427,12 @@ http://video3.earthcam.com/fecnetwork/6172.flv/HasBahCa.m3u8
 http://video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8
 #EXTINF:0 group-title="Webcam1", USA-Sante Fe -New Mexico
 http://video3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Berlin - 40 Seconds
-rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
-#EXTINF:0 group-title="Webcam1", Berlin - Restaurant Hugos/Hotel InterContinental
-rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
-#EXTINF:0 group-title="Webcam1",  Hawaii (4sec) Honolulu Hotel
-rtsp://66.175.76.125/axis-media/media.amp
-#EXTINF:0 group-title="Webcam1",  Street View (3sec)_USA
-rtsp://96.10.1.168:554/axis-media/media.amp
+#EXTINF:0 group-title="Webcam2", Germany
+http://ls11.webcamera.pl/karpacz_cam_133512/karpacz_cam_133512.stream/pla
+#EXTINF:0 group-title="Webcam2", ARTEM - DK
+rtmp://81.200.144.3:1935/cam1/stream
+
+
 #EXTINF:0 group-title="Webcam1",  Alaska (5sec)
 http://climatecam.gi.alaska.edu/mjpg/video.mjpg
 
@@ -495,32 +461,111 @@ http://cam.x-com.kz:8081/yntymak/index.m3u8
 http://cam.x-com.kz:8081/dramteatr/index.m3u8
 #EXTINF:0 group-title="Webcam2", Aktau - Regiones bajas
 http://cam.x-com.kz:8081/downtown/index.m3u8
-#EXTINF:0 group-title="Webcam2", Argentina
+#EXTINF:0 group-title="Webcam2", Argentina Playa Telpin
 http://201.219.100.30:1935/camara-rambla//rambla.stream_720p/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", ARTEM - DK
-rtmp://81.200.144.3:1935/cam1/stream
-#EXTINF:0 group-title="Webcam2", Artem - El anillo
-rtmp://81.200.144.3:1935/cam3/stream
-#EXTINF:0 group-title="Webcam2", Artem - Area
-rtmp://81.200.144.3:1935/cam2/stream
-#EXTINF:0 group-title="Webcam2", {U+0410}strakhan 2
-http://176.100.100.186/cam3/index.m3u8
-#EXTINF:0 group-title="Webcam2", {U+0410}strakhan 3
-http://176.100.100.186/cam15/index.m3u8
-#EXTINF:0 group-title="Webcam2", Astrakhan 4
-http://176.100.100.186/cam19/index.m3u8
-#EXTINF:0 group-title="Webcam2", Astrakhan 5
-http://176.100.100.186/cam20/index.m3u8
-#EXTINF:0 group-title="Webcam2", Astrakhan 6
-http://176.100.100.186/cam28/index.m3u8
-#EXTINF:0 group-title="Webcam2", Astrakhan 7
-http://176.100.100.186/cam15/index.m3u8
+
 #EXTINF:0 group-title="Webcam2", Aeropuerto de Colonia / Bonn 1
 rtmp://stream-5gw.1000eyes.de/rtplive/cgnC8409D.stream
 #EXTINF:0 group-title="Webcam2", Aeropuerto de Colonia / Bonn 2
 rtmp://stream-5gw.1000eyes.de/rtplive/cgnC84090.stream
 #EXTINF:0 group-title="Webcam2", Aeropuerto de Colonia / Bonn 3
 rtmp://stream-5gw.1000eyes.de/rtplive/cgnCAA490.stream
+
+#EXTINF:0 group-title="Webcam2", Biysk 59 Rails Suburb Zoom
+http://cctv1.biisk.ru:8080/hls/489676/bbe69ba894578db7d79b/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 6 Rails Suburb
+http://cctv1.biisk.ru:8080/hls/27505/a70048d0ccd1bd594282/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 60 Road Department
+http://cctv1.biisk.ru:8080/hls/488180/766d7dcab64aa5a59f4b/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Biysk 8 Road
+http://cctv1.biisk.ru:8080/hls/902370/67d5e778ca124e000717/playlist.m3u8
+
+
+#EXTINF:0 group-title="Webcam2", Banja Luka Downtown 1
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist.m3u8
+#EXTINF:0 group-title="Webcam2", Banja Luka City 2
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera01.stream_all/chunklist.m3u8
+
+
+#EXTINF:0 group-title="Webcam2", Columbus Circle
+http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
+
+#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam2
+rtmp://stream-5gw.1000eyes.de/rtplive//dus8a21.stream
+#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam3
+rtmp://stream-5gw.1000eyes.de/rtplive//dus2777.stream
+#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam4
+rtmp://stream-5gw.1000eyes.de/rtplive//dus275d.stream
+#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam5
+rtmp://stream-5gw.1000eyes.de/rtplive//dusbc0c.stream
+
+#EXTINF:0 group-title="Webcam2", KRAKÓW Grodzka 2
+http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", KRAKÓW rynek Podgórski
+http://hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", KRAKÓW. plaza Live
+http://hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8
+
+#EXTINF:0 group-title="Webcam2", Kolobrzeg molo
+http://hls14.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream_audio/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", Krynica Zdroj
+http://hls1.webcamera.pl/nocowanie_cam_06a0f6/nocowanie_cam_06a0f6.stream/playlist.m3u8
+#EXTINF:0 group-title="Webcam2", NoviSad Trg Slobode
+rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream
+#EXTINF:0 group-title="Webcam2", OLSZTYN - panorama miasta
+http://hls13.webcamera.pl/olsztyn_cam_43a997/olsztyn_cam
+#EXTINF:0 group-title="Webcam2", Pier -California
+http://video3.earthcam.com/fecnetwork/6253.flv/HasBahCa.m3u8
+#EXTINF:0 group-title="Webcam2", Plougonvelin - Bretagne - France
+rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ALVOR
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CAPARICA S.JOÃO
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CARVALHAL
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: EVARISTO
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: GRANDE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: LEÇA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MEIA PRAIA
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: NAZARÉ
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: PRAIA DA GALÉ
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+
+
 #EXTINF:0 group-title="Webcam2", Biysk 1
 http://cctv1.biisk.ru:8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8
 #EXTINF:0 group-title="Webcam2", Biysk 10
@@ -625,281 +670,13 @@ http://cctv1.biisk.ru:8080/hls/291366/070a3f9cc80cc3412bc8/playlist.m3u8
 http://cctv1.biisk.ru:8080/hls/111452/1da81c9482a53f2713de/playlist.m3u8
 #EXTINF:0 group-title="Webcam2", Biysk 56
 http://cctv1.biisk.ru:8080/hls/187766/c8ac630191fa68293ee4/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 57
-http://cctv1.biisk.ru:8080/hls/262003/488d2a22430cc517594c/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 58
-http://cctv1.biisk.ru:8080/hls/811131/cb726aaabd6774a499c4/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 59
-http://cctv1.biisk.ru:8080/hls/489676/bbe69ba894578db7d79b/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 6
-http://cctv1.biisk.ru:8080/hls/27505/a70048d0ccd1bd594282/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 60
-http://cctv1.biisk.ru:8080/hls/488180/766d7dcab64aa5a59f4b/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 7
-http://cctv1.biisk.ru:8080/hls/615836/ea200b79cfe81f8b9ab8/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 8
-http://cctv1.biisk.ru:8080/hls/902370/67d5e778ca124e000717/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 9
-http://cctv1.biisk.ru:8080/hls/11184/ca1fad7866c9e129ebb5/playlist.m3u8
 
+#EXTINF:0 group-title="Webcam1",  Hawaii (4sec) Honolulu Hotel
+rtsp://66.175.76.125/axis-media/media.amp
+#EXTINF:0 group-title="Webcam1",  Street View (3sec)_USA
+rtsp://96.10.1.168:554/axis-media/media.amp
 
-#EXTINF:0 group-title="Webcam2", Achensee - Christlum
-rtmp://stream.livespotting.tv/windit-edge/vv148_720p.stream
-#EXTINF:0 group-title="Webcam2", Augsburg - Hotel Augusta
-rtmp://stream.livespotting.tv/windit-edge/vv73_720p.stream
-#EXTINF:0 group-title="Webcam2", Augsburg - Königsplatz
-rtmp://stream.livespotting.tv/windit-edge/vv39_450p.stream
-#EXTINF:0 group-title="Webcam2", Bad Brückenau - Kurverwaltung Bad Brückenau
-rtmp://stream.livespotting.tv/windit-edge/vv140_720p.stream
-#EXTINF:0 group-title="Webcam2", Baden-Baden - Hotel Magnetberg
-rtmp://stream.livespotting.tv/windit-edge/vv124_720p.stream
-#EXTINF:0 group-title="Webcam2", Bamberg - Klein Venedig
-rtmp://stream.livespotting.tv/windit-edge/vv79_720p.stream
-#EXTINF:0 group-title="Webcam2", Banja Luka (?????? ? ???????????) 1
-http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist.m3u8
-#EXTINF:0 group-title="Webcam2", Banja Luka (?????? ? ???????????) 2
-http://edith03.blictv.blic.net:1935/live/ngrp:kamera01.stream_all/chunklist.m3u8
-#EXTINF:0 group-title="Webcam2", Bayreuth - Neues Rathaus
-rtmp://stream.livespotting.tv/windit-edge/vv107_720p.stream
-#EXTINF:0 group-title="Webcam2", Bielefeld - Stadthalle
-rtmp://stream.livespotting.tv/windit-edge/vv86_720p.stream
-#EXTINF:0 group-title="Webcam2", Binz - HOTEL AM MEER & SPA
-rtmp://stream.livespotting.tv/windit-edge/vv103_720p.stream
-#EXTINF:0 group-title="Webcam2", Bonn - Hausverwaltung Uwe Brodesser
-rtmp://stream.livespotting.tv/windit-edge/vv114_720p.stream
-#EXTINF:0 group-title="Webcam2", Bremen - Kontorhaus
-rtmp://stream.livespotting.tv/windit-edge/vv134_720p.stream
-#EXTINF:0 group-title="Webcam2", Bremerhaven - Hotel Atlantic Sail City
-rtmp://stream.livespotting.tv/windit-edge/vv106_720p.stream
-#EXTINF:0 group-title="Webcam2", Brunsbüttel - Schleuse
-rtmp://stream.livespotting.tv/windit-edge/vv37_720p.stream
-#EXTINF:0 group-title="Webcam2", Büsum - Familienlagune
-rtmp://stream.livespotting.tv/windit-edge/vv42_720p.stream
-#EXTINF:0 group-title="Webcam2", Büsum - Hauptstrand
-rtmp://stream.livespotting.tv/windit-edge/vv32_720p.stream
-#EXTINF:0 group-title="Webcam2", Büsum - Museumshafen
-rtmp://stream.livespotting.tv/windit-edge/vv33_720p.stream
-#EXTINF:0 group-title="Webcam2", Chemnitz - HeiBe
-rtmp://stream.livespotting.tv/windit-edge/vv93_720p.stream
-#EXTINF:0 group-title="Webcam2", Columbus Circle
-http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam2", Dortmund - Neues Stadthaus
-rtmp://stream.livespotting.tv/windit-edge/vv95_720p.stream
-#EXTINF:0 group-title="Webcam2", Dresden - Dresdner Aussicht
-rtmp://stream.livespotting.tv/windit-edge/vv59_720p.stream
-#EXTINF:0 group-title="Webcam2", Duisburg - Sportschule Wedau
-rtmp://stream.livespotting.tv/windit-edge/vv61_720p.stream
-#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam2
-rtmp://stream-5gw.1000eyes.de/rtplive//dus8a21.stream
-#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam3
-rtmp://stream-5gw.1000eyes.de/rtplive//dus2777.stream
-#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam4
-rtmp://stream-5gw.1000eyes.de/rtplive//dus275d.stream
-#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam5
-rtmp://stream-5gw.1000eyes.de/rtplive//dusbc0c.stream
-#EXTINF:0 group-title="Webcam2", Eckernförde - Hafen
-rtmp://stream.livespotting.tv/windit-edge/vv46_720p.stream
-#EXTINF:0 group-title="Webcam2", Eckernförde - Strand
-rtmp://stream.livespotting.tv/windit-edge/vv45_720p.stream
-#EXTINF:0 group-title="Webcam2", Erfurt - KoWo
-rtmp://stream.livespotting.tv/windit-edge/vv101_720p.stream
-#EXTINF:0 group-title="Webcam2", Essen - Ruhrturm
-rtmp://stream.livespotting.tv/windit-edge/vv60_720p.stream
-#EXTINF:0 group-title="Webcam2", FallsCam -New Jersey
-http://video3.earthcam.com/fecnetwork/4918.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam2", Flensburg - Fjord Tourismus
-rtmp://stream.livespotting.tv/windit-edge/vv17_720p.stream
-#EXTINF:0 group-title="Webcam2", Frankfurt - Stadt Frankfurt am Main
-rtmp://stream.livespotting.tv/windit-edge/vv100_720p.stream
-#EXTINF:0 group-title="Webcam2", Freiburg - Volksbank
-rtmp://stream.livespotting.tv/windit-edge/vv112_720p.stream
-#EXTINF:0 group-title="Webcam2", Fulda - Schlossstraße
-rtmp://stream.livespotting.tv/windit-edge/vv62_720p.stream
-#EXTINF:0 group-title="Webcam2", Gaienhofen - Hotel Gasthaus Hirschen
-rtmp://stream.livespotting.tv/windit-edge/vv105_720p.stream
-#EXTINF:0 group-title="Webcam2", Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
-rtmp://stream.livespotting.tv/windit-edge/vv111_720p.stream
-#EXTINF:0 group-title="Webcam2", Gehlberg - Michael Gebser
-rtmp://stream.livespotting.tv/windit-edge/vv123_720p.stream
-#EXTINF:0 group-title="Webcam2", Germany
-http://ls11.webcamera.pl/karpacz_cam_133512/karpacz_cam_133512.stream/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Haffkrug - Lübecker Bucht
-rtmp://stream.livespotting.tv/windit-edge/vv40_720p.stream
-#EXTINF:0 group-title="Webcam2", Halle - Mitteldeutsches Multimediazentrum
-rtmp://stream.livespotting.tv/windit-edge/vv115_720p.stream
-#EXTINF:0 group-title="Webcam2", Hamburg - Emporio
-rtmp://stream.livespotting.tv/windit-edge/vv47_720p.stream
-#EXTINF:0 group-title="Webcam2", Hamburg - Michel
-rtmp://stream.livespotting.tv/windit-edge/LS_b5586_720p.stream
-#EXTINF:0 group-title="Webcam2", Hamburg - Unileverhaus
-rtmp://stream.livespotting.tv/windit-edge/vv74_720p.stream
-#EXTINF:0 group-title="Webcam2", Hannover - Congress Hotel
-rtmp://stream.livespotting.tv/windit-edge/vv71_720p.stream
-#EXTINF:0 group-title="Webcam2", Heidelberg - Hotel Panorama
-rtmp://stream.livespotting.tv/windit-edge/vv75_720p.stream
-#EXTINF:0 group-title="Webcam2", Heidelberg - PundM
-rtmp://stream.livespotting.tv/windit-edge/vv122_720p.stream
-#EXTINF:0 group-title="Webcam2", Hörnum - Sylt
-rtmp://stream.livespotting.tv/windit-edge/vv7_720p.stream
-#EXTINF:0 group-title="Webcam2", Ischgl - Pardatschgrat Seilbahn
-rtmp://stream.livespotting.tv/windit-edge/vv157_720p.stream
-#EXTINF:0 group-title="Webcam2", Ischgl - Talstation
-rtmp://stream.livespotting.tv/windit-edge/vv128_720p.stream
-#EXTINF:0 group-title="Webcam2", Juist - Inselgemeinde Juist
-rtmp://stream.livespotting.tv/windit-edge/vv51_720p.stream
-#EXTINF:0 group-title="Webcam2", Juister Hof - Juist
-rtmp://stream.livespotting.tv/windit-edge/vv146_720p.stream
-#EXTINF:0 group-title="Webcam2", KASPROWY WIERCH
-http://www.vision-environnement.com:1935/live/krasprowy.stream/index.m3u8
-#EXTINF:0 group-title="Webcam2", KRAKÓW Grodzka 2
-http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", KRAKÓW rynek Podgórski
-http://hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", KRAKÓW widok na WAWEL
-http://hls1.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", KRAKÓW. plaza Live
-http://hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Kampen - Sylt
-rtmp://stream.livespotting.tv/windit-edge/vv49_720p.stream
-#EXTINF:0 group-title="Webcam2", Kassel - Best Western
-rtmp://stream.livespotting.tv/windit-edge/vv125_720p.stream
-#EXTINF:0 group-title="Webcam2", Kiel - Ostufer
-rtmp://stream.livespotting.tv/windit-edge/vv28_720p.stream
-#EXTINF:0 group-title="Webcam2", Kiel - Port of Kiel
-rtmp://stream.livespotting.tv/windit-edge/vv77_720p.stream
-#EXTINF:0 group-title="Webcam2", Kiel - Schleuse
-rtmp://stream.livespotting.tv/windit-edge/vv38_720p.stream
-#EXTINF:0 group-title="Webcam2", Kitzbühel - Hahnenkamm Bergstation
-rtmp://stream.livespotting.tv/windit-edge/vv121_720p.stream
-#EXTINF:0 group-title="Webcam2", Kitzbühel - Hotel Rasmushof
-rtmp://stream.livespotting.tv/windit-edge/vv143_720p.stream
-#EXTINF:0 group-title="Webcam2", Koblenz - Hotel Continental
-rtmp://stream.livespotting.tv/windit-edge/vv36_720p.stream
-#EXTINF:0 group-title="Webcam2", Kowal Park Kazimierza Wielkiego
-rtmp://176.103.33.5:1935/live/kowal2
-#EXTINF:0 group-title="Webcam2", Kowal Park Kazimierza Wielkiego 2
-rtmp://176.103.33.5:1935/live/kowal
-#EXTINF:0 group-title="Webcam2", Kolobrzeg molo
-http://hls14.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream_audio/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Krefeld - Garden Hotel
-rtmp://stream.livespotting.tv/windit-edge/vv67_720p.stream
-#EXTINF:0 group-title="Webcam2", Krynica Zdroj
-http://hls1.webcamera.pl/nocowanie_cam_06a0f6/nocowanie_cam_06a0f6.stream/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Kwidzyn Stadnina koni
-http://hls1.webcamera.pl/kwidzyn_cam_5a33f5/kwidzyn_cam_5a33f5.stream/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Köln - Kölnturm
-rtmp://stream.livespotting.tv/windit-edge/vv69_720p.stream
-#EXTINF:0 group-title="Webcam2", Köln - Pullman Cologne
-rtmp://stream.livespotting.tv/windit-edge/vv99_720p.stream
-#EXTINF:0 group-title="Webcam2", Köln Heumarkt (Rhein- Domblick)
-rtmp://62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream
-#EXTINF:0 group-title="Webcam2", Kühlungsborn - Strand
-rtmp://stream.livespotting.tv/windit-edge/vv35_450p.stream
-#EXTINF:0 group-title="Webcam2", Laboe - Ehrenmal
-rtmp://stream.livespotting.tv/windit-edge/vv82_720p.stream
-#EXTINF:0 group-title="Webcam2", Langeness - TU Harburg
-rtmp://stream.livespotting.tv/windit-edge/vv136_720p.stream
-#EXTINF:0 group-title="Webcam2", Lech am Arlberg
-rtmp://stream.livespotting.tv/windit-edge/vv22_720p.stream
-#EXTINF:0 group-title="Webcam2", Lermoos - Zugspitze
-rtmp://stream.livespotting.tv/windit-edge/vv120_720p.stream
-#EXTINF:0 group-title="Webcam2", Lindau - Bodensee
-rtmp://stream.livespotting.tv:1935/windit-edge/vv50_720p.stream
-#EXTINF:0 group-title="Webcam2", Lindau - Lindauer Hof
-rtmp://stream.livespotting.tv/windit-edge/vv113_720p.stream
-#EXTINF:0 group-title="Webcam2", Lübeck - MUK
-rtmp://stream.livespotting.tv/windit-edge/vv44_720p.stream
-#EXTINF:0 group-title="Webcam2", Lübeck - Radisson Blu
-rtmp://stream.livespotting.tv/windit-edge/vv64_720p.stream
-#EXTINF:0 group-title="Webcam2", Lüneburg - Hotel Bergström
-rtmp://stream.livespotting.tv/windit-edge/vv135_720p.stream
-#EXTINF:0 group-title="Webcam2", Midtown East
-http://video3.earthcam.com/fecnetwork/5321.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam2", Mönchengladbach - Best Western Crown
-rtmp://stream.livespotting.tv/windit-edge/vv118_720p.stream
-#EXTINF:0 group-title="Webcam2", München - Deutsche Eiche
-rtmp://stream.livespotting.tv/windit-edge/vv72_720p.stream
-#EXTINF:0 group-title="Webcam2", München - wetter.com-Redaktion
-rtmp://stream.livespotting.tv/windit-edge/vv55_450p.stream
-#EXTINF:0 group-title="Webcam2", Münster - Raphaelsklinik
-rtmp://stream.livespotting.tv/windit-edge/vv116_720p.stream
-#EXTINF:0 group-title="Webcam2", Münster - Stadthaus
-rtmp://stream.livespotting.tv/windit-edge/vv63_720p.stream
-#EXTINF:0 group-title="Webcam2", Neuharlingersiel - Hafen Ost
-rtmp://stream.livespotting.tv/windit-edge/vv12_450p.stream
-#EXTINF:0 group-title="Webcam2", Neuharlingersiel - Hafen West
-rtmp://stream.livespotting.tv/windit-edge/vv13_450p.stream
-#EXTINF:0 group-title="Webcam2", Neuharlingersiel - Panorama
-rtmp://stream.livespotting.tv/windit-edge/vv14_450p.stream
-#EXTINF:0 group-title="Webcam2", Niendorf - Meerwasserhallenbad
-rtmp://stream.livespotting.tv/windit-edge/vv81_720p.stream
-#EXTINF:0 group-title="Webcam2", Norderney - Zimmerservice - Norderney
-rtmp://stream.livespotting.tv/windit-edge/vv147_720p.stream
-#EXTINF:0 group-title="Webcam2", NoviSad Trg Slobode
-rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream
-#EXTINF:0 group-title="Webcam2", OLSZTYN - panorama miasta
-http://hls13.webcamera.pl/olsztyn_cam_43a997/olsztyn_cam_43a997.stream/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Oberstdorf - Hotel Exquisit
-rtmp://stream.livespotting.tv/windit-edge/vv137_720p.stream
-#EXTINF:0 group-title="Webcam2", Oberwiesenthal - Hotel Fichtelberghaus
-rtmp://stream.livespotting.tv/windit-edge/vv30_720p.stream
-#EXTINF:0 group-title="Webcam2", Oldenburg - Nordwest-Zeitung
-rtmp://stream.livespotting.tv/windit-edge/vv91_720p.stream
-#EXTINF:0 group-title="Webcam2", Passau - Hotel König
-rtmp://stream.livespotting.tv/windit-edge/vv98_720p.stream
-#EXTINF:0 group-title="Webcam2", Pelzerhaken - Lübecker Bucht
-rtmp://stream.livespotting.tv/windit-edge/vv8_450p.stream
-#EXTINF:0 group-title="Webcam2", Pertisau am Achensee - Bergstation
-rtmp://stream.livespotting.tv/windit-edge/vv126_720p.stream
-#EXTINF:0 group-title="Webcam2", Pier -California
-http://video3.earthcam.com/fecnetwork/6253.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam2", Plougonvelin - Bretagne - France
-rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ALVOR
-http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ARRIFANA
-http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: BARRA
-http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: BUARCOS
-http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CAPARICA CDS
-http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CAPARICA S.JOÃO
-http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CARCAVELOS
-http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CARVALHAL
-http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ERICEIRA
-http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ESMORIZ
-http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ESPINHO
-http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: EVARISTO
-http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: FURADOURO
-http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: GRANDE
-http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: GUINCHO SUL
-http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: LAGIDE
-http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: LEÇA DA PALMEIRA
-http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MATOSINHOS
-http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MEIA PRAIA
-http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MIRA
-http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: NAZARÉ
-http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: PRAIA DA GALÉ
-http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: PRAIA DA LUZ
-http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
-
-
+#EXTINF:0 group-title="Webcam1", Berlin 40 Seconds
+rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
+#EXTINF:0 group-title="Webcam1", Berlin Restaurant Hugos/Hotel InterContinental
+rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
