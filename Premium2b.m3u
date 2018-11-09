@@ -1,12 +1,24 @@
 #EXTM3U
-#EXTINF:0 group-title="TV", Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1  group-title="Men" tvg-id="" tvg-name="" tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 group-title="Men" tvg-id="" tvg-name="" tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" ,Fashion TV (Opt-1)
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+
+#EXTINF:0  group-title="Men"  tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2017/04/class-tv-moda-sky.jpg", CLASS TV MODA
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0 group-title="Men" tvg-logo="vTv1ysB.png", FTV | FHD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Men" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FashionOneLogo.jpg/200px-FashionOneLogo.jpg" ,Fashion One
+http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 
 #EXTINF:0  group-title="TV" tvg-logo="https://iglesiaproyectovidaintegral.files.wordpress.com/2016/05/loltv.jpg?w=274&h=274", Green TV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
 
-#EXTINF:0  group-title="TV" tvg-logo="https://image.freepik.com/psd-gratis/retro-tv-icono-psd_30-2308.jpg", CLASICOS ACS
-https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VICta82.png" group-title="TV",TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
 #EXTINF:0 group-title="TV" tvg-logo="https://i.ytimg.com/i/7k--FhnJzhPTrbtldMSoQQ/mq1.jpg", ADN 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:0  group-title="TV"  tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif", Foro TV
@@ -25,6 +37,9 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0  group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png", Multimedios Laguna
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="TV",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 
 #EXTINF:0  group-title="TV" tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg", Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
@@ -50,6 +65,54 @@ http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/index_878_av-p.m3u8
 #EXTINF:0  group-title="TV"  tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png", TV Cosmos
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 
+#EXTINF:-1  group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png",History
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1 group-title="TV" tvg-logo="http://m.ebse.co.kr/new2014/images/Comm/EBS_English.jpg" ,EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 1
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 5
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 10
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tucabletv.com/wp-content/uploads/2018/05/miamitv.png" group-title="SPAIN",Miami TV Espana
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="USA",Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+
+#EXTINF:0  group-title="USA" tvg-logo="k2T6u4G.png", Miami TV | HD
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
 
 #EXTINF:0 group-title="TV", Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
@@ -57,14 +120,10 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:0 group-title="TV", BeMad FHD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:0  group-title="TV"   tvg-logo="https://yt3.ggpht.com/-1RjtzpOiHT4/AAAAAAAAAAI/AAAAAAAAAAA/WU2EQtQvQvs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg", RT EspaÒol
-http://secure-streams.akamaized.net/rt-esp/index2500.m3u8
 
 #EXTINF:0  group-title="TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", FOOD NETWORK
 http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/89.m3u8
 
-#EXTINF:0  group-title="TV"  tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2017/04/class-tv-moda-sky.jpg", CLASS TV MODA
-http://95.67.8.22/hls/idfashion/index.m3u8
 
 #EXTINF:0 group-title="TV", CBN Español
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
@@ -137,16 +196,13 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgenti
 
 
 
-#EXTINF:0 group-title="USA" tvg-logo="vTv1ysB.png", FTV | FHD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
 #EXTINF:0 group-title="USA" tvg-logo="HiSjDAa.png", HD Fashion & Lifestyle | FHD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:0  group-title="USA" tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png", London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:0  group-title="USA" tvg-logo="k2T6u4G.png", Miami TV | HD
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
 
 #EXTINF:0  group-title="USA", Weather Channel 
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
@@ -223,6 +279,12 @@ http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemusica.png" group-title="Musica",Telemusica
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="TV",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
 #EXTINF:0 group-title="Musica",Fresh TV Music (352p)
 http://wse.planeta-online.tv:1935/live/channel_4/master.m3u8
