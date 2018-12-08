@@ -204,34 +204,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
 #EXTINF:0 group-title="TV2", TELEHIT
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
-#EXTINF:0 group-title="TV2", VHR
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
-#EXTINF:0 group-title="TV2", MTV
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
-#EXTINF:0 group-title="TV2", MTV HITS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
-#EXTINF:0 group-title="TV2", 1CLASSICS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
-#EXTINF:0 group-title="TV2", RITMOSON
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
-#EXTINF:0 group-title="TV2", BANDAMAX
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
-#EXTINF:0 group-title="TV2", MTV LIVE HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
-#EXTINF:0 group-title="TV2", TELEHIT HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
-#EXTINF:0 group-title="TV2", VHR HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
-#EXTINF:0 group-title="TV2", MTV HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
-#EXTINF:0 group-title="TV2", MTV HITS HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
-#EXTINF:0 group-title="TV2", 1CLASSICS HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
-#EXTINF:0 group-title="TV2", RITMOSON HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
-#EXTINF:0 group-title="TV2", BANDAMAX HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 #EXTINF:0 group-title="TV2", Foro TV
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
 #EXTINF:0 group-title="TV2", MILENIO
@@ -809,6 +781,8 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:0 group-title="Medio", RUSIA EXTREAM
 http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,OUI TV3
+http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIpafvM.png" group-title="MUSICA", California Music Channel | HD
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="MUSICA", Radio Sanborja (Peru) | SD
@@ -835,6 +809,35 @@ http://fms.105.net:1935/live/rmc1/.m3u8
 http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="MUSICA", Radio Contact Feel Good | HD
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:0 group-title="MUSICA", VHR
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
+#EXTINF:0 group-title="MUSICA", MTV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
+#EXTINF:0 group-title="MUSICA", MTV HITS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
+#EXTINF:0 group-title="MUSICA", 1CLASSICS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
+#EXTINF:0 group-title="MUSICA", RITMOSON
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
+#EXTINF:0 group-title="MUSICA", BANDAMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
+#EXTINF:0 group-title="MUSICA", MTV LIVE HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
+#EXTINF:0 group-title="MUSICA", TELEHIT HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
+#EXTINF:0 group-title="MUSICA", VHR HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
+#EXTINF:0 group-title="MUSICA", MTV HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+#EXTINF:0 group-title="MUSICA", MTV HITS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
+#EXTINF:0 group-title="MUSICA", 1CLASSICS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
+#EXTINF:0 group-title="MUSICA", RITMOSON HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
+#EXTINF:0 group-title="MUSICA", BANDAMAX HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 
 
 
