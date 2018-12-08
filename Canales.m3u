@@ -1,73 +1,136 @@
 #EXTM3U
+
+#EXTINF:-1, ADN 40
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
+
+#EXTINF:-1,ADN 40
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
+
+#EXTINF:-1,FORMULA TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE03.m3u8
+
+#EXTINF:-1, MULTIMEDIOS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
+
+#EXTINF:0 group-title="TV" tvg-logo="Q2WEX34.png", Deutsche Welle Latino | SD
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1, Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+
+#EXTINF:-1, AZTECA 7
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8
+
+#EXTINF:-1, AZTECA 1
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL23/PROFILE03.m3u8
+
+#EXTINF:-1, AZTECA 40 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE05.m3u8
+
+#EXTINF:-1, MEXIQUENSE TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE03.m3u8
+
+#EXTINF:-1,LAS ESTRELLAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+
+#EXTINF:-1,CANAL 5
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+
+#EXTINF:-1,AZTECA 7 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+
+#EXTINF:-1, CANAL NUEVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+
+#EXTINF:-1, CANAL ONCE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
+
+#EXTINF:-1, AZTECA UNO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+
+#EXTINF:-1,BABY TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE03.m3u8
+
+
+#EXTINF:-1, LAS ESTRELLAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE03.m3u8
+
+#EXTINF:-1, CANAL 5 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE05.m3u8
+
  
-#EXTINF:0, Multimedios Laguna | HD
+#EXTINF:01, Multimedios Laguna | HD
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:0, group-title="MEXICO", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="MEXICO",  Aprende TV Mexico City
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MEXICO",Canal 9 Honduras
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1,EfectoTv
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-p.m3u8
+
+#EXTINF:-1,Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO", Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&amp;set-cc-attribute=cc
+
+#EXTINF:-1,Foro TV
+http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
+
+#EXTINF:-1, EFECTO TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+
+
+#EXTINF:-1,ColorVision
+http://ss2.domint.net:2138//cvh_str/colorvisionhd/chunklist_w1806822451.m3u8
+
+
+
+#EXTINF:-1 group-title="MEXICO", Canal 9 HD Concepcion
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO", Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Teleformula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1  group-title="MEXICO", TV Mas
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO", TV Cuatro 4.1 HD
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
+
+#EXTINF:-1 group-title="MEXICO", TVP Mazatlan
+https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png"group-title="MEXICO", Capital 21
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/AlG8pAu.png"group-title="MEXICO",Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6603/09671decbc3f7de471032605f1578e9ceaa0d67b_hq.jpg" group-title="INFANTIL",Cartoon Network mexico OPC2
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+
+#EXTINF:-1 group-title="MEXICO",Azteca Mas
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+
+
+#EXTINF:0,  group-title="MEXICO" ,Multimedios Monterrey HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
 
 #EXTINF:-1,CRIME & INVESTIGATION (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, hbo2 dual (eng esp)
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="CINE", Space
-http://usuarios.club/usuarios/src5/Space_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="CINE", TNT
-http://usuarios.club/usuarios/src5/TNT_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="CINE", Universal Channel
-http://usuarios.club/usuarios/src5/Universal_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="CINE", Warner Channel
-http://usuarios.club/usuarios/src1/WarnerChannel/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/fx.png" group-title="CINE", FX
-http://usuarios.club/usuarios/src5/FX_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="CINE", Fox
-http://usuarios.club/usuarios/src5/Fox_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/16.png" group-title="CINE", FOX Life
-http://usuarios.club/usuarios/src5/FoxLife_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title="CINE", Fox Premium Series
-http://usuarios.club/usuarios/src5/Fox1_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-action.png" group-title="CINE", Fox Action
-http://usuarios.club/usuarios/src5/FoxAction_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
-http://usuarios.club/usuarios/src1/FoxCinema/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-classics.png" group-title="CINE", Fox Classics
-http://usuarios.club/usuarios/src1/FoxClassics/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="CINE", Fox Movies
-http://usuarios.club/usuarios/src5/FoxMovies_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zmTGzafOIe8/Vfz6Yzk1MQI/AAAAAAAAAX0/bomr2zyOrdw/s400/logo%2BFOX%2BFAMILY.png" group-title="CINE", Fox Family
-http://usuarios.club/usuarios/src5/FoxFamily/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="CINE", HBO
-http://usuarios.club/usuarios/src5/HBO_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2
-http://usuarios.club/usuarios/src5/HBO2/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif" group-title="CINE", HBO Plus
-http://usuarios.club/usuarios/src5/HBOPlus_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO Family
-http://usuarios.club/usuarios/src5/HBOFamily/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/hbo-signature.gif" group-title="CINE", HBO Signature
-http://usuarios.club/usuarios/src5/HBOSignature/demo/kG4.m3u8
 
 #EXTINF:-1, FOX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
@@ -77,6 +140,31 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 
 #EXTINF:-1, WARNER
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+
+
+#EXTINF:-1, TNT HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE05.m3u8
+
+#EXTINF:-1, EDGE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
+
+#EXTINF:-1, AMC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
+
+#EXTINF:-1, SPACE HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE05.m3u8
+
+#EXTINF:-1, STUDIO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
+
+#EXTINF:-1, I SAT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
+
+#EXTINF:-1, TCM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
+
+#EXTINF:-1, TCM HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
 
 #EXTINF:-1, UNIVERSAL
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
@@ -93,8 +181,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
 #EXTINF:-1, TRU TV
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
 
-#EXTINF:-1, COMEDY CENTRAL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
 
 #EXTINF:-1,UNICABLE
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
@@ -102,7 +188,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
 #EXTINF:-1, HOLA TV
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
 
-#EXTINF:-1,Unknown
+#EXTINF:-1,Mas Chic
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE03.m3u8
 
 #EXTINF:-1, AZCORAZON
@@ -147,7 +233,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 #EXTINF:-1, AZMUNDO
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE03.m3u8
 
-#EXTINF:-1, DISCOBERY KIDS
+#EXTINF:-1, DISCOVERY KIDS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 
 #EXTINF:-1, DISNEY JR
@@ -186,17 +272,9 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
 #EXTINF:-1, FXM
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL332/PROFILE03.m3u8
 
-#EXTINF:-1, DEPELICULA
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE03.m3u8
-
-#EXTINF:-1, DEPELICULA HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
 
 #EXTINF:-1, COMEDY CENTRAL
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL341/PROFILE03.m3u8
-
-#EXTINF:-1, DISCOBERY THEATER
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
 
 #EXTINF:-1, HISTORY
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
@@ -204,11 +282,17 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 #EXTINF:-1, NATGEO WILD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
 
-#EXTINF:-1, DISCOBERY WORLD
+#EXTINF:-1, DISCOVERY THEATER
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
+
+#EXTINF:-1, DISCOVERY WORLD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
 
-#EXTINF:-1, DISCOBERY CHANNEL
+#EXTINF:-1, DISCOVERY CHANNEL
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+
+#EXTINF:-1, DISCOVERY CIVILIZATION
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 
 #EXTINF:-1, ANIMAL PLANET
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
@@ -225,8 +309,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
 #EXTINF:-1, SCI
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
 
-#EXTINF:-1, DISCOBERY CIVILIZATION
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 
 #EXTINF:-1, TLC
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
@@ -234,8 +316,10 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
 #EXTINF:-1, WOBI
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
 
-#EXTINF:-1, INGENIO TV
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE03.m3u8
+
+#EXTINF:-1, SUNDANCE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL69/PROFILE03.m3u8
+
 
 #EXTINF:-1, FOX SERIES
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
@@ -261,11 +345,36 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
 #EXTINF:-1, TNT
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
 
+#EXTINF:-1, FILM&ARTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE03.m3u8
+
+#EXTINF:-1, orbit tv
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+
 #EXTINF:-1, GOLDEN PLUS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
 
 #EXTINF:-1, FXM
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
+
+#EXTINF:-1, hbo2 dual (eng esp)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+
+#EXTINF:-1 group-title="CINE", Fox Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 group-title="CINE", HBO Signature
+http://usuarios.club/usuarios/src5/HBOSignature/demo/kG4.m3u8
+
+#EXTINF:-1 group-title="CINE", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+
+#EXTINF:-1, DEPELICULA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE03.m3u8
+
+#EXTINF:-1, DEPELICULA HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
 
 #EXTINF:-1, DPELICULA PLUS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
@@ -276,185 +385,25 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
 #EXTINF:-1, SPACE
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
 
-#EXTINF:-1,Unknown
+#EXTINF:-1, M
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL470/PROFILE03.m3u8
 
 #EXTINF:-1, CINEMAX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
 
-#EXTINF:-1, TNT HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE05.m3u8
-
-#EXTINF:-1, EDGE
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
-
-#EXTINF:-1, AMC
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
-
-#EXTINF:-1, SPACE HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE05.m3u8
-
-#EXTINF:-1, STUDIO
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
-
-#EXTINF:-1, I SAT
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
-
-#EXTINF:-1, TCM
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
-
-#EXTINF:-1, TCM HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
-
-#EXTINF:-1, Cantinflas 24/7
-http://usuarios.club/usuarios/src3/Cantinflas/demo/kG4.m3u8
-
-#EXTINF:-1, El Coyote y el Correcaminos 24/7
-http://usuarios.club/usuarios/src3/ElCoyoteYElCorrecaminos/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/xh3eu/503d8c2925.png" group-title="Infantiles", El Principel del Rap 24/7
-http://aleiptv.mine.nu:8000/live/aaron/1234/14082.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/xa5W8/e0f4f580f8.png" group-title="Infantiles", Dragon Ball Super 24/7
-http://aleiptv.mine.nu:8000/live/aaron/1234/14079.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/s2xL8/b732aa9e6c.png" group-title="Infantiles", Los Simpson 24/7
-http://aleiptv.mine.nu:8000/live/aaron/1234/14088.m3u8
-
-#EXTINF:-1 tvg-ID="Fox Movies (East)" tvg-name="Fox Movies" tvg-logo="http://158.69.127.19/oscuros/foxmovies.jpg"group-title="PREMIUM",Fox Movies
+#EXTINF:-1 group-title="MOVIES", Fox Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-ID="Fox Movies (East)" tvg-name="Fox Movies" tvg-logo="http://158.69.127.19/oscuros/foxmovies.jpg"group-title="PREMIUM",Fox Movies HD
+#EXTINF:-1 group-title="PREMIUM",Fox Movies HD
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mbMc2/7317d4746c.png" group-title="PREMIUM",MAX PRIME
+
+#EXTINF:-1 group-title="PREMIUM",MAX PRIME
 http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
 
-#EXTINF:-1 tvg-ID="Fox Comedy  557" tvg-name="Fox Comedy" tvg-logo="http://158.69.127.19/oscuros/foxcomedy.jpg"group-title="PREMIUM",Fox Comedy
+#EXTINF:-1 group-title="PREMIUM",Fox Comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="MEXICO", TV Azteca Honduras SD
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9cxDnlemp9bp5W6VfNd00sLfc4CE1Mi5bT20asCh0ITw6SjZm" group-title="MEXICO",  Aprende TV Mexico City
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Honduras" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1107.png" group-title="MEXICO",Canal 9 Honduras
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="MEXICO", Canal 9 HD Concepcion
-http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDp7i2xx2DS-afC0lEYVP23LHDKaq5RQ2ZSmVyLjxt9e-WJ8eG"group-title="MEXICO",IMPACTOVISION
-http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO",Azteca Mas
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO" ,Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO" ,Multimedios Monterrey HD
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO",MX: MILENIO TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="MEXICO", Retro TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1,  tvg-logo="http://mediavyasa.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="MEXICO",Teleformula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO", TV Mas
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO", TV Cuatro 4.1 HD
-https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqtpjZs.jpg"group-title="MEXICO", TVP Mazatlan
-https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png"group-title="MEXICO", Capital 21
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-
-#EXTINF:-1,  tvg-logo="https://i.imgur.com/AlG8pAu.png"group-title="MEXICO",Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6603/09671decbc3f7de471032605f1578e9ceaa0d67b_hq.jpg" group-title="INFANTIL",Cartoon Network mexico OPC2
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:-1 tvg-ID="Disney XD Latin America (Central/Multi Country)" tvg-name="Disney XD" tvg-logo="http://158.69.127.19/oscuros/disneyxd.png"group-title="INFANTIL",Disney XD
-http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Peques Tv
-http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb3Dz/67ee44ac5a.png" group-title="INFANTIL", Nick Toons
-http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist_b1296000_DVR.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/800px-Tooncast_logo.svg.png" group-title="INFANTIL",Tooncast
-http://video7.stream.mx:1935/raxatv/raxatv/media_w884577146.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="INFANTIL", Disney Channel HD
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTIL", Disney XD HD
-http://aleiptv.mine.nu:8000/aaron/1234/1063
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FiLefq7.jpg" group-title="INFANTIL", NICK HD
-http://aleiptv.mine.nu:8000/aaron/1234/466
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/U5N6sYdbHxYxfzVLIDXdE1JreHxutSBGTQI75a-XGux76pbTvPokqgr18JKS-QTt6A=w330-h160" group-title="INFANTIL", MOOLT TV
-http://aleiptv.mine.nu:8000/aaron/1234/11393
-
-#EXTINF:-1 tvg-ID="babytv.mx" tvg-name="Baby tv" tvg-logo="http://158.69.127.19/oscuros/babytv.png" group-title="INFANTIL",Baby tv
-http://listaccess.me:8880/live/vivian/vivian/2336.ts
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="CINE", A&E
-http://usuarios.club/usuarios/src5/AE_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="CINE", Comedy Central
-http://usuarios.club/usuarios/src5/ComedyCentral_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/5.png" group-title="CINE", Distrito Comedia
-http://usuarios.club/usuarios/src1/DistritoComedia/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/CINE-canal.png" group-title="CINE", CINEcanal
-http://usuarios.club/usuarios/src5/Cinecanal_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/the-film-zone-e.gif" group-title="CINE", Film Zone
-http://usuarios.club/usuarios/src5/FilmZone_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CINE/13.png" group-title="CINE", Studio Universal
-http://usuarios.club/usuarios/src1/StudioUniversal/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="CINE", AMC
-http://usuarios.club/usuarios/src5/AMC_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/20.png" group-title="CINE", Sony
-http://usuarios.club/usuarios/src5/Sony_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", Max Prime
-http://usuarios.club/usuarios/src5/MaxPrime/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbM9Q/075938049b.png" group-title="CINE", Max Up
-http://usuarios.club/usuarios/src5/MaxUp/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.CINEytele.com/wp-content/uploads/2016/06/paramount-channel.png" group-title="CINE", Paramount Channel
-http://usuarios.club/usuarios/src5/Paramount_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/30.png" group-title="CINE", Golden HD
-http://usuarios.club/usuarios/src5/Golden_HD/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://etb.com.co/hogares/img1/guia/logos/logo-goldenhd.jpg" group-title="CINE", Golden PLUS
-http://usuarios.club/usuarios/src1/GoldenEdge/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://masaryk.tv/wp-content/uploads/2015/05/az-cinema-cartel.jpg" group-title="CINE", AZTECA CINEMA
-http://usuarios.club/usuarios/src5/AzCinema/demo/kG4.m3u8
-
-#EXTINF:-1 tvg-logo="http://14575-presscdn-0-73.pagely.netdna-cdn.com/wp-content/uploads/2014/05/depelicula_gallery.jpg" group-title="CINE", DE PELICULA
-http://usuarios.club/usuarios/src5/DePelicula_HD/demo/kG4.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="CINE",24/7 Hollywood Movies 1
 http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
@@ -483,6 +432,45 @@ http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2
 #EXTINF:0 tvg-id="ext" group-title="CINE",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
+
+
+#EXTINF:-1 tvg-ID="Disney XD Latin America (Central/Multi Country)" tvg-name="Disney XD" tvg-logo="http://158.69.127.19/oscuros/disneyxd.png"group-title="INFANTIL",Disney XD
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Peques Tv
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mb3Dz/67ee44ac5a.png" group-title="INFANTIL", Nick Toons
+http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/800px-Tooncast_logo.svg.png" group-title="INFANTIL",Tooncast
+http://video7.stream.mx:1935/raxatv/raxatv/media_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="INFANTIL", Disney Channel HD
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTIL", Disney XD HD
+http://aleiptv.mine.nu:8000/aaron/1234/1063
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiLefq7.jpg" group-title="INFANTIL", NICK HD
+http://aleiptv.mine.nu:8000/aaron/1234/466
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/U5N6sYdbHxYxfzVLIDXdE1JreHxutSBGTQI75a-XGux76pbTvPokqgr18JKS-QTt6A=w330-h160" group-title="INFANTIL", MOOLT TV
+http://aleiptv.mine.nu:8000/aaron/1234/11393
+
+#EXTINF:-1 tvg-ID="babytv.mx" tvg-name="Baby tv" tvg-logo="http://158.69.127.19/oscuros/babytv.png" group-title="INFANTIL",Baby tv
+http://listaccess.me:8880/live/vivian/vivian/2336.ts
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="CINE",24/7 Movies 2
 http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
 
@@ -492,53 +480,6 @@ http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 #EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="CINE",24/7 Movies 4
 http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 
-#EXTINF:-1, ADN 40
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
-
-#EXTINF:-1, AZTECA 7
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8
-
-#EXTINF:-1, AZTECA 1
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL23/PROFILE03.m3u8
-
-#EXTINF:-1, AZTECA 40 HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE05.m3u8
-
-#EXTINF:-1, MEXIQUENSE TV
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE03.m3u8
-
-#EXTINF:-1,AZTECA CORAZON
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL45/PROFILE03.m3u8
-
-#EXTINF:-1, LAS ESTRELLAS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE03.m3u8
-
-#EXTINF:-1, CANAL 5 HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE05.m3u8
-
-#EXTINF:-1, SUNDANCE
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL69/PROFILE03.m3u8
-
-#EXTINF:-1,LAS ESTRELLAS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
-
-#EXTINF:-1,CANAL 5
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-
-#EXTINF:-1,AZTECA 7 HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
-
-#EXTINF:-1, CANAL NUEVE
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
-
-#EXTINF:-1, CANAL ONCE
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
-
-#EXTINF:-1, AZTECA UNO
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
-
-#EXTINF:-1,BABY TV
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE03.m3u8
 
 #EXTINF:-1,GOLDEN
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE03.m3u8
@@ -546,88 +487,12 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE03.m3u8
 #EXTINF:-1,EURO CHANNEL
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE03.m3u8
 
-#EXTINF:-1, FILM&ARTS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE03.m3u8
 
-#EXTINF:-1,ADN 40
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
 
-#EXTINF:-1,FORMULA TV
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE03.m3u8
-
-#EXTINF:-1, MULTIMEDIOS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
-
-#EXTINF:-1,DISCOVERY (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,NAT GEO WILD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,NAT GEO HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,CALLE 13 HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,TCM HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/780.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,TNT HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,SYFY HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/782.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,AXN WHITE HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,AXN HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,AMC HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/785.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,FOX LIFE HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,FOX HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,HOLLYWOOD HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/788.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,COMEDY CENTRAL HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,M. SERIES XTRA HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,M. SERIES (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,M. XTRA (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/792.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,M CINE ESPANOL (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/793.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,M. DCINE HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/794.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,M. COMEDIA HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,M. ACCION HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,M. ESTRENOS HD (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="CINE", Universal Channel
+#EXTINF:-1  group-title="CINE", Universal Channel
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="CINE", Warner Channel
+#EXTINF:-1 group-title="CINE", Warner Channel
 http://158.69.199.207/LIVE/H02/WARNER/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="DEPORTES", UFC NETWORK
@@ -648,11 +513,42 @@ http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 #EXTINF:-1,TV Mas
 http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
 
+#EXTINF:-1,OUI TV3
+http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
+
 #EXTINF:-1,PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 
 #EXTINF:-1,Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VIpafvM.png" group-title="MUSICA", California Music Channel | HD
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="MUSICA", Radio Sanborja (Peru) | SD
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="MUSICA", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LCdljln.png" group-title="MUSICA", Radio 105 Network | HD
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFbyigf.png" group-title="MUSICA", M2O TV | SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jE6NEKA.png" group-title="MUSICA", Hit TV | SD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="MUSICA", DJIng Ibiza | HD
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPRJHC6.png" group-title="MUSICA", Virgin Radio TV | SD
+http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gpa4LA6.png" group-title="MUSICA", Xite | HD
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpZPZEv.png" group-title="MUSICA", Radio Montecarlo TV | SD
+http://fms.105.net:1935/live/rmc1/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXgDjwN.png" group-title="MUSICA", Radio Bruno (Italia) | SD
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="MUSICA", Radio Contact Feel Good | HD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
 
 #EXTINF:0 tvg-id="NatGeoWild.hu" group-title="Channels",NATGEO WILD
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
@@ -705,32 +601,6 @@ http://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 #EXTINF:0, Life tv
 http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, orbit tv
-http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
-
-#EXTINF:-1,OUI TV3
-http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
-
-#EXTINF:-1,EfectoTv
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-p.m3u8
-
-#EXTINF:-1,Canal 10
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO", Capital 21 Mexico City
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&amp;set-cc-attribute=cc
-
-#EXTINF:-1,Foro TV
-http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
-
-#EXTINF:-1, EFECTO TV
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
-
-#EXTINF:-1, Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
-
-#EXTINF:-1,ColorVision
-http://ss2.domint.net:2138//cvh_str/colorvisionhd/chunklist_w1806822451.m3u8
 
 #EXTINF:-1,ATB
 http://186.121.206.197/live/daniel/index.m3u8
@@ -746,6 +616,9 @@ https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
 #EXTINF:0, Ultra TV Aguacalientes | HD
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+#EXTINF:-1, INGENIO TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE03.m3u8
 
 #EXTINF:0, Ingenio TV | SD
 http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
