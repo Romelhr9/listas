@@ -395,8 +395,7 @@ http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2IriHk7.png" group-title="VENEZUELA", [COLOR red]VENEZUELA[/COLOR]
-http://127.0.0.1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bbjI8GJ.png" group-title="VENEZUELA", TLT | SD
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp2xXU0.png" group-title="VENEZUELA", Ve Plus | SD
@@ -406,47 +405,27 @@ https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2RtIwMu.png" group-title="VENEZUELA", TVES | SD
 http://198.24.135.42/canal10/canal10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3hXZYdt.png" group-title="PUERTO RICO", [COLOR red]PUERTO RICO[/COLOR]
-http://127.0.0.1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCZaHUO.png" group-title="PUERTO RICO", Wapa | SD
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FK4wvH0.png" group-title="URUGUAY", [COLOR red]URUGUAY[/COLOR]
-http://127.0.0.1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kcRYRqs.png" group-title="URUGUAY", Tele | HD
 http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skLKmML.png" group-title="URUGUAY", Canal-M | HD
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q87HBes.png" group-title="SALVADOR", [COLOR red]SALVADOR[/COLOR]
-http://127.0.0.1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKVN8gR.png" group-title="SALVADOR", TVO | SD
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="SALVADOR", WOW TV | SD
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IAKNmUc.png" group-title="CHILE", [COLOR red]CHILE[/COLOR]
-http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN | HD
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HN9mYDP.png" group-title="CHILE", MEGA | HD
-http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AopOaEX.jpg" group-title="CHILE", CHV | HD
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HqKYZvm.png" group-title="CHILE", Canal 13 | SD
-http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6RSsii5.png" group-title="CHILE", T13 Movil | SD
-http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dd9PMar.png" group-title="CHILE", CNN Chile | HD (Mirror USA)
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="CHILE", 24 Play | HD
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0kJfD7l.png" group-title="CHILE", TV Chile | SD
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hqlqsn3.png" group-title="CHILE", Ahora Noticias | HD
-http://mdstrm.com/live-stream-playlist/561713ae330428c223687e1e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bsrVp3u.png" group-title="CHILE", NIU TV | HD
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HGma9m.png" group-title="CHILE", CDO | SD
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="CHILE", Canal 9 | HD | Concepcion
@@ -466,8 +445,6 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN Señal de Pruebas | HD
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsiBRDv.png" group-title="NOTICIAS", [COLOR red]NOTICIAS[/COLOR]
-http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="NOTICIAS", Sky News | HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="NOTICIAS", Sky News (Alt) | HD
@@ -478,26 +455,9 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tMrDZ6b.png" group-title="NOTICIAS", Weather Nation | HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7YGiUy.png" group-title="NOTICIAS", C-SPAN | HD
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/og0L5fB.png" group-title="NOTICIAS", C-SPAN 2 | HD
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JAqH6Pi.png" group-title="NOTICIAS", C-SPAN 3 | HD
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT Español | HD
-https://secure-streams.akamaized.net/rt-esp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT News | HD
-https://secure-streams.akamaized.net/rt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT USA | HD
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT UK | HD
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT Docu | HD
-https://secure-streams.akamaized.net/rt-doc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="NOTICIAS", TRT World | FHD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6J7g61.png" group-title="NOTICIAS", BBC World News | SD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV US | HD
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV Europe | HD
@@ -514,38 +474,31 @@ https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV Asia Live Event | HD
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hov1cKZ.png" group-title="NOTICIAS", TV5 Monde Amerique Latine | SD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hov1cKZ.png" group-title="NOTICIAS", TV5 Monde Info | FHD
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hov1cKZ.png" group-title="NOTICIAS",  TV5 Monde Asie | FHD
-https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="NOTICIAS", NHK World | HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="NOTICIAS", NHK World (Alt)| HD
-http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deutsche Welle Latino | SD
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deutsche Welle | SD
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fB68JWo.png" group-title="NOTICIAS", Aljazeera | FHD
-https://iptv.matthuisman.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7mJGF3.png" group-title="NOTICIAS", ABC News | HD
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NOTICIAS", France 24 | HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyOjHZ8.png" group-title="NOTICIAS", Arirang | HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="NOTICIAS", Channel NewsAsia | SD
-https://tglcnash-i.akamaihd.net/hls/live/566559/pcweb/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tlU5Unv.png" group-title="NOTICIAS", NOTV 41 New Orleans - Louisiana | HD
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e8a18XH.png" group-title="NOTICIAS", London Live | HD
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZtoqgX.png" group-title="NOTICIAS", CBS News | HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SeVaece.jpg" group-title="NOTICIAS", RAI News 24 | SD
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8?laope
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="NOTICIAS", WGN Chicago | HD
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="NOTICIAS", CTV News Live Events 1 | HD
@@ -557,8 +510,7 @@ http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="NOTICIAS", CTV News Live Events 4 | HD
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJeSFj7.png" group-title="PANAMA", [COLOR red]PANAMA[/COLOR]
-http://127.0.0.1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA", RPC TV | HD
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5fL6hEU.png" group-title="PANAMA", Telemetro | HD
