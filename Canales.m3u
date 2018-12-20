@@ -1,17 +1,10 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="", TVMax
-http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cablenoticias.png" group-title="Entretenimiento", Cablenoticias
-http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-cArxhHlR3Po/XAwPFINp3JI/AAAAAAAAAn8/VXP4SwFUFGQ7Kc63Nly8r9x9mn6jp-yAQCLcBGAs/s320/photo_2018-12-08_12-32-13.jpg" group-title="Entretenimiento", Portal TV
+#EXTINF:-1 tvg-id="" channel-id="001"  tvg-logo="https://3.bp.blogspot.com/-cArxhHlR3Po/XAwPFINp3JI/AAAAAAAAAn8/VXP4SwFUFGQ7Kc63Nly8r9x9mn6jp-yAQCLcBGAs/s320/photo_2018-12-08_12-32-13.jpg" group-title="Entretenimiento", Portal TV
 http://mediacp.live:1935/8318/8318/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logo-tv-azteca-png.jpg/200px-Logo-tv-azteca-png.jpg" group-title="Entretenimiento", Azteca 1 
+#EXTINF:-1 tvg-id="" channel-id="002"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logo-tv-azteca-png.jpg/200px-Logo-tv-azteca-png.jpg" group-title="Entretenimiento", Azteca 1 
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 
 
@@ -85,6 +78,12 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", VTV 2
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", TVMax
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cablenoticias.png" group-title="Entretenimiento", Cablenoticias
+http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv/.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Cine", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
