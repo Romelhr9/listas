@@ -1,15 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-chno="1" tvg-id="" channel-id="001"  tvg-logo="https://3.bp.blogspot.com/-cArxhHlR3Po/XAwPFINp3JI/AAAAAAAAAn8/VXP4SwFUFGQ7Kc63Nly8r9x9mn6jp-yAQCLcBGAs/s320/photo_2018-12-08_12-32-13.jpg" group-title="Entretenimiento", Portal TV
+#EXTINF:0 tvg-chno="1" tvg-id="" channel-id="001"  tvg-logo="https://3.bp.blogspot.com/-cArxhHlR3Po/XAwPFINp3JI/AAAAAAAAAn8/VXP4SwFUFGQ7Kc63Nly8r9x9mn6jp-yAQCLcBGAs/s320/photo_2018-12-08_12-32-13.jpg" group-title="Entretenimiento", Portal TV
 http://mediacp.live:1935/8318/8318/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="" channel-id="2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logo-tv-azteca-png.jpg/200px-Logo-tv-azteca-png.jpg" group-title="Entretenimiento", Azteca 1 
+#EXTINF:0 tvg-chno="2" tvg-id="" channel-id="2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logo-tv-azteca-png.jpg/200px-Logo-tv-azteca-png.jpg" group-title="Entretenimiento", Azteca 1 
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="Entretenimiento", American Horrors
+#EXTINF:0  tvg-chno="3" tvg-id="" channel-id="3" tvg-id="" tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="Entretenimiento", American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios CDMX
 http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
