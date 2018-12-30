@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:0 group-title="ENTRETENIMIENTO", Fashion Tv
+http://bit.ly/2zOVkbF
+
+#EXTINF:-1  group-title="Men" tvg-id="" tvg-name="" tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+
+#EXTINF:0  group-title="Men"  tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2017/04/class-tv-moda-sky.jpg", CLASS TV MODA
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0 group-title="Men" tvg-logo="vTv1ysB.png", FTV | FHD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+
+
+
 #EXTINF:0 group-title="TV2",DISCOVERY THEATER
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
 #EXTINF:0 group-title="TV2",HISTORY
@@ -210,19 +225,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
 
 
-#EXTINF:-1  group-title="Men" tvg-id="" tvg-name="" tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png",HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1 group-title="Men" tvg-id="" tvg-name="" tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" ,Fashion TV (Opt-1)
-http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
-
-#EXTINF:0  group-title="Men"  tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2017/04/class-tv-moda-sky.jpg", CLASS TV MODA
-http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:0 group-title="Men" tvg-logo="vTv1ysB.png", FTV | FHD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Men" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FashionOneLogo.jpg/200px-FashionOneLogo.jpg" ,Fashion One
-http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 
 #EXTINF:0  group-title="TV" tvg-logo="https://iglesiaproyectovidaintegral.files.wordpress.com/2016/05/loltv.jpg?w=274&h=274", Green TV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
