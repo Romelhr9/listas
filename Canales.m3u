@@ -5,8 +5,7 @@
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO", Fashion Tv
 http://bit.ly/2zOVkbF
-#EXTINF:0  group-title="Men"  tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2017/04/class-tv-moda-sky.jpg", CLASS TV MODA
-http://95.67.8.22/hls/idfashion/index.m3u8
+
 #EXTINF:0 group-title="Men" tvg-logo="vTv1ysB.png", FTV | FHD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:0 tvg-chno="2" channel-id="2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logo-tv-azteca-png.jpg/200px-Logo-tv-azteca-png.jpg" group-title="Entretenimiento", Azteca 1 
