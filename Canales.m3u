@@ -81,8 +81,6 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="", TVMax
 http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="http://photocall.tv/images/cablenoticias.png" group-title="Entretenimiento", Cablenoticias
-http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv/.m3u8
 
 
 #EXTINF:0 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Cine", Extrema TV
@@ -800,7 +798,7 @@ http://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
 #EXTINF:0, Antena 3
 http://antena3-pull2b-a3player.secure.footprint.net/antena3/bitrate_4.m3u8
 
-#EXTINF:.1,A3series
+#EXTINF:0,  A3series
 http://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 
 #EXTINF:0, Life tv
@@ -918,7 +916,7 @@ http://bit.ly/SAHARAMOVIE
 #EXTINF:0 tvg-logo="http://bit.ly/PORTPET" group-title="ESTRENOS", Mascota Humana (2016)
 http://bit.ly/MASCOTAHUMANA
 
-#EXTINF: -1, ESTRENOS: DANIEL EL TRAVIESO (CLASICA)
+#EXTINF:0,   ESTRENOS: DANIEL EL TRAVIESO (CLASICA)
 http://bit.ly/DANIELELTRAVIESO_MOVIE
 
 #EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/e5Xf4RrQVrxSwV2MG3I5sSjBieX-185x278.jpg" group-title="VOD 2018",EL FINAL DE TODO
@@ -1350,7 +1348,7 @@ http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
 #EXTINF:0,.:impacto mortal
 http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
 
-#EXTINF-1,espia Por accidente
+#EXTINF:0,  ,espia Por accidente
 http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?disco
 
 #EXTINF:0,VALERIAN Y LA CIUDAD DE MIL PLANETAS
@@ -4583,43 +4581,43 @@ http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4
 #EXTINF:0 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"hallowen
 http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
 
-#EXTINF:0Fiesta-de-bodas
+#EXTINF:0, Fiesta-de-bodas
 http://iptvperu@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?
 
-#EXTINF:0Hermanos grimm
+#EXTINF:0, Hermanos grimm
 http://iptvperu@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?
 
-#EXTINF:0Ilusionista
+#EXTINF:0, Ilusionista
 http://iptvperu@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?
 
-#EXTINF:0Espia Por accidente
+#EXTINF:0, Espia Por accidente
 http://iptvperu@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?
 
-#EXTINF:0.:hallowen
+#EXTINF:0,hallowen
 http://iptvperu@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
 
-#EXTINF:0.:un vuelo de locura
+#EXTINF:0,  un vuelo de locura
 http://iptvperu@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
 
-#EXTINF:0.:volver al futuro 3
+#EXTINF:0,  volver al futuro 3
 https://iptvperu@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 
-#EXTINF:0.:el gran robo
+#EXTINF:0,  el gran robo
 http://iptvperu@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4
 
-#EXTINF:0.:el dia del apocalipsis
+#EXTINF:0,  el dia del apocalipsis
 http://iptvperu@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
 
-#EXTINF:0.:impacto mortal
+#EXTINF:0,  impacto mortal
 http://iptvperu@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4
 
-#EXTINF-1espia Por accidente
+#EXTINF:0,  espia Por accidente
 http://iptvperu@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
 
-#EXTINF:0.:hermanos grimm
+#EXTINF:0,  hermanos grimm
 http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?disco
 
-#EXTINF:0.:ilusionista
+#EXTINF:0,  ilusionista
 http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?disco
 
 #EXTINF:0 tvg-logo="https://goo.gl/DKMkuk" group-title="ESTRENOS", ANGRY BIRDS
@@ -12135,4 +12133,3 @@ http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
 #EXTINF:0,Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-
