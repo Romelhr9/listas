@@ -51,6 +51,11 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
 #EXTINF:0, DISCOVERY CIVILIZATION
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 
+#EXTINF:0, Discovery Science
+http://usuarios.club/usuarios/src1/DiscoverySCI/demo/kG4.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CULTURA/14.png", Discovery TLC
+http://usuarios.club/usuarios/src1/TLC/demo/kG4.m3u8
 
 #EXTINF:0, ANIMAL PLANET
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
@@ -88,6 +93,43 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 #EXTINF:0, WARNER
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 
+#EXTINF:0   group-title="Latinos", Peru BHTV Hacks
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+
+
+#EXTINF:0,Canal BHtv iptv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+
+
+#EXTINF:0,PERU:BHtv (Opt-2)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+
+#EXTINF:0, CANAL BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="España", Antena 3 Internacional
+http://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="ESPAÑA", La Sexta | HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:0  tvg-logo="http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png" group-title="España", La Sexta
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Gjp11Z3.png" group-title="ESPAÑA", Mega España | HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:0  tvg-logo="http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad" group-title="España",NOVA 
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8
+
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png" group-title="España", Be Mad 
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:0  tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_58130.png" group-title="España", TVE
+http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11298.m3u8
 
 #EXTINF:0, FOX SERIES
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
@@ -104,8 +146,32 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
 #EXTINF:0, FOX CLASSICS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
 
+#EXTINF:-1, Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
 #EXTINF:0 group-title="CINE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-plus-w.gif" group-title="CINE", HBO Plus
+http://usuarios.club/usuarios/src5/HBOPlus_HD/demo/kG4.m3u8
+
+#EXTINF:-1, Pluto TV Movies 1
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1, Pluto TV Movies 2
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/89e2e757528b704cae2a6a948f6fc0faa97b5cbba2b3fbf2acb9caac0b6bc632.png" group-title="CINE",Flashback TV
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@533390/master.m3u8
+
+#EXTINF:-1, Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1, Showtime HD
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:0, CLASSIQUE TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
 
 #EXTINF:0, AZTECA CINEMA
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
@@ -248,6 +314,9 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
 
 #EXTINF:0, TBS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Cultura", SRTV C7 Cultura
+http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8?DVR
 
 #EXTINF:0, AZTECA 40 HD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE05.m3u8
@@ -466,6 +535,9 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", Masha y el Oso
+https://www.youtube.com/watch?v=nShz5rkeX2E&t=1225s
+
 
 
 #EXTINF:0 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Cine", Extrema TV
@@ -494,8 +566,6 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Cultura", SRTV Cultura
-http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8?DVR
 #EXTINF:0 tvg-id="" tvg-logo="http://photocall.tv/images/aprendetv.png" group-title="Cultura", Aprende TV
 http://liveingesta118.cdnmedia.tv//dgtvelive/smil:aprend24.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" group-title="Cultura", DW Entretenimiento
@@ -803,6 +873,7 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 
 #EXTINF:0, FM HOT PELICULAS
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+
 
 #EXTINF:0, FM HOT PELICULAS
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b800000_slesp.m3u8
@@ -2123,8 +2194,6 @@ http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
 #EXTINF:0,NOTICIAS:TV Noticias 7.3 (Peru)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
-#EXTINF:0,Canal BHtv
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0,ENTRETENIMIENTO:Eco TV (Panama)
 http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
@@ -3814,8 +3883,6 @@ http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
 #EXTINF:0, T V3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 
-#EXTINF:0, CLASSIQUE TV
-http://45.43.208.2:1935/classique/classique/live.m3u8
 
 #EXTINF:0, Radio Montecarlo
 http://wow01.105.net/live/rmc1/playlist.m3u8
@@ -4226,8 +4293,6 @@ http://85.214.130.95:8080/live/stream.m3u8
 #EXTINF:0, luna tv
 http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
 
-#EXTINF:0, CANAL BHTV
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 
 #EXTINF:0, MICRO VISION
 http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
@@ -4433,11 +4498,7 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 #EXTINF:0,ARGENTINA:Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
 
-#EXTINF:0,PERU:BHtv (Opt-1)
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:0,PERU:BHtv (Opt-2)
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
@@ -4520,11 +4581,7 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/2zQi7G3.png" group-title="ESPAÑA", ATRESeries | HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="ESPAÑA", La Sexta | HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Gjp11Z3.png" group-title="ESPAÑA", Mega España | HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/f4B8ONt.png" group-title="ESPAÑA", Neox | HD
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
