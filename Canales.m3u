@@ -98,21 +98,6 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
-#EXTINF:0, TLNOVELAS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
-
-
-#EXTINF:0, DISCOVERY KIDS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
-
-#EXTINF:0, DISNEY JR
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
-
-#EXTINF:0, NICJ JR.
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
-
-#EXTINF:0, DISNEY CHANNEL
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/jXYUj6Xx62.jpg" group-title="Infantil", Pequeradio
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
@@ -1492,10 +1477,16 @@ https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?d
 #EXTINF:0 tvg-id="avi" group-title="VOD CINE CLASICO",Child's Play (1988)
 https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
 
+
+
+
+
+
 #EXTINF:0  group-title="Men" tvg-id="" tvg-name="" tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO", Fashion Tv
 http://bit.ly/2zOVkbF
+
 
 #EXTINF:0 tvg-id="avi" group-title="VOD CINE CLASICO",Porkys Revenge (1985)
 https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
@@ -1505,6 +1496,22 @@ https://ia801503.us.archive.org/23/items/LosNinosDelMaiz/Los%20ni%C3%B1os%20del%
 
 #EXTINF:0 tvg-id="avi" group-title="VOD CINE CLASICO",Vacaciones en Acapulco (1977)
 https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+
+#EXTINF:0, TLNOVELAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+
+
+#EXTINF:0, DISCOVERY KIDS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
+
+#EXTINF:0, DISNEY JR
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
+
+#EXTINF:0, NICJ JR.
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
+
+#EXTINF:0, DISNEY CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="VOD CINE CLASICO",La Presidenta Municipal (1975)
 https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
