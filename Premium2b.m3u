@@ -1,1049 +1,631 @@
 #EXTM3U
-
-#EXTINF::0 group-title="ENTRETENIMIENTO", Fashion Tv
+#EXTINF:0, Fashion Tv
 http://bit.ly/2zOVkbF
-
-#EXTINF:0  group-title="Men" tvg-id="" tvg-name="" tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png",HD Fashion
+#EXTINF:0,HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-
-#EXTINF:0  group-title="Men"  tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2017/04/class-tv-moda-sky.jpg", CLASS TV MODA
-http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:0 group-title="Men" tvg-logo="vTv1ysB.png", FTV | FHD
+#EXTINF:0, FTV | FHD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
-
-#EXTINF:0  group-title="TV" tvg-logo="https://iglesiaproyectovidaintegral.files.wordpress.com/2016/05/loltv.jpg?w=274&h=274", Green TV
+#EXTINF:0, Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0, Green TV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VICta82.png" group-title="TV",TV Marti
+#EXTINF:0,TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-
-
-
-
-#EXTINF:0  group-title="TV"  tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg", TELEFORMULA
+#EXTINF:0, TELEFORMULA
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-
-#EXTINF:0 group-title="TV", Canal Once
+#EXTINF:0, Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
-
-
-#EXTINF:0 group-title="TV", MULTIMEDIOS MONTERREY HD
+#EXTINF:0, SRTV C7 Cultura
+http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8?DVR
+#EXTINF:0, MULTIMEDIOS MONTERREY HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0  group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png", Multimedios Laguna
+#EXTINF:0, Multimedios Laguna
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:0 tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="TV",HBO 2
+#EXTINF:0,HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-
-#EXTINF:0  group-title="TV" tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg", Boing
+#EXTINF:0, Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-
-#EXTINF:0 group-title="TV"  tvg-logo="http://maestros-informados.com.mx/wp-content/uploads/2016/10/aprendeTV.jpg", Aprende Tv
+#EXTINF:0, Aprende Tv
 http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
-
-#EXTINF:0 group-title="TV" tvg-logo="Q2WEX34.png", Deutsche Welle Latino | SD
+#EXTINF:0, Deutsche Welle Latino | SD
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-
-
-#EXTINF:0  group-title="TV" tvg-logo="https://yt3.ggpht.com/-cmw1yRJqfTA/AAAAAAAAAAI/AAAAAAAAAAA/MO0nxnZqRtU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg", CAPITAL 21 CDMX
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:0 group-title="TV"  tvg-logo="https://pbs.twimg.com/media/CsMXThRUkAARDbk.jpg", Ciudad Tv 21.2
-http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
-
-#EXTINF:0  group-title="TV"  tvg-logo="https://i.imgur.com/vx0MDvE.jpg", Impactovision
-http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
-
-#EXTINF:0 group-title="TV" tvg-logo="http://www.amdc.org.mx/blog/wp-content/uploads/2012/10/Analizara-Cofetel-nuevo-proyecto-de-Resolucion-Uno-TV.jpg", Uno TV
-http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/index_878_av-p.m3u8
-
-#EXTINF:0  group-title="TV"  tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png", TV Cosmos
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
-
-#EXTINF:0  group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png",History
-http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
-#EXTINF:0 group-title="TV" tvg-logo="http://m.ebse.co.kr/new2014/images/Comm/EBS_English.jpg" ,EBS English
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-
-
-#EXTINF:0 tvg-id="" tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="TV", American Horrors
-http://170.178.189.66:1935/live/Stream1/.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 1
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 2
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 5
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 9
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 10
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
-
-#EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="TV",24/7 Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-#EXTINF:0 tvg-logo="http://www.tucabletv.com/wp-content/uploads/2018/05/miamitv.png" group-title="SPAIN",Miami TV Espana
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="USA",Miami TV
-http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
-
-#EXTINF:0  group-title="USA" tvg-logo="k2T6u4G.png", Miami TV | HD
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-
-
-#EXTINF:0 group-title="TV", Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-#EXTINF:0 group-title="TV", MLB EN VIVO
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 group-title="TV", BeMad FHD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-
-
-
-#EXTINF:0 group-title="TV", CBN Español
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xWYteYe.png" group-title="TV", Ingenio TV | SD
-http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
-
-#EXTINF:0  group-title="TV", Telemax Argentina
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8#MegaIPTVArgentina
-
-#EXTINF:0  group-title="TV", UCSG TV Ecuador
-rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
-
-#EXTINF:0 group-title="TV" tvg-logo="https://cdn.expansion.mx/dims4/default/de126e6/2147483647/thumbnail/800x450%5E/quality/75/?url=https%3A%2F%2Fcdn.expansion.mx%2Fmedia%2F2015%2F09%2F28%2Fel-logo-del-canal-que-sumar-esfuerzo-de-televisiones-educativas-de-iberoamrica.jpg", Canal Iberoamericano
-http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
-
-#EXTINF:0 group-title="TV", El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/FqtpjZs.jpg" group-title="MEXICO", TVP Mazatlan | FHD
-https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/u4wj40K.jpg" group-title="MEXICO", Telemax Sonora | HD
-http://s5.mexside.net:1935/telemax_1/telemax_1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="MEXICO", 15TV Sabinas | SD
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8s
-#EXTINF:0 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO", TV Cuatro 4.1 | HD
-https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/FQxBTB9.png" group-title="MEXICO", TV Cuatro 4.2 | HD
-https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/NsPz9Tr.png" group-title="MEXICO", RCG | SD
-http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="MEXICO", RCG 2 | SD
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="MEXICO", RCG 3 | SD
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO", TV Cuatro 4.1 | HD
-https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/FQxBTB9.png" group-title="MEXICO", TV Cuatro 4.2 | HD
-https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/FqtpjZs.jpg" group-title="MEXICO", TVP Mazatlan | FHD
-https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/u4wj40K.jpg" group-title="MEXICO", Telemax Sonora | HD
-http://s5.mexside.net:1935/telemax_1/telemax_1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="MEXICO", 15TV Sabinas | SD
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Epj6mqE.png" group-title="MEXICO", Ocho TV (Guadalajara) | FHD
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/bbjI8GJ.png" group-title="VENEZUELA", TLT | SD
-http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Hp2xXU0.png" group-title="VENEZUELA", Ve Plus | SD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/AOCJ0wq.png" group-title="VENEZUELA", TeleSUR | FHD
-https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/2RtIwMu.png" group-title="VENEZUELA", TVES | SD
-http://198.24.135.42/canal10/canal10/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/aCZaHUO.png" group-title="PUERTO RICO", Wapa | SD
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/kcRYRqs.png" group-title="URUGUAY", Tele | HD
-http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/skLKmML.png" group-title="URUGUAY", Canal-M | HD
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gKVN8gR.png" group-title="SALVADOR", TVO | SD
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="SALVADOR", WOW TV | SD
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/AopOaEX.jpg" group-title="CHILE", CHV | HD
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/2HGma9m.png" group-title="CHILE", CDO | SD
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="CHILE", Canal 9 | HD | Concepcion
-http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", Camara de Diputados | SD
-http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", Camara de Diputados (DVR) | SD
-http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
-#EXTINF:0 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="CHILE", TV Senado | HD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:0 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="CHILE", Teletrak | HD
-http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="CHILE", Sporting | HD
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="CHILE", FM Hot | HD
-http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN Señal de Pruebas | HD
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="NOTICIAS", Sky News | HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="NOTICIAS", Sky News (Alt) | HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xNlaLSD.png" group-title="NOTICIAS", MSNBC | FHD
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="NOTICIAS", The Weather Channel | HD
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/tMrDZ6b.png" group-title="NOTICIAS", Weather Nation | HD
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="NOTICIAS", TRT World | FHD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV US | HD
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV Europe | HD
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV Asia | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV Australia | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV Politics Live Event | HD
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV US Live Event | HD
-https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV EMEA Live Event | HD
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS", Bloomberg TV Asia Live Event | HD
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/hov1cKZ.png" group-title="NOTICIAS", TV5 Monde Info | FHD
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="NOTICIAS", NHK World | HD
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deutsche Welle Latino | SD
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deutsche Welle | SD
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/u7mJGF3.png" group-title="NOTICIAS", ABC News | HD
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NOTICIAS", France 24 | HD
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/fyOjHZ8.png" group-title="NOTICIAS", Arirang | HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/tlU5Unv.png" group-title="NOTICIAS", NOTV 41 New Orleans - Louisiana | HD
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/zZtoqgX.png" group-title="NOTICIAS", CBS News | HD
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="NOTICIAS", WGN Chicago | HD
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="NOTICIAS", CTV News Live Events 1 | HD
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="NOTICIAS", CTV News Live Events 2 | HD
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="NOTICIAS", CTV News Live Events 3 | HD
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="NOTICIAS", CTV News Live Events 4 | HD
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA", RPC TV | HD
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5fL6hEU.png" group-title="PANAMA", Telemetro | HD
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/2Hk2zJQ.png" group-title="PANAMA", TVN Panama | HD
-https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949.m3u8?oosm=1
-#EXTINF:0 tvg-logo="https://i.imgur.com/rRmG5kE.jpg" group-title="PANAMA", ECO | HD
-http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ACu9QTH.png" group-title="PANAMA", OYE | HD
-http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="PANAMA", Nex TV | SD
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/JKqx2nK.png" group-title="PERU", [COLOR red]PERU[/COLOR]
-http://127.0.0.1
-#EXTINF:0 tvg-logo="https://i.imgur.com/wuFwbRC.png" group-title="PERU", America TV  | SD
-http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Dv979fQ.png" group-title="PERU", Panamericana TV | SD
-http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="PERU", Antares TV | SD
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="Internacional", Antares TV
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/4JeqvDc.png" group-title="PERU", Capital TV | SD
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="PERU", Top Latino | SD
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru | HD
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
-http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERU", Ovacion | SD
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Araquipa | SD
-http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/6UuFzgM.jpg" group-title="PERU", Digital TV Peru | HD
-http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
-http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/YLMsGKN.png" group-title="PERU", Onda Digital TV | HD
-http://vs8.live.opencaster.com/opencaster/vxtygFvyHuoB/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/dd6ZzqF.jpg" group-title="PERU", Latina TV | SD
-http://photocall.tv/latina.php/.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/PXK8Hyx.png" group-title="PARAGUAY", [COLOR red]PARAGUAY[/COLOR]
-http://127.0.0.1
-#EXTINF:0 tvg-logo="https://i.imgur.com/x3TKq7w.png" group-title="PARAGUAY", Telefuturo | SD
-http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="PARAGUAY", Unicanal | SD
-http://strm.unicanal.com.py/live/unicanal.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/jggBn4N.png" group-title="HONDURAS", [COLOR red]HONDURAS[/COLOR]
-http://127.0.0.1
-#EXTINF:0 tvg-logo="https://i.imgur.com/4DnJoiR.png" group-title="HONDURAS", Todo Deportes | SD
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="HONDURAS", Teleceiba Canal 7 | SD
-http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras | SD
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN Honduras | HD
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Dlus1ht.png" group-title="GUATEMALA", [COLOR red]GUATEMALA[/COLOR]
-http://127.0.0.1
-#EXTINF:0 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="GUATEMALA", Guatevision | SD
-http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/vIFRrCq.png" group-title="GUATEMALA", Canal Plus Guatemala | SD
-http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IUuJm7u.png" group-title="GUATEMALA", Telecosta | SD
-http://arcamediastream.net:1935/8374/8374/playlist.m3u8
-
-
-
-#EXTINF:0 group-title="TV", Canal 26 (News) (AR) (Spanish)
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:0 group-title="TV", Xtremo channel (News) (ES) (Spanish)
-http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
-#EXTINF:0 group-title="TV", (Entertainment) Catalan
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
-#EXTINF:0 group-title="TV", UANL TV Canal 53 México
-mms://streaming.uanl.mx/canal53bandaancha
-#EXTINF:0  group-title="TV", UNO TV HD 
-http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
-#EXTINF:0 group-title="TV", Sevilla Futbol Club TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:0 group-title="TV", Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
-#EXTINF:0 group-title="TV", CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:0 group-title="TV", Patilla Vision
-https://www.youtube.com/watch?v=fMYOB9xzCPQ
-#EXTINF:0 group-title="TV", TeleSUR
-http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
-#EXTINF:0 group-title="TV", Real Madrid TV (España)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:0 group-title="TV", CTNi
-http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
-#EXTINF:0  group-title="TV", TV3 Catalan 
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
-
-
-#EXTINF:0  group-title="Mexico" tvg-logo="https://pbs.twimg.com/profile_images/943986668670894080/a3769um2_400x400.jpg", Canal 15 Zacatecas
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
-#EXTINF:0   group-title="Mexico"  tvg-logo="http://puu.sh/riHwd/c5639705a2.png", Ocho TV (Guadalajara)
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-#EXTINF:0 group-title="Mexico"   tvg-logo="http://www.tv4guanajuato.com/ckfinder/userfiles/files/logo_tvcuatro_nvo_horizontal.jpg", TV Cuatro 4.1 Guanajuato
-https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
-#EXTINF:0  group-title="Mexico" tvg-logo="https://yt3.ggpht.com/-5W_zQMODLJA/AAAAAAAAAAI/AAAAAAAAAAA/G211VW3mrcU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg", Canal del Congreso
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
-
-#EXTINF:0 group-title="Mexico",TV Tlaxcala
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-#EXTINF:0 group-title="Mexico",Canal 66 Mexicali
-http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
-#EXTINF:0 group-title="Mexico",RCG TV Coahuila
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:0 group-title="Mexico",RTG Guerrero
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
-#EXTINF:0 group-title="Mexico",TVMas Veracruz
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u
-#EXTINF:0 group-title="Mexico",TV MAS Veracruz México
-rtmp://50.7.98.234/rtv/videortv
-#EXTINF:0 group-title="Mexico",RTG Soy Guerero México
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0 group-title="Mexico",Televisión Querétaro México
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgentina
-
-
-
-
-#EXTINF:0  group-title="USA", Weather Channel 
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#EXTINF:0 group-title="USA" tvg-logo="HiSjDAa.png", HD Fashion & Lifestyle | FHD
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:0  group-title="USA" tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png", London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-
-
-#EXTINF:0 group-title="USA",PAC 12 Bay Area
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 group-title="USA",PAC 12 Los Angeles
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 group-title="USA",PAC 12 Oregon
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 group-title="USA",PAC 12 Whashington
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 group-title="USA",NFL
-http://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_3000k.m3u8
-#EXTINF:0 group-title="USA",CDO OP2
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w72729836.m3u8
-#EXTINF:0 group-title="USA",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 group-title="USA", Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:0 group-title="USA", Twit
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:0 group-title="USA", TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:0 group-title="USA", NOTV 41 New Orleans - LA Louisiana
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:0 group-title="USA", ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:0 group-title="USA", BBC World News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:0 group-title="USA", CBN News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:0 group-title="USA", C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="USA", C-SPAN Other content
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="USA", C-SPAN more Other content
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="USA", FOX 25 News
-http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
-#EXTINF:0 group-title="USA", FOX 59 News
-http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
-#EXTINF:0 group-title="USA", MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:0 group-title="USA", WGN Chicago
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:0 group-title="Europa", Munchen 2
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="http://photocall.tv/images/digi24.png" group-title="Europa", Digi 24 (Rumania)
-http://82.76.40.76/digi24edge/digi24.smil/.m3u8
-
-#EXTINF:0 group-title="Europa", RAIN WS24 Italy
-http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
-#EXTINF:0 group-title="Europa", TV Monde
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:0 group-title="Europa", 24H Catalan
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
-#EXTINF:0 group-title="Europa", PAX TV HD
+#EXTINF:0, California Music Channel | HD
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0, Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0, PAX TV HD
 rtmp://124.139.232.61:1935/live/livestream
-#EXTINF:0 group-title="Europa", Aliento Visión
+#EXTINF:0, NHK World | HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:0, CAPITAL 21 CDMX
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:0, Ciudad Tv 21.2
+http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
+#EXTINF:0, Impactovision
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
+#EXTINF:0, Jasmin (720p)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:0, TV Cosmos
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:0,History
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:0,EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:0, American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:0,24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:0,24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 Hollywood Movies 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:0, Miami TV | HD
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0, Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:0, MLB EN VIVO
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0, BeMad FHD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:0, CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0, Ingenio TV | SD
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
+#EXTINF:0, Telemax Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8#MegaIPTVArgentina
+#EXTINF:0, UCSG TV Ecuador
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:0, Canal Iberoamericano
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+#EXTINF:0, El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:0, TV Cuatro 4.1 | HD
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
+#EXTINF:0, TV Cuatro 4.2 | HD
+https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
+#EXTINF:0, TVP Mazatlan | FHD
+https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:0, 15TV Sabinas | SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:0, Ocho TV (Guadalajara) | FHD
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:0, TVES | SD
+http://198.24.135.42/canal10/canal10/playlist.m3u8
+#EXTINF:0, Wapa | SD
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
+#EXTINF:0, Canal-M | HD
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+#EXTINF:0, WOW TV | SD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0, Camara de Diputados | SD
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+#EXTINF:0, TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:0, Teletrak | HD
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
+#EXTINF:0, Sky News (Alt) | HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:0, The Weather Channel | HD
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0, Weather Nation | HD
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0, TRT World | FHD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0, TV5 Monde Info | FHD
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:0, Deutsche Welle Latino | SD
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0, Deutsche Welle | SD
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0, France 24 | HD
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0, Arirang | HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0, NOTV 41 New Orleans - Louisiana | HD
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0, CBS News | HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0, WGN Chicago | HD
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0, CTV News Live Events 1 | HD
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:0, CTV News Live Events 2 | HD
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:0, CTV News Live Events 3 | HD
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:0, CTV News Live Events 4 | HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:0, ECO | HD
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
+#EXTINF:0, Canal 9 Multivision
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF:0, Nex TV | SD
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:0, Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0, Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0, TV Peru | HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0, TV Peru (Alt) | SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:0, Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0, Mega TV Araquipa | SD
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+#EXTINF:0, Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0, Digital TV Peru | HD
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+#EXTINF:0, Onda Digital TV | HD
+http://vs8.live.opencaster.com/opencaster/vxtygFvyHuoB/playlist.m3u8
+#EXTINF:0, Teleceiba Canal 7 | SD
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:0, TV Azteca Honduras | SD
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+#EXTINF:0, TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:0, Guatevision | SD
+http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
+#EXTINF:0, Canal Plus Guatemala | SD
+http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
+#EXTINF:0, Canal 26 (News) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0, Xtremo channel (News) (ES) (Spanish)
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+#EXTINF:0, (Entertainment) Catalan
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:0, UANL TV Canal 53 México
+mms://streaming.uanl.mx/canal53bandaancha
+#EXTINF:0, Sevilla Futbol Club TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:0, Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
+#EXTINF:0, CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0, TeleSUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:0, Real Madrid TV (España)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0, CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0, TV3 Catalan 
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:0, Canal 15 Zacatecas
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:0, Ocho TV (Guadalajara)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:0, TV Cuatro 4.1 Guanajuato
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
+#EXTINF:0, Canal del Congreso
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+#EXTINF:0,TV Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:0,Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+#EXTINF:0,RTG Guerrero
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:0,TVMas Veracruz
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+#EXTINF:0,
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:0,RTG Soy Guerero México
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0,Televisión Querétaro México
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0, Weather Channel 
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0, HD Fashion & Lifestyle | FHD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0,CDO OP2
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w72729836.m3u8
+#EXTINF:0,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0, Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0, Twit
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0, TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0, NOTV 41 New Orleans - LA Louisiana
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0, CBN News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:7197, FOX 59 News
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:0, WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0, Munchen 2
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
+#EXTINF:0, Digi 24 (Rumania)
+http://82.76.40.76/digi24edge/digi24.smil/.m3u8
+#EXTINF:0, RAIN WS24 Italy
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+#EXTINF:0, 24H Catalan
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
+#EXTINF:0, Aliento Visión
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
-#EXTINF:0 group-title="Europa", Esperanza TV
+#EXTINF:0, Esperanza TV
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
-#EXTINF:0  group-title="Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png", DW NEWS
+#EXTINF:0, DW NEWS
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
-
-
-#EXTINF:0 group-title="Medio", Al Jazeera 
+#EXTINF:0, Al Jazeera 
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-#EXTINF:0 group-title="Medio", VoA
+#EXTINF:0, VoA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:0 group-title="Medio", CNN Turkia
+#EXTINF:0, CNN Turkia
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0 group-title="Medio", Syria News
+#EXTINF:0, Syria News
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-#EXTINF:0 group-title="Medio", RUSIA EXTREAM
+#EXTINF:0, RUSIA EXTREAM
 http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
-
+#EXTINF:0, m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,OUI TV3
 http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/VIpafvM.png" group-title="MUSICA", California Music Channel | HD
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="MUSICA", Radio Sanborja (Peru) | SD
-https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="MUSICA", Portal FoxMix | HD
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
-https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/LCdljln.png" group-title="MUSICA", Radio 105 Network | HD
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/uFbyigf.png" group-title="MUSICA", M2O TV | SD
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="https://i.imgur.com/jE6NEKA.png" group-title="MUSICA", Hit TV | SD
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="MUSICA", DJIng Ibiza | HD
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/QPRJHC6.png" group-title="MUSICA", Virgin Radio TV | SD
-http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Gpa4LA6.png" group-title="MUSICA", Xite | HD
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/VpZPZEv.png" group-title="MUSICA", Radio Montecarlo TV | SD
+#EXTINF:0, Radio Montecarlo TV | SD
 http://fms.105.net:1935/live/rmc1/.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/OXgDjwN.png" group-title="MUSICA", Radio Bruno (Italia) | SD
-http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="MUSICA", Radio Contact Feel Good | HD
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-
-#EXTINF:0 group-title="MUSICA", VHR
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
-#EXTINF:0 group-title="MUSICA", MTV
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
-#EXTINF:0 group-title="MUSICA", MTV HITS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
-#EXTINF:0 group-title="MUSICA", 1CLASSICS
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
-#EXTINF:0 group-title="MUSICA", RITMOSON
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
-#EXTINF:0 group-title="MUSICA", BANDAMAX
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
-#EXTINF:0 group-title="MUSICA", MTV LIVE HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
-#EXTINF:0 group-title="MUSICA", TELEHIT HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
-#EXTINF:0 group-title="MUSICA", VHR HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
-#EXTINF:0 group-title="MUSICA", MTV HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
-#EXTINF:0 group-title="MUSICA", MTV HITS HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
-#EXTINF:0 group-title="MUSICA", 1CLASSICS HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
-#EXTINF:0 group-title="MUSICA", RITMOSON HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
-#EXTINF:0 group-title="MUSICA", BANDAMAX HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
-
-
-
-
-
-#EXTINF:0 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017
-/10/telemusica.png" group-title="MUSICA",Telemusica
-http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="TV",Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-
-#EXTINF:0 group-title="MUSICA",HD ONE Music (720p)
-rtmp://rtmp.one.by/HD/1muz
-#EXTINF:0 group-title="MUSICA",Fresh TV Music (352p)
-http://wse.planeta-online.tv:1935/live/channel_4/master.m3u8
-#EXTINF:0 group-title="MUSICA",OTTO 8 FM (540p)
-http://live.youiptv.ch:1935/8FM/ngrp%3a8FM_all/playlist.m3u8
-#EXTINF:0 group-title="MUSICA",Radio 105 (432p)
-rtmp://fms.105.net/live/105Test1
-#EXTINF:0  group-title="MUSICA", HEART TV 
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="MUSICA", Antena Negra Argentina
-http://servicioamerica.net:1935/8680/8680/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="MUSICA", Jasmin (720p)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:0  group-title="MUSICA" tvg-logo="https://i.ytimg.com/vi/f4wlipV0YOs/maxresdefault.jpg", Desierto Tv
-http://unlimited4-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
-#EXTINF:0  group-title="MUSICA", Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:0 group-title="MUSICA" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png", Mezzo Live
-http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/217/index.m3u8
-#EXTINF:0  group-title="MUSICA" tvg-logo="http://puu.sh/nsWwi/c18fe4842e.png", m2o TV
+#EXTINF:0, Radio Sanborja (Peru) | SD
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:0, Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0, Radio 105 Network | HD
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0, M2O TV | SD
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
-
-
-
-
-
-
-
-#EXTINF:0  group-title="SUDAmerica", Tele Uno TV Costa Rica
+#EXTINF:0, Hit TV | SD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:0, DJIng Ibiza | HD
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0, Xite | HD
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+#EXTINF:0, Radio Bruno (Italia) | SD
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:0, Radio Contact Feel Good | HD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:0, Bloomberg TV US | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0, Bloomberg TV Europe | HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:0, Bloomberg TV Asia | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:0, Bloomberg TV Australia | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:0, Bloomberg TV Politics Live Event | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+#EXTINF:0, Bloomberg TV US Live Event | HD
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+#EXTINF:0, Bloomberg TV EMEA Live Event | HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:0, Bloomberg TV Asia Live Event | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:0,HD ONE Music (720p)
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:0,
+rtmp://fms.105.net/live/105Test1
+#EXTINF:0, Antena Negra Argentina
+http://servicioamerica.net:1935/8680/8680/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0, Mezzo Live
+http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/217/index.m3u8
+#EXTINF:0, Tele Uno TV Costa Rica
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:0 group-title="SUDAmerica"  tvg-logo="http://cableaudiovision.com.ar/grilla-web/canales/mvnueve.png", Canal 9 Multivision
-http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
-
-#EXTINF:0  group-title="SUDAmerica" tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png", MEGA TV PERU
+#EXTINF:0, MEGA TV PERU
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", DeporTV (DXTV) Argentina
+#EXTINF:0, DeporTV (DXTV) Argentina
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Telemax Arg
+#EXTINF:0, Telemax Arg
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:0  group-title="SUDAmerica", Telpin HD
+#EXTINF:0, Telpin HD
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Canal 4 Jujuy
-http://216.24.196.40:1935/live/canal4/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Canal 13 Chile
-http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal del Vino Chile
-http://evo.eltelon.com:443/live/canaldelvinotv/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Cesfam TV Chile
-http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", El Pingüino TV Chile
+#EXTINF:0, El Pingüino TV Chile
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Canal 2 ValleTV Chile
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?MegaIPTVArgentina
-
-
-#EXTINF:0  group-title="SUDAmerica", Señal Provincial Argentina
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", U TV La Plata Argentina
-rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
-#EXTINF:0  group-title="SUDAmerica", Canal 29 Ensenada Argentina
-rtmp://panel.dattalive.com/8008/8008
-#EXTINF:0  group-title="SUDAmerica", Canal 28 Mar del Plata
-http://iphone-streaming.ustream.tv/uhls/18752678/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0  group-title="SUDAmerica", Telpin Canal 2 HD 720 Pinamar Argentina
+#EXTINF:0, Telpin Canal 2 HD 720 Pinamar Argentina
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
-
-
-
-#EXTINF:0  group-title="SUDAmerica", RTV Religion
-http://178.32.53.254/radiovida/mobile/playlist.m3u8
-#EXTINF:0  group-title="SUDAmerica", Canal 2 Internac. Nicaragua
+#EXTINF:0, Señal Provincial Argentina
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8#MegaIPTVArgentina
+#EXTINF:0, U TV La Plata Argentina
+rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
+#EXTINF:0, Canal 29 Ensenada Argentina
+rtmp://panel.dattalive.com/8008/8008
+#EXTINF:0, Canal 2 Internac. Nicaragua
 rtmp://162.244.81.181:1935/live//Stream1
-
-
-
-
-#EXTINF:0 group-title="Webcam1" tvg-logo="https://image.ibb.co/hWTUGF/NASA_logo.png", NASA TV
+#EXTINF:0,UHLS
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:0 group-title="Webcam1" tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png", NASA iss
+#EXTINF:0, NASA iss
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-#EXTINF:0 group-title="Webcam1" tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png", NASA Media
+#EXTINF:0,UHLS
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:0 group-title="Webcam1" tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png", NASA Public
+#EXTINF:0,UHLS
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-
-
-#EXTINF:0 group-title="Webcam1", NatureVision TV
+#EXTINF:0, NatureVision TV
 https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
-
-#EXTINF:0 group-title="Webcam1", Wedding chapel -Nevada Las Vegas
+#EXTINF:0, Wedding chapel -Nevada Las Vegas
 http://video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
-
-#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Duval Street Cam_Key West FL USA
+#EXTINF:0,  Sloppy Joe's Duval Street Cam_Key West FL USA
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
-
-#EXTINF:0 group-title="Webcam1", Irish Kevin's Duval Street Cam - Key West FL USA
+#EXTINF:0, Irish Kevin's Duval Street Cam - Key West FL USA
 http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
-#EXTINF:0 group-title="Webcam1", Broadway NY  Street Cam
+#EXTINF:0, Broadway NY  Street Cam
 http://video3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8
-
-#EXTINF:0 group-title="Webcam1", Broadway NY
+#EXTINF:0, Broadway NY
 http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Broadway NY  North View 
+#EXTINF:0, Broadway NY  North View 
 http://video3.earthcam.com/fecnetwork/485.flv/playlist.m3u8
-
-#EXTINF:0 group-title="Webcam1", Broadway South View NY
+#EXTINF:0, Broadway South View NY
 http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Broadway Crossroads NY
-http://video3.earthcam.com/fecnetwork/4717.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Cats Meow Karaokebar -Louisiana
+#EXTINF:0, Cats Meow Karaokebar -Louisiana
 http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Irish Kevin's Stage Cam - Key West FL USA
+#EXTINF:0, Irish Kevin's Stage Cam - Key West FL USA
 http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
-
-#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Bar Cam_Key West FL USA
-http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
-#EXTINF:0 group-title="Webcam1",  Sloppy Joe's Stage Cam_Key West FL USA
+#EXTINF:0,  Sloppy Joe's Stage Cam_Key West FL USA
 http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
-#EXTINF:0 group-title="Webcam1", Africa 1
+#EXTINF:0, Africa 1
 http://stream.africam.com:1935/nk/nk.stream_source/playlist.m3u8
-#EXTINF:0 group-title="Webcam1", Africa 3
+#EXTINF:0, Africa 3
 http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
-#EXTINF:0 group-title="Webcam1", Africa 4
+#EXTINF:0, Africa 4
 http://stream.africam.com:1935/na/na.stream_source/playlist.m3u8
-#EXTINF:0 group-title="Webcam1", Africa 5
+#EXTINF:0, Africa 5
 http://stream.africam.com:1935/rc/rc.stream_source/playlist.m3u8
-
-
-#EXTINF:0 group-title="Webcam1", USA-Las Vegas -Nevada
-http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
-
-#EXTINF:0 group-title="Webcam1", Cats Meow Balcony - Lousiana
-http://video3.earthcam.com/fecnetwork/4282.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", New Orleans, LA - Bourbon Street
-http://video3.earthcam.com/fecnetwork/4280.flv/HasBahCa.m3u8
-
-#EXTINF:0 group-title="Webcam1", Gdansk - Brzezno molo
-http://hls12.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
-#EXTINF:0 group-title="Webcam1", Elburg_Netherlands
-rtmp://stream.livespotting.tv/windit-edge/LS_36290_720p.stream
-#EXTINF:0 group-title="Webcam1", INFORUM FARGO ND USA
-http://iphone-streaming.ustream.tv/uhls/13415669/streams/live/iphone/playlist.m3u8
-
-#EXTINF:0 group-title="Webcam1", Florida Everglades
-http://video3.earthcam.com/fecnetwork/14162.flv/playlist.m3u8
-
-
-#EXTINF:0 group-title="Webcam1", Eiffel cam HD
-http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8
-
-#EXTINF:0 group-title="Webcam1", Mulberry France Street
-http://video3.earthcam.com/fecnetwork/5775.flv/playlist.m3u8
-
-#EXTINF:0 group-title="Webcam1", Chicago
-http://video3.earthcam.com/fecnetwork/13661.flv/playlist.m3u8
-
-#EXTINF:0 group-title="Webcam1", Manatee Cam US
-http://video3.earthcam.com/fecnetwork/14014.flv/playlist.m3u8
-
-#EXTINF:0 group-title="Webcam1", Miami Cafe US
-http://video3.earthcam.com/fecnetwork/15061.flv/playlist.m3u8
-
-
-#EXTINF:0 group-title="Webcam1", Dallas Texas 1
-http://video3.earthcam.com/fecnetwork/7524.flv/playlist.m3u8
-
-
-
-#EXTINF:0 group-title="Webcam1", Hollywood Blvd -California
-http://video3.earthcam.com/fecnetwork/lacitytours1.flv/HasBahCa.m3u8
-
-
-
-#EXTINF:0 group-title="Webcam1", Brooklyn Bridge NY
-http://video3.earthcam.com/fecnetwork/3983.flv/HasBahCa.m3u8
-
-#EXTINF:0 group-title="Webcam1", USA-San Francisco -California
-http://video3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8
-
-#EXTINF:0 group-title="Webcam1", BeachCam -South Carolina
-http://video3.earthcam.com/fecnetwork/3635.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Red Rock Cam -Arizona
-http://video3.earthcam.com/fecnetwork/sedonawebcam.flv/hasbahca.m3u8
-#EXTINF:0 group-title="Webcam1", Düsseldorf Airport cam1
-rtmp://stream-5gw.1000eyes.de/rtplive//dus0600.stream
-#EXTINF:0 group-title="Webcam1",  New York (3sec) - Wall Street (USA)
-rtmp://video4.earthcam.com:1935/fecnetwork%20playpath=chargingbull.flv%20swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126%20pageUrl=http://www.earthcam.com/usa/newyork/timessquare/
-#EXTINF:0 group-title="Webcam1", Biscayne Bay -Florida
-http://video3.earthcam.com/fecnetwork/miamivishd4.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", Irish Kevin's Bar Cam - Key West FL USA
-http://wowza.floridakeysmedia.com:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8
-#EXTINF:0 group-title="Webcam1", USA - Bayfield
-http://wse1.resortcams.com/live/bayfieldinn.stream/playlist.m3u8
-#EXTINF:0 group-title="Webcam1", USA - Bristol
-http://wse1.resortcams.com/live/bristol.stream/playlist.m3u8
-#EXTINF:0 group-title="Webcam1", USA - Fishy Cafe
-rtmp://208.43.68.139/surfchex/fishy-super
-#EXTINF:0 group-title="Webcam1", USA - Westland
+#EXTINF:0, USA - Westland
 http://590804fbbbc47.streamlock.net:1935/westland/westland.stream/playlist.m3u8
-#EXTINF:0 group-title="Webcam1", USA-Destin -Florida
-http://video3.earthcam.com/fecnetwork/5424.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", USA-Oak Harbor -Washington
-http://video3.earthcam.com/fecnetwork/6172.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", USA-San Jacinto Monument -Texas
-http://video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam1", USA-Sante Fe -New Mexico
-http://video3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam2", Germany
-http://ls11.webcamera.pl/karpacz_cam_133512/karpacz_cam_133512.stream/pla
-#EXTINF:0 group-title="Webcam2", ARTEM - DK
+#EXTINF:0, USA - Bayfield
+http://wse1.resortcams.com/live/bayfieldinn.stream/playlist.m3u8
+#EXTINF:0, BeachCam -South Carolina
+http://video3.earthcam.com/fecnetwork/3635.flv/HasBahCa.m3u8
+#EXTINF:0, USA-Las Vegas -Nevada
+http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
+#EXTINF:0, ARTEM - DK
 rtmp://81.200.144.3:1935/cam1/stream
-
-
-#EXTINF:0 group-title="Webcam1",  Alaska (5sec)
-http://climatecam.gi.alaska.edu/mjpg/video.mjpg
-
-
-#EXTINF:0 group-title="Webcam2", Abakan - El anillo del trabajo
+#EXTINF:0, Cats Meow Balcony - Lousiana
+http://video3.earthcam.com/fecnetwork/4282.flv/HasBahCa.m3u8
+#EXTINF:0, New Orleans, LA - Bourbon Street
+http://video3.earthcam.com/fecnetwork/4280.flv/HasBahCa.m3u8
+#EXTINF:0, Florida Everglades
+http://video3.earthcam.com/fecnetwork/14162.flv/playlist.m3u8
+#EXTINF:0, Eiffel cam HD
+http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8
+#EXTINF:0, Mulberry France Street
+http://video3.earthcam.com/fecnetwork/5775.flv/playlist.m3u8
+#EXTINF:0, Chicago
+http://video3.earthcam.com/fecnetwork/13661.flv/playlist.m3u8
+#EXTINF:0, Manatee Cam US
+http://video3.earthcam.com/fecnetwork/14014.flv/playlist.m3u8
+#EXTINF:0, Miami Cafe US
+http://video3.earthcam.com/fecnetwork/15061.flv/playlist.m3u8
+#EXTINF:0, Abakan - El anillo del trabajo
 rtmp://91.219.96.146/live//nekrasova1
-#EXTINF:0 group-title="Webcam2", Abakan - Encrucijada de ADM
+#EXTINF:0,  Alaska (5sec)
+http://climatecam.gi.alaska.edu/mjpg/video.mjpg
+#EXTINF:0, Dallas Texas 1
+http://video3.earthcam.com/fecnetwork/7524.flv/playlist.m3u8
+#EXTINF:0, Hollywood Blvd -California
+http://video3.earthcam.com/fecnetwork/lacitytours1.flv/HasBahCa.m3u8
+#EXTINF:0, Brooklyn Bridge NY
+http://video3.earthcam.com/fecnetwork/3983.flv/HasBahCa.m3u8
+#EXTINF:0, USA-San Francisco -California
+http://video3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8
+#EXTINF:0, Irish Kevin's Bar Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8
+#EXTINF:0, USA - Bristol
+http://wse1.resortcams.com/live/bristol.stream/playlist.m3u8
+#EXTINF:0, USA-San Jacinto Monument -Texas
+http://video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8
+#EXTINF:0, USA-Sante Fe -New Mexico
+http://video3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8
+#EXTINF:0, Abakan - Encrucijada de ADM
 rtmp://91.219.96.146/live//druzhbynarodov23
-#EXTINF:0 group-title="Webcam2", Abakan - Encrucijada de la amistad de los pueblos y Krylov
+#EXTINF:0, Abakan - Encrucijada de la amistad de los pueblos y Krylov
 rtmp://91.219.96.146/live//shchetinkina73
-#EXTINF:0 group-title="Webcam2", Abakan - Encrucijada de Nekrasov y Kirov
+#EXTINF:0, Abakan - Encrucijada de Nekrasov y Kirov
 rtmp://91.219.96.146/live//kirova204a
-#EXTINF:0 group-title="Webcam2", Abakan - Encrucijada de Nekrasov y Krylov
+#EXTINF:0, Abakan - Encrucijada de Nekrasov y Krylov
 rtmp://91.219.96.146/live//krylova85
-#EXTINF:0 group-title="Webcam2", Abakan - Crossroads Sovetskaya y Nekrasova
-rtmp://91.219.96.146/live//sovetskaya113
-#EXTINF:0 group-title="Webcam2", Aktau - costa del mar Caspio 14 m
-http://cam.x-com.kz:8081/caspy14/index.m3u8
-#EXTINF:0 group-title="Webcam2", Aktau - La costa del mar Caspio 15 mn
-http://cam.x-com.kz:8081/caspy15/index.m3u8
-#EXTINF:0 group-title="Webcam2", Aktau - El Mar Caspio 5/7 mrn
-http://cam.x-com.kz:8081/caspy5/index.m3u8
-#EXTINF:0 group-title="Webcam2", Aktau - Regiones superiores
-http://cam.x-com.kz:8081/yntymak/index.m3u8
-#EXTINF:0 group-title="Webcam2", Aktau - Teatro Dramático
-http://cam.x-com.kz:8081/dramteatr/index.m3u8
-#EXTINF:0 group-title="Webcam2", Aktau - Regiones bajas
-http://cam.x-com.kz:8081/downtown/index.m3u8
-#EXTINF:0 group-title="Webcam2", Argentina Playa Telpin
-http://201.219.100.30:1935/camara-rambla//rambla.stream_720p/playlist.m3u8
-
-#EXTINF:0 group-title="Webcam2", Aeropuerto de Colonia / Bonn 1
+#EXTINF:0, Aeropuerto de Colonia / Bonn 1
 rtmp://stream-5gw.1000eyes.de/rtplive/cgnC8409D.stream
-#EXTINF:0 group-title="Webcam2", Aeropuerto de Colonia / Bonn 2
-rtmp://stream-5gw.1000eyes.de/rtplive/cgnC84090.stream
-#EXTINF:0 group-title="Webcam2", Aeropuerto de Colonia / Bonn 3
+#EXTINF:0, Aeropuerto de Colonia / Bonn 3
 rtmp://stream-5gw.1000eyes.de/rtplive/cgnCAA490.stream
-
-#EXTINF:0 group-title="Webcam2", Biysk 59 Rails Suburb Zoom
-http://cctv1.biisk.ru:8080/hls/489676/bbe69ba894578db7d79b/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 6 Rails Suburb
-http://cctv1.biisk.ru:8080/hls/27505/a70048d0ccd1bd594282/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 60 Road Department
-http://cctv1.biisk.ru:8080/hls/488180/766d7dcab64aa5a59f4b/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 8 Road
-http://cctv1.biisk.ru:8080/hls/902370/67d5e778ca124e000717/playlist.m3u8
-
-
-#EXTINF:0 group-title="Webcam2", Banja Luka Downtown 1
-http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist.m3u8
-#EXTINF:0 group-title="Webcam2", Banja Luka City 2
-http://edith03.blictv.blic.net:1935/live/ngrp:kamera01.stream_all/chunklist.m3u8
-
-
-#EXTINF:0 group-title="Webcam2", Columbus Circle
-http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
-
-#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam2
-rtmp://stream-5gw.1000eyes.de/rtplive//dus8a21.stream
-#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam3
-rtmp://stream-5gw.1000eyes.de/rtplive//dus2777.stream
-#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam4
-rtmp://stream-5gw.1000eyes.de/rtplive//dus275d.stream
-#EXTINF:0 group-title="Webcam2", Düsseldorf Airport cam5
-rtmp://stream-5gw.1000eyes.de/rtplive//dusbc0c.stream
-
-#EXTINF:0 group-title="Webcam2", KRAKÓW Grodzka 2
-http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", KRAKÓW rynek Podgórski
+#EXTINF:0, Abakan - Crossroads Sovetskaya y Nekrasova
+rtmp://91.219.96.146/live//sovetskaya113
+#EXTINF:0, Aktau - costa del mar Caspio 14 m
+http://cam.x-com.kz:8081/caspy14/index.m3u8
+#EXTINF:0, KRAKÓW rynek Podgórski
 http://hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", KRAKÓW. plaza Live
+#EXTINF:0, Aktau - La costa del mar Caspio 15 mn
+http://cam.x-com.kz:8081/caspy15/index.m3u8
+#EXTINF:0, KRAKÓW. plaza Live
 http://hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8
-
-#EXTINF:0 group-title="Webcam2", Kolobrzeg molo
-http://hls14.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream_audio/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Krynica Zdroj
-http://hls1.webcamera.pl/nocowanie_cam_06a0f6/nocowanie_cam_06a0f6.stream/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", NoviSad Trg Slobode
-rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream
-#EXTINF:0 group-title="Webcam2", OLSZTYN - panorama miasta
-http://hls13.webcamera.pl/olsztyn_cam_43a997/olsztyn_cam
-#EXTINF:0 group-title="Webcam2", Pier -California
+#EXTINF:0, KRAKÓW Grodzka 2
+http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
+#EXTINF:0, Aktau - El Mar Caspio 5/7 mrn
+http://cam.x-com.kz:8081/caspy5/index.m3u8
+#EXTINF:0, Aktau - Regiones superiores
+http://cam.x-com.kz:8081/yntymak/index.m3u8
+#EXTINF:0, Aktau - Teatro Dramático
+http://cam.x-com.kz:8081/dramteatr/index.m3u8
+#EXTINF:0, Aktau - Regiones bajas
+http://cam.x-com.kz:8081/downtown/index.m3u8
+#EXTINF:0, Pier -California
 http://video3.earthcam.com/fecnetwork/6253.flv/HasBahCa.m3u8
-#EXTINF:0 group-title="Webcam2", Plougonvelin - Bretagne - France
-rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ALVOR
+#EXTINF:0, Argentina Playa Telpin
+http://201.219.100.30:1935/camara-rambla//rambla.stream_720p/playlist.m3u8
+#EXTINF:0, Biysk 59 Rails Suburb Zoom
+http://cctv1.biisk.ru:8080/hls/489676/bbe69ba894578db7d79b/playlist.m3u8
+#EXTINF:0, Biysk 6 Rails Suburb
+http://cctv1.biisk.ru:8080/hls/27505/a70048d0ccd1bd594282/playlist.m3u8
+#EXTINF:0, Biysk 60 Road Department
+http://cctv1.biisk.ru:8080/hls/488180/766d7dcab64aa5a59f4b/playlist.m3u8
+#EXTINF:0, Biysk 8 Road
+http://cctv1.biisk.ru:8080/hls/902370/67d5e778ca124e000717/playlist.m3u8
+#EXTINF:0, Banja Luka Downtown 1
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist.m3u8
+#EXTINF:0, Banja Luka City 2
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera01.stream_all/chunklist.m3u8
+#EXTINF:0, Columbus Circle
+http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
+#EXTINF:0, Portugal WEBCAM: ALVOR
 http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ARRIFANA
+#EXTINF:0, Portugal WEBCAM: ARRIFANA
 http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: BARRA
+#EXTINF:0, Portugal WEBCAM: BARRA
 http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: BUARCOS
+#EXTINF:0, Portugal WEBCAM: BUARCOS
 http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CAPARICA CDS
+#EXTINF:0, Portugal WEBCAM: CAPARICA CDS
 http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CAPARICA S.JOÃO
+#EXTINF:0, Portugal WEBCAM: CAPARICA S.JOÃO
 http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CARCAVELOS
+#EXTINF:0, Portugal WEBCAM: CARCAVELOS
 http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: CARVALHAL
+#EXTINF:0, Portugal WEBCAM: CARVALHAL
 http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ERICEIRA
+#EXTINF:0, Portugal WEBCAM: ERICEIRA
 http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ESMORIZ
+#EXTINF:0, Portugal WEBCAM: ESMORIZ
 http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: ESPINHO
+#EXTINF:0, Portugal WEBCAM: ESPINHO
 http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: EVARISTO
+#EXTINF:0, Portugal WEBCAM: EVARISTO
 http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: FURADOURO
+#EXTINF:0, Portugal WEBCAM: FURADOURO
 http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: GRANDE
+#EXTINF:0, Portugal WEBCAM: GRANDE
 http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: GUINCHO SUL
+#EXTINF:0, Portugal WEBCAM: GUINCHO SUL
 http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: LAGIDE
+#EXTINF:0, Portugal WEBCAM: LAGIDE
 http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: LEÇA DA PALMEIRA
+#EXTINF:0, Portugal WEBCAM: LEÇA DA PALMEIRA
 http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MATOSINHOS
+#EXTINF:0, Portugal WEBCAM: MATOSINHOS
 http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MEIA PRAIA
+#EXTINF:0, Portugal WEBCAM: MEIA PRAIA
 http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: MIRA
+#EXTINF:0, Portugal WEBCAM: MIRA
 http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: NAZARÉ
+#EXTINF:0, Portugal WEBCAM: NAZARÉ
 http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: PRAIA DA GALÉ
+#EXTINF:0, Portugal WEBCAM: PRAIA DA GALÉ
 http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
-#EXTINF:0 group-title="Webcam2", Portugal WEBCAM: PRAIA DA LUZ
+#EXTINF:0, Portugal WEBCAM: PRAIA DA LUZ
 http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
-
-
-#EXTINF:0 group-title="Webcam2", Biysk 1
+#EXTINF:0, Biysk 1
 http://cctv1.biisk.ru:8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 10
+#EXTINF:0, Biysk 10
 http://cctv1.biisk.ru:8080/hls/180934/53663534f98f5479c774/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 11
+#EXTINF:0, Biysk 11
 http://cctv1.biisk.ru:8080/hls/179642/6c4afedf5c44e100007c/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 12
+#EXTINF:0, Biysk 12
 http://cctv1.biisk.ru:8080/hls/110612/c3a9c630d8054de8f810/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 13
+#EXTINF:0, Biysk 13
 http://cctv1.biisk.ru:8080/hls/493/a5997fc2c553f5d4bf6f/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 14
+#EXTINF:0, Biysk 14
 http://cctv1.biisk.ru:8080/hls/510357/56856f2bd8a9402e9d08/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 15
+#EXTINF:0, Biysk 15
 http://cctv1.biisk.ru:8080/hls/814337/b3e8f84eeba4c85d924e/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 16
+#EXTINF:0, Biysk 16
 http://cctv1.biisk.ru:8080/hls/2953/8da733afb8c422bd27ce/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 17
+#EXTINF:0, Biysk 17
 http://cctv1.biisk.ru:8080/hls/482881/7ecbe0e1b720bba295e5/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 18
+#EXTINF:0, Biysk 18
 http://cctv1.biisk.ru:8080/hls/687724/613b5a38b4ca26b7185b/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 19
+#EXTINF:0, Biysk 19
 http://cctv1.biisk.ru:8080/hls/797779/cf9b272f5fc731f6a0fb/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 2
+#EXTINF:0, Biysk 2
 http://cctv1.biisk.ru:8080/hls/594731/a379659e997bac4f5d1a/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 20
+#EXTINF:0, Biysk 20
 http://cctv1.biisk.ru:8080/hls/355630/382e019f2610439ffb91/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 21
+#EXTINF:0, Biysk 21
 http://cctv1.biisk.ru:8080/hls/188600/9f61ed5f48a5ef4eced8/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 22
+#EXTINF:0, Biysk 22
 http://cctv1.biisk.ru:8080/hls/491413/0e15b8d35d6da34da17a/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 23
+#EXTINF:0, Biysk 23
 http://cctv1.biisk.ru:8080/hls/357416/eaa67a0e03fdb0057696/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 24
+#EXTINF:0, Biysk 24
 http://cctv1.biisk.ru:8080/hls/615945/b6e2670b4d91a0c2d350/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 25
+#EXTINF:0, Biysk 25
 http://cctv1.biisk.ru:8080/hls/629256/1e7a15b8f402137dfb1c/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 26
+#EXTINF:0, Biysk 26
 http://cctv1.biisk.ru:8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 27
+#EXTINF:0, Biysk 27
 http://cctv1.biisk.ru:8080/hls/130038/f259e7e2d827f1f0168f/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 28
+#EXTINF:0, Biysk 28
 http://cctv1.biisk.ru:8080/hls/389845/3c4d29c61d2d9b1a15c1/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 29
+#EXTINF:0, Biysk 29
 http://cctv1.biisk.ru:8080/hls/388545/7868edc4b59da671ec25/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 3
+#EXTINF:0, Biysk 3
 http://cctv1.biisk.ru:8080/hls/230453/178c952b7d1869584d04/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 30
+#EXTINF:0, Biysk 30
 http://cctv1.biisk.ru:8080/hls/497/d6df5c0e8f982f9dca7f/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 31
+#EXTINF:0, Biysk 31
 http://cctv1.biisk.ru:8080/hls/868905/de1245c4c64ea85a7fe8/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 32
+#EXTINF:0, Biysk 32
 http://cctv1.biisk.ru:8080/hls/358711/c2735a61fc8b067df0a5/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 33
+#EXTINF:0, Biysk 33
 http://cctv1.biisk.ru:8080/hls/483/7e7b18a8a42200863e5d/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 34
+#EXTINF:0, Biysk 34
 http://cctv1.biisk.ru:8080/hls/16855/a821b71440124e5914d9/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 35
+#EXTINF:0, Biysk 35
 http://cctv1.biisk.ru:8080/hls/714580/9ab09688ed63aee2e227/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 36
+#EXTINF:0, Biysk 36
 http://cctv1.biisk.ru:8080/hls/178548/d46267d245a243786377/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 37
+#EXTINF:0, Biysk 37
 http://cctv1.biisk.ru:8080/hls/676975/4caac64e4cd4e5f14536/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 38
+#EXTINF:0, Biysk 38
 http://cctv1.biisk.ru:8080/hls/11938/1736d7f74799287cbc04/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 39
+#EXTINF:0, Biysk 39
 http://cctv1.biisk.ru:8080/hls/881838/5b78c61db406dd6b6988/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 4
+#EXTINF:0, Biysk 4
 http://cctv1.biisk.ru:8080/hls/185678/b896f95ec885d7ba112c/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 40
+#EXTINF:0, Biysk 40
 http://cctv1.biisk.ru:8080/hls/364250/e9675faf7c5bf319e75c/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 41
+#EXTINF:0, Biysk 41
 http://cctv1.biisk.ru:8080/hls/419227/904fc4d9fc2704b262e4/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 42
+#EXTINF:0, Biysk 42
 http://cctv1.biisk.ru:8080/hls/5/452e70cecbafe495920d/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 43
+#EXTINF:0, Biysk 43
 http://cctv1.biisk.ru:8080/hls/714510/a04f3417c6cfd40e859c/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 44
+#EXTINF:0, Biysk 44
 http://cctv1.biisk.ru:8080/hls/348492/c710a58231a641930eb2/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 45
+#EXTINF:0, Biysk 45
 http://cctv1.biisk.ru:8080/hls/423923/c9e8eb5ea7243d99ad17/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 46
+#EXTINF:0, Biysk 46
 http://cctv1.biisk.ru:8080/hls/495/cae0b5d8a9b35e4b0e4e/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 47
+#EXTINF:0, Biysk 47
 http://cctv1.biisk.ru:8080/hls/106439/d1f01417c1220c2fd823/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 48
+#EXTINF:0, Biysk 48
 http://cctv1.biisk.ru:8080/hls/363946/3dfea2c2cf9932bec24f/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 49
+#EXTINF:0, Biysk 49
 http://cctv1.biisk.ru:8080/hls/74202/a97bfc864469641845da/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 5
+#EXTINF:0, Biysk 5
 http://cctv1.biisk.ru:8080/hls/3716/06bf19c7e1a9f32cfdf8/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 50
+#EXTINF:0, Biysk 50
 http://cctv1.biisk.ru:8080/hls/19460/201b9b030ed27b71e15b/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 51
+#EXTINF:0, Biysk 51
 http://cctv1.biisk.ru:8080/hls/21253/d3d13f51ba6100b514f1/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 52
+#EXTINF:0, Biysk 52
 http://cctv1.biisk.ru:8080/hls/747833/941160d961d57bd8aeb4/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 53
+#EXTINF:0, Biysk 53
 http://cctv1.biisk.ru:8080/hls/201962/2b4939cb9ede5c4831c8/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 54
+#EXTINF:0, Biysk 54
 http://cctv1.biisk.ru:8080/hls/291366/070a3f9cc80cc3412bc8/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 55
+#EXTINF:0, Biysk 55
 http://cctv1.biisk.ru:8080/hls/111452/1da81c9482a53f2713de/playlist.m3u8
-#EXTINF:0 group-title="Webcam2", Biysk 56
+#EXTINF:0, Biysk 56
 http://cctv1.biisk.ru:8080/hls/187766/c8ac630191fa68293ee4/playlist.m3u8
-
-#EXTINF:0 group-title="Webcam1",  Hawaii (4sec) Honolulu Hotel
+#EXTINF:0,  Hawaii (4sec) Honolulu Hotel
 rtsp://66.175.76.125/axis-media/media.amp
-#EXTINF:0 group-title="Webcam1",  Street View (3sec)_USA
+#EXTINF:0,  Street View (3sec)_USA
 rtsp://96.10.1.168:554/axis-media/media.amp
-
-#EXTINF:0 group-title="Webcam1", Berlin 40 Seconds
+#EXTINF:0, Berlin 40 Seconds
 rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
-#EXTINF:0 group-title="Webcam1", Berlin Restaurant Hugos/Hotel InterContinental
+#EXTINF:0, Berlin Restaurant Hugos/Hotel InterContinental
 rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
