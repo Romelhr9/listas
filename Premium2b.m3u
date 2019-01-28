@@ -1,4 +1,47 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="Entretenimiento", Univision 
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58527.m3u8
+#EXTINF:0, Insight TV
+http://8756.000webhostapp.com/qn1h1UX01s/v1.php/insight_tv/index.m3u8
+#EXTINF:0, Inti
+http://8756.000webhostapp.com/qn1h1UX01s/v3.php/.m3u8
+#EXTINF:0, Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0, Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:0, Multimedios Torreon
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0, Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:0, Miami TV | HD
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0, MTV Noruega
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0, DogTV
+http://8756.000webhostapp.com/qn1h1UX01s/dogtv.php/.m3u8
+#EXTINF:0, DW Entretenimiento
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, Mi Planeta
+http://8756.000webhostapp.com/qn1h1UX01s/v1.php/miplaneta/index.m3u8
+
+#EXTINF:0  group-title="PREMIUM TV",History
+https://tecnolive.club/tvbox/history
+#EXTINF:0  group-title="PREMIUM TV",Turbo
+https://tecnolive.club/tvbox/turbo
+#EXTINF:0  group-title="PREMIUM TV",Teather
+https://tecnolive.club/tvbox/theater
+#EXTINF:0  group-title="PREMIUM TV",Home & Healt
+https://tecnolive.club/tvbox/hh
+#EXTINF:0  group-title="PREMIUM TV",Natgeo
+https://tecnolive.club/tvbox/natgeo
+#EXTINF:0  group-title="PREMIUM TV",Space
+https://tecnolive.club/tvbox/space
+
+
+
+
+
+
 #EXTINF:0, Fashion Tv
 http://bit.ly/2zOVkbF
 #EXTINF:0,HD Fashion
@@ -7,6 +50,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:0, Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
 #EXTINF:0, Green TV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
 #EXTINF:0,TV Marti
@@ -114,8 +158,6 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:0,24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0, Miami TV | HD
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:0, Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:0, MLB EN VIVO
@@ -144,8 +186,7 @@ http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 #EXTINF:0, TVES | SD
 http://198.24.135.42/canal10/canal10/playlist.m3u8
-#EXTINF:0, Wapa | SD
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
+
 #EXTINF:0, Canal-M | HD
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
 #EXTINF:0, WOW TV | SD
@@ -212,14 +253,7 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, Turbo Mix Radio TV | SD
 http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
-#EXTINF:0, Onda Digital TV | HD
-http://vs8.live.opencaster.com/opencaster/vxtygFvyHuoB/playlist.m3u8
-#EXTINF:0, Teleceiba Canal 7 | SD
-http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:0, TV Azteca Honduras | SD
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
-#EXTINF:0, TEN Honduras | HD
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
 #EXTINF:0, Guatevision | SD
 http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
 #EXTINF:0, Canal Plus Guatemala | SD
@@ -302,6 +336,7 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
 #EXTINF:0, Esperanza TV
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+
 #EXTINF:0, DW NEWS
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:0, Al Jazeera 
@@ -582,112 +617,6 @@ http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
 http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
 #EXTINF:0, Portugal WEBCAM: PRAIA DA LUZ
 http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
-#EXTINF:0, Biysk 1
-http://cctv1.biisk.ru:8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8
-#EXTINF:0, Biysk 10
-http://cctv1.biisk.ru:8080/hls/180934/53663534f98f5479c774/playlist.m3u8
-#EXTINF:0, Biysk 11
-http://cctv1.biisk.ru:8080/hls/179642/6c4afedf5c44e100007c/playlist.m3u8
-#EXTINF:0, Biysk 12
-http://cctv1.biisk.ru:8080/hls/110612/c3a9c630d8054de8f810/playlist.m3u8
-#EXTINF:0, Biysk 13
-http://cctv1.biisk.ru:8080/hls/493/a5997fc2c553f5d4bf6f/playlist.m3u8
-#EXTINF:0, Biysk 14
-http://cctv1.biisk.ru:8080/hls/510357/56856f2bd8a9402e9d08/playlist.m3u8
-#EXTINF:0, Biysk 15
-http://cctv1.biisk.ru:8080/hls/814337/b3e8f84eeba4c85d924e/playlist.m3u8
-#EXTINF:0, Biysk 16
-http://cctv1.biisk.ru:8080/hls/2953/8da733afb8c422bd27ce/playlist.m3u8
-#EXTINF:0, Biysk 17
-http://cctv1.biisk.ru:8080/hls/482881/7ecbe0e1b720bba295e5/playlist.m3u8
-#EXTINF:0, Biysk 18
-http://cctv1.biisk.ru:8080/hls/687724/613b5a38b4ca26b7185b/playlist.m3u8
-#EXTINF:0, Biysk 19
-http://cctv1.biisk.ru:8080/hls/797779/cf9b272f5fc731f6a0fb/playlist.m3u8
-#EXTINF:0, Biysk 2
-http://cctv1.biisk.ru:8080/hls/594731/a379659e997bac4f5d1a/playlist.m3u8
-#EXTINF:0, Biysk 20
-http://cctv1.biisk.ru:8080/hls/355630/382e019f2610439ffb91/playlist.m3u8
-#EXTINF:0, Biysk 21
-http://cctv1.biisk.ru:8080/hls/188600/9f61ed5f48a5ef4eced8/playlist.m3u8
-#EXTINF:0, Biysk 22
-http://cctv1.biisk.ru:8080/hls/491413/0e15b8d35d6da34da17a/playlist.m3u8
-#EXTINF:0, Biysk 23
-http://cctv1.biisk.ru:8080/hls/357416/eaa67a0e03fdb0057696/playlist.m3u8
-#EXTINF:0, Biysk 24
-http://cctv1.biisk.ru:8080/hls/615945/b6e2670b4d91a0c2d350/playlist.m3u8
-#EXTINF:0, Biysk 25
-http://cctv1.biisk.ru:8080/hls/629256/1e7a15b8f402137dfb1c/playlist.m3u8
-#EXTINF:0, Biysk 26
-http://cctv1.biisk.ru:8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8
-#EXTINF:0, Biysk 27
-http://cctv1.biisk.ru:8080/hls/130038/f259e7e2d827f1f0168f/playlist.m3u8
-#EXTINF:0, Biysk 28
-http://cctv1.biisk.ru:8080/hls/389845/3c4d29c61d2d9b1a15c1/playlist.m3u8
-#EXTINF:0, Biysk 29
-http://cctv1.biisk.ru:8080/hls/388545/7868edc4b59da671ec25/playlist.m3u8
-#EXTINF:0, Biysk 3
-http://cctv1.biisk.ru:8080/hls/230453/178c952b7d1869584d04/playlist.m3u8
-#EXTINF:0, Biysk 30
-http://cctv1.biisk.ru:8080/hls/497/d6df5c0e8f982f9dca7f/playlist.m3u8
-#EXTINF:0, Biysk 31
-http://cctv1.biisk.ru:8080/hls/868905/de1245c4c64ea85a7fe8/playlist.m3u8
-#EXTINF:0, Biysk 32
-http://cctv1.biisk.ru:8080/hls/358711/c2735a61fc8b067df0a5/playlist.m3u8
-#EXTINF:0, Biysk 33
-http://cctv1.biisk.ru:8080/hls/483/7e7b18a8a42200863e5d/playlist.m3u8
-#EXTINF:0, Biysk 34
-http://cctv1.biisk.ru:8080/hls/16855/a821b71440124e5914d9/playlist.m3u8
-#EXTINF:0, Biysk 35
-http://cctv1.biisk.ru:8080/hls/714580/9ab09688ed63aee2e227/playlist.m3u8
-#EXTINF:0, Biysk 36
-http://cctv1.biisk.ru:8080/hls/178548/d46267d245a243786377/playlist.m3u8
-#EXTINF:0, Biysk 37
-http://cctv1.biisk.ru:8080/hls/676975/4caac64e4cd4e5f14536/playlist.m3u8
-#EXTINF:0, Biysk 38
-http://cctv1.biisk.ru:8080/hls/11938/1736d7f74799287cbc04/playlist.m3u8
-#EXTINF:0, Biysk 39
-http://cctv1.biisk.ru:8080/hls/881838/5b78c61db406dd6b6988/playlist.m3u8
-#EXTINF:0, Biysk 4
-http://cctv1.biisk.ru:8080/hls/185678/b896f95ec885d7ba112c/playlist.m3u8
-#EXTINF:0, Biysk 40
-http://cctv1.biisk.ru:8080/hls/364250/e9675faf7c5bf319e75c/playlist.m3u8
-#EXTINF:0, Biysk 41
-http://cctv1.biisk.ru:8080/hls/419227/904fc4d9fc2704b262e4/playlist.m3u8
-#EXTINF:0, Biysk 42
-http://cctv1.biisk.ru:8080/hls/5/452e70cecbafe495920d/playlist.m3u8
-#EXTINF:0, Biysk 43
-http://cctv1.biisk.ru:8080/hls/714510/a04f3417c6cfd40e859c/playlist.m3u8
-#EXTINF:0, Biysk 44
-http://cctv1.biisk.ru:8080/hls/348492/c710a58231a641930eb2/playlist.m3u8
-#EXTINF:0, Biysk 45
-http://cctv1.biisk.ru:8080/hls/423923/c9e8eb5ea7243d99ad17/playlist.m3u8
-#EXTINF:0, Biysk 46
-http://cctv1.biisk.ru:8080/hls/495/cae0b5d8a9b35e4b0e4e/playlist.m3u8
-#EXTINF:0, Biysk 47
-http://cctv1.biisk.ru:8080/hls/106439/d1f01417c1220c2fd823/playlist.m3u8
-#EXTINF:0, Biysk 48
-http://cctv1.biisk.ru:8080/hls/363946/3dfea2c2cf9932bec24f/playlist.m3u8
-#EXTINF:0, Biysk 49
-http://cctv1.biisk.ru:8080/hls/74202/a97bfc864469641845da/playlist.m3u8
-#EXTINF:0, Biysk 5
-http://cctv1.biisk.ru:8080/hls/3716/06bf19c7e1a9f32cfdf8/playlist.m3u8
-#EXTINF:0, Biysk 50
-http://cctv1.biisk.ru:8080/hls/19460/201b9b030ed27b71e15b/playlist.m3u8
-#EXTINF:0, Biysk 51
-http://cctv1.biisk.ru:8080/hls/21253/d3d13f51ba6100b514f1/playlist.m3u8
-#EXTINF:0, Biysk 52
-http://cctv1.biisk.ru:8080/hls/747833/941160d961d57bd8aeb4/playlist.m3u8
-#EXTINF:0, Biysk 53
-http://cctv1.biisk.ru:8080/hls/201962/2b4939cb9ede5c4831c8/playlist.m3u8
-#EXTINF:0, Biysk 54
-http://cctv1.biisk.ru:8080/hls/291366/070a3f9cc80cc3412bc8/playlist.m3u8
-#EXTINF:0, Biysk 55
-http://cctv1.biisk.ru:8080/hls/111452/1da81c9482a53f2713de/playlist.m3u8
-#EXTINF:0, Biysk 56
-http://cctv1.biisk.ru:8080/hls/187766/c8ac630191fa68293ee4/playlist.m3u8
-#EXTINF:0,  Hawaii (4sec) Honolulu Hotel
-rtsp://66.175.76.125/axis-media/media.amp
 #EXTINF:0,  Street View (3sec)_USA
 rtsp://96.10.1.168:554/axis-media/media.amp
 #EXTINF:0, Berlin 40 Seconds
@@ -700,6 +629,20 @@ rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2569.mkv
 #EXTINF:0, LA MONJA (2018)
 http://descarga.hopto.org/TERROR/La%20Monja-2018.mp4.mp4
+
+
+#EXTINF:0, Jhonny English 3.0 | REGIOFLIX
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:0, Paddington 2 | REGIOFLIX
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Paddington.2.2017.Latino.mp4
+#EXTINF:0, Rey Escorpion 5 | REGIOFLIX
+http://regioflix.club/regio25/ReyEscorpion5SrRegio.mkv
+#EXTINF:0 , First Man | REGIOFLIX
+http://regioflix.club/regio25/f1rstm4n2018SRREGIO.mkv
+#EXTINF:0, Bohemian Rapsody | REGIOFLIX
+http://regioflix.club/regio25/b0h3m14nr4ps0dy2018SrRegio.mkv
+
+
 #EXTINF:0, Maze Runner The Death Cure
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2573.MP4
 #EXTINF:0, Jurassic World: El reino caído (2018)
