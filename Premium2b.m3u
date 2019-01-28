@@ -37,6 +37,55 @@ https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play
 rtmp://124.139.232.61:1935/live/livestream
 #EXTINF:0, NHK World | HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:0, Peru BHTV Hacks
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0,Canal BHtv iptv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,PERU:BHtv (Opt-2)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0, CANAL BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+#EXTINF:0, BeMad FHD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:0, TELE RED RETRO
+http://k4.usastreams.com/Telesistemas/Telesistemas/media_w352570325.m3u8
+#EXTINF:0, LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:0, Life tv
+http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
+#EXTINF:0,ATB
+http://186.121.206.197/live/daniel/index.m3u8
+
+
+#EXTINF:0, FM Hot
+http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+#EXTINF:0, FM HOT PELICULAS
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+#EXTINF:0, Fox Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:0,Fox Movies HD
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0,MAX PRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:0,Fox Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0, Universal Channel
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:0, UFC NETWORK
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:0, Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+#EXTINF:0, Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,OUI TV3
+http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
+#EXTINF:0, M2O TV | SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+
+
+
+
 #EXTINF:0, CAPITAL 21 CDMX
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
 #EXTINF:0, Ciudad Tv 21.2
@@ -71,8 +120,6 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:0, MLB EN VIVO
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0, BeMad FHD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:0, CBN Español
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:0, Ingenio TV | SD
@@ -267,30 +314,48 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:0, RUSIA EXTREAM
 http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
-#EXTINF:0, m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,OUI TV3
-http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
-#EXTINF:0, Radio Montecarlo TV | SD
-http://fms.105.net:1935/live/rmc1/.m3u8
+
 #EXTINF:0, Radio Sanborja (Peru) | SD
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:0, Portal FoxMix | HD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:0, Radio 105 Network | HD
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
-#EXTINF:0, M2O TV | SD
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, Hit TV | SD
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:0, DJIng Ibiza | HD
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:0, Xite | HD
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+#EXTINF:0, Radio Montecarlo TV | SD
+http://fms.105.net:1935/live/rmc1/.m3u8
+#EXTINF:0, m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,OUI TV3
+http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
+
 #EXTINF:0, Radio Bruno (Italia) | SD
 http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
 #EXTINF:0, Radio Contact Feel Good | HD
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:0,PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+#EXTINF:0, California Music Channel | HD
+http://cmctv.ios.internapcdn.net/cmctvdream Tv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0, TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+#EXTINF:0, Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:0, Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:0, Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0, SON POPULAR 
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+
+
+
 #EXTINF:0, Bloomberg TV US | HD
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0, Bloomberg TV Europe | HD
@@ -309,7 +374,7 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
 #EXTINF:0,HD ONE Music (720p)
 rtmp://rtmp.one.by/HD/1muz
-#EXTINF:0,
+#EXTINF:0, Test 1
 rtmp://fms.105.net/live/105Test1
 #EXTINF:0, Antena Negra Argentina
 http://servicioamerica.net:1935/8680/8680/playlist.m3u8#MegaIPTVArgentina
@@ -629,3 +694,125 @@ rtsp://96.10.1.168:554/axis-media/media.amp
 rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
 #EXTINF:0, Berlin Restaurant Hugos/Hotel InterContinental
 rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
+
+
+#EXTINF:0, Jumanji: Bienvenidos a la jungla
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2569.mkv
+#EXTINF:0, LA MONJA (2018)
+http://descarga.hopto.org/TERROR/La%20Monja-2018.mp4.mp4
+#EXTINF:0, Maze Runner The Death Cure
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2573.MP4
+#EXTINF:0, Jurassic World: El reino caído (2018)
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2820.mkv
+#EXTINF:0, 24hrs Para Sobrevivir
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2787.mp4
+#EXTINF:0, Avengers Inifinity War
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2764.mkv
+#EXTINF:0, Black Panther
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2808.mkv
+#EXTINF:0, Titanes Del Pacifico
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/3445.mkv
+#EXTINF:0, The Sandmand
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2559.MP4
+#EXTINF:0, Ready Player One
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2772.avi
+#EXTINF:0, Braven
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2635.mp4
+#EXTINF:0, Anon
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2663.mkv
+#EXTINF:0, Bordercross
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2769.mkv
+#EXTINF:0, Cargo
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2788.mp4
+#EXTINF:0, Brawll In Cell Block 99
+http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2537.mkv
+#EXTINF:0, El Justiciero 2
+http://ia801507.us.archive.org/5/items/jus2regio/jus2regio.mp4
+
+#EXTINF:0,SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+#EXTINF:0,RESCATE EN ENTEBBE
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/7.Days.in.Entebbe.2018.Latino.mp4
+#EXTINF:0,EXTINCTION
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Extinction.2018.Latino.mp4
+#EXTINF:0,PERDIDA; Nunca dejes de buscar
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Perdida.2018.Latino.mp4
+#EXTINF:0,DIOS NO ESTA MUERTO 3
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Gods.Not.Dead.3.2018.Latino.mp4
+#EXTINF:0,TE ATRAPE
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Tag.2018.Latino.mp4
+#EXTINF:0,AVENGERS: INFINITY WAR
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Avengers.Infinity.War.2018.Latino.mp4
+#EXTINF:0,TITANES DEL PACIFICO: LA INSURRECCION
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Pacific.Rim.2.2018.Latino.mp4
+#EXTINF:0,GODZILLA: CITY ON THE EDGE OF BATTLE
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Godzilla.City.on.the.Edge.of.Battle.2018.Latino.mp4
+
+#EXTINF:0,LOS EXTRAÑOS -  CACERIA NOCTURNA
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/The.Strangers.Prey.at.Night.2018.Latino.mp4
+#EXTINF:0,ENTRE SOMBRAS
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/In.Darkness.2018.Latino.mp4
+#EXTINF:0,PLOEY -  nunca volaras solo
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Ploey.2018.Latino.mp4
+#EXTINF:0,DE TAL PADRE
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Like.Father.2018.Latino.mp4
+#EXTINF:0,CLUB DEL LIBRO
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Book.Club.2018.Latino.mp4
+#EXTINF:0,THE TALE
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/The.Tale.2018.Latino.mp4
+#EXTINF:0,REVENGE
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Revenge.2018.Latino.mp4
+#EXTINF:0,EDGE OF FEAR
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Edge.of.Fear.2018.Latino.mp4
+#EXTINF:0,RESTAURANTE
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/American.Curious.2018.Latino.mp4
+#EXTINF:0,EL HOMBRE HORMIGA Y LA ABISPA
+https://storage.googleapis.com/stable-healer-211314.appspot.com/cv5095030ltv2.mp4
+#EXTINF:0,EL GRAN HURACAN CATEGORIA 5
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/The.Hurricane.Heist.2018.Latino.mp4
+#EXTINF:0,JURASSIC WORLD: EL REINO CAIDO
+https://storage.googleapis.com/stable-healer-211314.appspot.com/cv4881806ltv3.mp4
+#EXTINF:0,TAU
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Tau.2018.Latino.mp4
+#EXTINF:0,TROPA DE HEROES
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/12.Strong.2018.Latino.mp4
+#EXTINF:0,RAMPAGE: DEVASTACION
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Rampage%20(2018)%201080%20Latino.mp4
+#EXTINF:0,EL RASCACIELOS
+https://storage.googleapis.com/stable-healer-211314.appspot.com/tt5758778_LAT_WEB-SCR.mp4
+#EXTINF:0,BEIRUT
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Beirut.2018.Latino.mp4
+#EXTINF:0,LA VENGANZA PERFECTA
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Terminal.2018.Latino.mp4
+#EXTINF:0,ACCIDENT MAN
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Accident.Man.2018.Latino.mp4
+#EXTINF:0,DAPHNE AND VELMA
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Daphne.And.Velma.2018.Latino.mp4
+#EXTINF:0,COMIENZA EL JUEGO
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Ready.Player.One.2018.Latino.mp4
+#EXTINF:0,PERTURBADA
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Unsane.2018.Latino.mp4
+#EXTINF:0,AL AIRE PATOS
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Duck.Duck.Goose.2018.Latino.mp4
+#EXTINF:0,COLMILLO BLANCO
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/White.Fang.2018.Latino.mp4
+#EXTINF:0,HOTEL TRANSYLVANIA 3
+https://storage.googleapis.com/stable-healer-211314.appspot.com/cv5220122lt.mp4
+#EXTINF:0,ISLA DE PERROS
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Isle.of.Dogs.2018.Latino.mp4
+#EXTINF:0,LEGO DC SUPER HEROES: AQUAMAN
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/LEGO.DC.Comics.Super.Heroes.Aquaman.Rage.of.Atlantis.2018.Latino.mp4
+#EXTINF:0,LEGO DC SUPER HERO GIRLS: SUPER VILLANAS
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Lego.DC.Super.Hero.Girls.Super.Villain.High.2018.Latino.mp4
+#EXTINF:0,LOS INCLEIBLES 2
+https://storage.googleapis.com/stable-healer-211314.appspot.com/cv3606756ltv2.mp4
+#EXTINF:0,OLE -  EL VIAJE DE FERDINAND
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Ferdinand.2017.Latino.mp4
+#EXTINF:0,EL PEQUEÑO VAMPIRO
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.Little.Vampire.2017.Latino.mp4
+#EXTINF:0,CONDORITO
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Condorito%20La%20Pelicula.mp4
+#EXTINF:0,THE JUMGLE BUNCH
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.Jungle.Bunch.2017.Latino.mp4
+#EXTINF:0,MARCIANOS CONTRA MEXICANOS
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Marcianos.vs.Mexicanos.2018.Latino.mp4
