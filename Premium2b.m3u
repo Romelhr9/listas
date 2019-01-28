@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="Entretenimiento", Univision 
+
+
+#EXTINF:-1 , Univision 
 http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58527.m3u8
 #EXTINF:0, Insight TV
 http://8756.000webhostapp.com/qn1h1UX01s/v1.php/insight_tv/index.m3u8
+
+
 #EXTINF:0, Inti
 http://8756.000webhostapp.com/qn1h1UX01s/v3.php/.m3u8
 #EXTINF:0, Multimedios Monterrey
@@ -475,6 +479,26 @@ http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
 http://stream.africam.com:1935/na/na.stream_source/playlist.m3u8
 #EXTINF:0, Africa 5
 http://stream.africam.com:1935/rc/rc.stream_source/playlist.m3u8
+
+#EXTINF:0, Webcam Popocatepetl
+https://www.youtube.com/watch?v=g6utQ5v-GIA
+#EXTINF:0, Webcam Cd Mexico Zocalo
+https://www.youtube.com/watch?v=oTlIrEb9lHo
+#EXTINF:0, Webcam Soggy Dollar Beach
+https://www.youtube.com/watch?v=hDzrpintkxY
+#EXTINF:0, Webcam Aquarium Monterey 
+https://www.youtube.com/watch?v=_KpiCoLf2Lw
+#EXTINF:0, Webcam Las Vegas
+https://www.youtube.com/watch?v=hFXdChBSAUw
+#EXTINF:0, Webcam Alberta Canada
+https://www.youtube.com/watch?v=9HwSNgcdQ7k
+#EXTINF:0, Webcam Jackson Cam Wyoming
+https://www.youtube.com/watch?v=1EiC9bvVGnk
+#EXTINF:0, Webcam Lamai Street Thailand
+https://www.youtube.com/watch?v=17Deq8N2e4
+#EXTINF:0, Tropical Murphys From Chaweng, Koh Samui, Thailand
+https://www.youtube.com/watch?v=sbZNL98Z0GE
+
 #EXTINF:0, USA - Westland
 http://590804fbbbc47.streamlock.net:1935/westland/westland.stream/playlist.m3u8
 #EXTINF:0, USA - Bayfield
