@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0, Lauderdale Beach
+http://video3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8
+#EXTINF:0,Canal 9 Honduras
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:0,Panda Cam 1
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 #EXTINF:0,Panda Cam 2
