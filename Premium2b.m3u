@@ -267,26 +267,26 @@ http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://
 #EXTINF:0, Multimedios Costa Rica
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
-#EXTINF:0  group-title="aPREMIUM TV",History
+#EXTINF:0  group-title="aPREMIUM TV", History
 https://tecnolive.club/tvbox/history
-#EXTINF:0  group-title="aPREMIUM TV",Turbo
+#EXTINF:0  group-title="aPREMIUM TV", Turbo
 https://tecnolive.club/tvbox/turbo
-#EXTINF:0  group-title="aPREMIUM TV",Teather
+#EXTINF:0  group-title="aPREMIUM TV", Teather
 https://tecnolive.club/tvbox/theater
 #EXTINF:0  group-title="aPREMIUM TV",Home & Healt
 https://tecnolive.club/tvbox/hh
-#EXTINF:0  group-title="aPREMIUM TV",Natgeo
+#EXTINF:0  group-title="aPREMIUM TV", Natgeo
 https://tecnolive.club/tvbox/natgeo
-#EXTINF:0  group-title="aPREMIUM TV",Space
+#EXTINF:0  group-title="aPREMIUM TV", Space
 https://tecnolive.club/tvbox/space
 
-#EXTINF:0, MTV Noruega
+#EXTINF:0,MTV Noruega
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0, DogTV
+#EXTINF:0,DogTV
 http://8756.000webhostapp.com/qn1h1UX01s/dogtv.php/.m3u8
-#EXTINF:0, DW Entretenimiento
+#EXTINF:0,DW Entretenimiento
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, Mi Planeta
+#EXTINF:0,Mi Planeta
 http://8756.000webhostapp.com/qn1h1UX01s/v1.php/miplaneta/index.m3u8
 
 #EXTINF:0  group-title="aPREMIUM TV", Fashion Tv
