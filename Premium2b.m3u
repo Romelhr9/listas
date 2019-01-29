@@ -1,5 +1,117 @@
 #EXTM3U
 
+#EXTINF:0, Canal 15 Zacatecas
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:0, Ocho TV (Guadalajara)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:0, TV Cuatro 4.1 Guanajuato
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
+#EXTINF:0, Canal del Congreso
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+#EXTINF:0,TV Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:0,Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+#EXTINF:0,RTG Guerrero
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:0,TVMas Veracruz
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+#EXTINF:0,
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:0,RTG Soy Guerero México
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0,Televisión Querétaro México
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgentina
+
+#EXTINF:0, Green TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+#EXTINF:0,TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:0, TELEFORMULA
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0, Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+#EXTINF:0, SRTV C7 Cultura
+http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8?DVR
+#EXTINF:0, MULTIMEDIOS MONTERREY HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0, Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:0, Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0, Aprende Tv
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+#EXTINF:0, Deutsche Welle Latino | SD
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:0, California Music Channel | HD
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0, Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:0, Antena Internacional
+https://d201h06fdwdct7.cloudfront.net/antenainternational/ngrp:stream_all/chunklist_b946000.m3u8
+#EXTINF:0,ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:0,Lasuper TV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:0,Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:0, High Street TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,SP:IB3 - Baleares
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8
+#EXTINF:0,Moya Planeta
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+#EXTINF:0,Brazil 1 FTA
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:0, TG4 (Irlanda)
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:0, N4 (Islandia)
+http://tv.vodafoneplay.is/n4/03.m3u8
+#EXTINF:0, TeleBarn (Suiza)
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+#EXTINF:0, TVA Ostbayern (Alemania)
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
+#EXTINF:0, HNNTC China
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+#EXTINF:0, Realitatea TV Rumania
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+
+
+#EXTINF:0,Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0,Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0,Alto Adige TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+#EXTINF:0,eTV Marche
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:0,112 Ukraine
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:0,ATR (Crimea)
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:0,Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:0,BN TV
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+
+#EXTINF:0,CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:0,MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:0, NHK World Japan
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:0,TV Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:0,CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:0, PAX TV HD
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:0, NHK World | HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 
 
 
@@ -154,8 +266,20 @@ http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
 #EXTINF:0, Multimedios Costa Rica
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-#EXTINF:0, Miami TV | HD
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:0  group-title="aPREMIUM TV",History
+https://tecnolive.club/tvbox/history
+#EXTINF:0  group-title="aPREMIUM TV",Turbo
+https://tecnolive.club/tvbox/turbo
+#EXTINF:0  group-title="aPREMIUM TV",Teather
+https://tecnolive.club/tvbox/theater
+#EXTINF:0  group-title="aPREMIUM TV",Home & Healt
+https://tecnolive.club/tvbox/hh
+#EXTINF:0  group-title="aPREMIUM TV",Natgeo
+https://tecnolive.club/tvbox/natgeo
+#EXTINF:0  group-title="aPREMIUM TV",Space
+https://tecnolive.club/tvbox/space
+
 #EXTINF:0, MTV Noruega
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0, DogTV
@@ -165,122 +289,17 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10
 #EXTINF:0, Mi Planeta
 http://8756.000webhostapp.com/qn1h1UX01s/v1.php/miplaneta/index.m3u8
 
-#EXTINF:0  group-title="PREMIUM TV",History
-https://tecnolive.club/tvbox/history
-#EXTINF:0  group-title="PREMIUM TV",Turbo
-https://tecnolive.club/tvbox/turbo
-#EXTINF:0  group-title="PREMIUM TV",Teather
-https://tecnolive.club/tvbox/theater
-#EXTINF:0  group-title="PREMIUM TV",Home & Healt
-https://tecnolive.club/tvbox/hh
-#EXTINF:0  group-title="PREMIUM TV",Natgeo
-https://tecnolive.club/tvbox/natgeo
-#EXTINF:0  group-title="PREMIUM TV",Space
-https://tecnolive.club/tvbox/space
-
-
-
-
-
-
-#EXTINF:0, Fashion Tv
+#EXTINF:0  group-title="aPREMIUM TV", Fashion Tv
 http://bit.ly/2zOVkbF
-#EXTINF:0,HD Fashion
+#EXTINF:0 group-title="aPREMIUM TV",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:0, FTV | FHD
+#EXTINF:0 group-title="aPREMIUM TV", FTV | FHD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:0, Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0, Miami TV | HD
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
-#EXTINF:0, Green TV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
-#EXTINF:0,TV Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:0, TELEFORMULA
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:0, Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
-#EXTINF:0, SRTV C7 Cultura
-http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8?DVR
-#EXTINF:0, MULTIMEDIOS MONTERREY HD
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0, Multimedios Laguna
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:0,HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:0, Boing
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:0, Aprende Tv
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
-#EXTINF:0, Deutsche Welle Latino | SD
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:0, California Music Channel | HD
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:0, Music Choice | HD
-https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:0, Antena Internacional
-https://d201h06fdwdct7.cloudfront.net/antenainternational/ngrp:stream_all/chunklist_b946000.m3u8
-#EXTINF:0,ALCARRIA TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:0,Lasuper TV
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-#EXTINF:0,Canal Parlamento
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-#EXTINF:0, High Street TV
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:0,SP:IB3 - Baleares
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8
-#EXTINF:0,Moya Planeta
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
-#EXTINF:0,Brazil 1 FTA
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:0, TG4 (Irlanda)
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:0, N4 (Islandia)
-http://tv.vodafoneplay.is/n4/03.m3u8
-#EXTINF:0, TeleBarn (Suiza)
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
-#EXTINF:0, TVA Ostbayern (Alemania)
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
-#EXTINF:0, HNNTC China
-http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
-#EXTINF:0, Realitatea TV Rumania
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-
-
-#EXTINF:0,Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:0,Francophonie 24
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:0,Alto Adige TV
-http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:0,eTV Marche
-http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
-#EXTINF:0,112 Ukraine
-http://app.live.112.events/hls/112hd_mid/index.m3u8
-#EXTINF:0,ATR (Crimea)
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:0,Publika TV
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:0,BN TV
-http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
-
-#EXTINF:0,CBS TV
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:0,MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:0, NHK World Japan
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-
-#EXTINF:0,TV Chosun
-http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-#EXTINF:0,CGTN
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0, PAX TV HD
-rtmp://124.139.232.61:1935/live/livestream
-#EXTINF:0, NHK World | HD
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 #EXTINF:0,RETV
 http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
 #EXTINF:0,TV Net
@@ -392,22 +411,6 @@ http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
 #EXTINF:0,EBS English
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:0, American Horrors
-http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:0,24/7 Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:0,24/7 Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0,24/7 Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:0,24/7 Hollywood Movies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:0,24/7 Hollywood Movies 9
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:0,24/7 Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0, Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:0, MLB EN VIVO
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:0, CBN Español
@@ -502,6 +505,23 @@ http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&reb
 #EXTINF:0, Turbo Mix Radio TV | SD
 http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 
+#EXTINF:0, American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:0,24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:0,24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 Hollywood Movies 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:0, Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+
 #EXTINF:0, Guatevision | SD
 http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
 #EXTINF:0, Canal Plus Guatemala | SD
@@ -528,28 +548,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
 #EXTINF:0, TV3 Catalan 
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
-#EXTINF:0, Canal 15 Zacatecas
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
-#EXTINF:0, Ocho TV (Guadalajara)
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-#EXTINF:0, TV Cuatro 4.1 Guanajuato
-https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
-#EXTINF:0, Canal del Congreso
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
-#EXTINF:0,TV Tlaxcala
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-#EXTINF:0,Canal 66 Mexicali
-http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
-#EXTINF:0,RTG Guerrero
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
-#EXTINF:0,TVMas Veracruz
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u
-#EXTINF:0,
-rtmp://50.7.98.234/rtv/videortv
-#EXTINF:0,RTG Soy Guerero México
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0,Televisión Querétaro México
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:0, Weather Channel 
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0, HD Fashion & Lifestyle | FHD
@@ -689,66 +687,8 @@ rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
 rtmp://panel.dattalive.com/8008/8008
 #EXTINF:0, Canal 2 Internac. Nicaragua
 rtmp://162.244.81.181:1935/live//Stream1
-#EXTINF:0,UHLS
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:0, NASA iss
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-#EXTINF:0,UHLS
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:0,UHLS
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:0, NatureVision TV
-https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
-#EXTINF:0, Wedding chapel -Nevada Las Vegas
-http://video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
-#EXTINF:0,  Sloppy Joe's Duval Street Cam_Key West FL USA
-http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
-#EXTINF:0, Irish Kevin's Duval Street Cam - Key West FL USA
-http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
-#EXTINF:0, Broadway NY  Street Cam
-http://video3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8
-#EXTINF:0, Broadway NY
-http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
-#EXTINF:0, Broadway NY  North View 
-http://video3.earthcam.com/fecnetwork/485.flv/playlist.m3u8
-#EXTINF:0, Broadway South View NY
-http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
-#EXTINF:0, Cats Meow Karaokebar -Louisiana
-http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
-#EXTINF:0, Irish Kevin's Stage Cam - Key West FL USA
-http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
-#EXTINF:0,  Sloppy Joe's Stage Cam_Key West FL USA
-http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
-#EXTINF:0, Africa 1
-http://stream.africam.com:1935/nk/nk.stream_source/playlist.m3u8
-#EXTINF:0, Africa 3
-http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
-#EXTINF:0, Africa 4
-http://stream.africam.com:1935/rc/rc.stream_source/playlist.m3u8
-#EXTINF:0, Africa 5
-http://stream.africam.com:1935/na/na.stream_source/playlist.m3u8
-#EXTINF:0, FatStone (Noruega)
-http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
 
-#EXTINF:0, PotPlayer PC Webcam Popocatepetl
-https://www.youtube.com/watch?v=g6utQ5v-GIA
-#EXTINF:0, PotPlayer PC Webcam Cd Mexico Zocalo
-https://www.youtube.com/watch?v=oTlIrEb9lHo
-#EXTINF:0, PotPlayer PC Webcam Soggy Dollar Beach
-https://www.youtube.com/watch?v=hDzrpintkxY
-#EXTINF:0, PotPlayer PC Webcam Aquarium Monterey 
-https://www.youtube.com/watch?v=_KpiCoLf2Lw
-#EXTINF:0, PotPlayer PC Webcam Las Vegas
-https://www.youtube.com/watch?v=hFXdChBSAUw
-#EXTINF:0, PotPlayer PC Webcam Alberta Canada
-https://www.youtube.com/watch?v=9HwSNgcdQ7k
-#EXTINF:0, PotPlayer PC Webcam Jackson Cam Wyoming
-https://www.youtube.com/watch?v=1EiC9bvVGnk
-
-
-#EXTINF:0, Tropical Murphys From Chaweng, Koh Samui, Thailand
-https://www.youtube.com/watch?v=sbZNL98Z0GE
 
 #EXTINF:0, USA - Westland
 http://590804fbbbc47.streamlock.net:1935/westland/westland.stream/playlist.m3u8
@@ -898,3 +838,44 @@ rtsp://96.10.1.168:554/axis-media/media.amp
 rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
 #EXTINF:0, Berlin Restaurant Hugos/Hotel InterContinental
 rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
+
+#EXTINF:0,UHLS
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0, NASA iss
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:0,UHLS
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:0,UHLS
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0, NatureVision TV
+https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
+#EXTINF:0, Wedding chapel -Nevada Las Vegas
+http://video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
+#EXTINF:0,  Sloppy Joe's Duval Street Cam_Key West FL USA
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+#EXTINF:0, Irish Kevin's Duval Street Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
+#EXTINF:0, Broadway NY  Street Cam
+http://video3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8
+#EXTINF:0, Broadway NY
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
+#EXTINF:0, Broadway NY  North View 
+http://video3.earthcam.com/fecnetwork/485.flv/playlist.m3u8
+#EXTINF:0, Broadway South View NY
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
+#EXTINF:0, Cats Meow Karaokebar -Louisiana
+http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
+#EXTINF:0, Irish Kevin's Stage Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
+#EXTINF:0,  Sloppy Joe's Stage Cam_Key West FL USA
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+#EXTINF:0, Africa 1
+http://stream.africam.com:1935/nk/nk.stream_source/playlist.m3u8
+#EXTINF:0, Africa 3
+http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
+#EXTINF:0, Africa 4
+http://stream.africam.com:1935/rc/rc.stream_source/playlist.m3u8
+#EXTINF:0, Africa 5 Falla
+http://stream.africam.com:1935/na/na.stream_source/playlist.m3u8
+#EXTINF:0, FatStone (Noruega)
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
