@@ -2,23 +2,10 @@
 
 #EXTINF:0, Lauderdale Beach
 http://video3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8
-#EXTINF:0,Canal 9 Honduras
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:0,Panda Cam 1
-http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
-#EXTINF:0,Panda Cam 2
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-#EXTINF:14391,DC Eagle Cam
-http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
-#EXTINF:0,Ft. Lauderdale Marina
-http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
-#EXTINF:0,NYC - Charging Bull
-http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
-#EXTINF:0,Toronto - CN Tower 2
-http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
 
 #EXTINF:0,Canal 9 Honduras
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
 #EXTINF:0, Canal 15 Zacatecas
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 #EXTINF:0, Ocho TV (Guadalajara)
@@ -118,7 +105,6 @@ http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
 
 #EXTINF:0,CBS TV
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-
 #EXTINF:0, NHK World Japan
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
@@ -324,8 +310,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:0,DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:0,ET Now
-http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
+
 #EXTINF:0,NDTV 24x7
 http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8
 #EXTINF:0,92 News
@@ -712,6 +697,22 @@ http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8
 http://video3.earthcam.com/fecnetwork/5775.flv/playlist.m3u8
 #EXTINF:0, Chicago
 http://video3.earthcam.com/fecnetwork/13661.flv/playlist.m3u8
+#EXTINF:0, Lauderdale Beach
+http://video3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8
+
+#EXTINF:0,Ft. Lauderdale Marina
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
+#EXTINF:0,Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:0,Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:0,NYC - Charging Bull
+http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
+#EXTINF:0,Toronto - CN Tower 2
+http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
+#EXTINF:0,Toronto - CN Tower 1
+http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
+
 #EXTINF:0, Manatee Cam US
 http://video3.earthcam.com/fecnetwork/14014.flv/playlist.m3u8
 #EXTINF:0, Miami Cafe US
