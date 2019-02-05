@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:0,Canal 9 Honduras
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:0, Lauderdale Beach
 http://video3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8
 #EXTINF:0, Africa 1
@@ -42,8 +45,33 @@ http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_
 http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
 
 
-#EXTINF:0,Canal 9 Honduras
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/main_element/public/media/image/2016/06/601200-escuadron-suicida-nuevos-posters-promocionales.jpg?itok=tCYbmmyE", Escuadron Suicida | REGIOFLIX
+http://regioflix.club/regio9875/EscuadronSuicidaSrRegio.mp4
+#EXTINF:0 tvg-logo="https://dam.smashmexico.com.mx/wp-content/uploads/2018/07/24145811/teen-titans-go-la-pelicula-nuevo-poster-con-justice-league-1.jpg", Jovenes Titanes La Pelicula | REGIOFLIX
+http://regioflix.club/regio9875/t33nt1t4nsg0t0th3m0v132018hdrip720SRREGIO.mkv
+#EXTINF:0 tvg-logo="http://www.reconoce.mx/wp-content/uploads/2018/08/Milla-22-vf.jpg", Milla 22 El Escape | REGIOFLIX
+http://regioflix.club/regio9875/Milla22ElescapeSrRegio.mkv
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-FKEKEkRcAvI/WxQdCAKeAoI/AAAAAAAApTU/UNC8e6cOEl033lvo8oENSlsSWs49d6moACLcBGAs/s1600/Wifi_Ralph_Poster_3_JPosters.jpg", Wifi Ralph | REGIOFLIX
+http://regioflix.club/regio9875/w1f1.r4lph.2018.SRREGIO.mkv
+#EXTINF:0 tvg-logo="https://www.elfinanciero.com.mx/uploads/2018/04/24/b2945042291524605808.jpeg", Venom | REGIOFLIX
+http://regioflix.club/regio9875/v3n0m2018SRREGIO.mkv
+#EXTINF:0 tvg-logo="https://kbimages1-a.akamaihd.net/2352a6df-3541-4474-9a9d-44fce5c9f3b8/353/569/90/False/bird-box-1.jpg", Bird Box A Ciegas | REGIOFLIX
+http://regioflix.club/regio9875/b1rdb0x2018SRREGIO.mkv
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-fm_sjWrzgGo/WG01phcBCbI/AAAAAAAAlAI/MuZEegh-Zv8w5ZmN1nZQXqq0_fkxKIKbwCLcB/s00/Fragmentado_Poster_Final_Latino_JPosters.JPG", Fragmentado | REGIOFLIX
+http://regioflix.club/regio9875/FraSRREGIO.mkv
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/18/10/04/17/38/1255995.jpg", Replicas Subtitulada | REGIOFLIX
+http://regioflix.club/regio9875/r3pl1c4s2018subSrRegio.mkv
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/pictures/18/07/12/21/45/3547163.jpg", Dragon Ball Super Broly (BrScrenner) | REGIOFLIX
+http://regioflix.club/regio9875/dr4g0nb4llsup3rbr0lyBRScrenerSRREGIO.mkv
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0GSobzzHPJk/W0ZX9xMUD4I/AAAAAAAApp4/wkwQVNAygH4tZtmKM0X98J0mS6vwnHTkwCLcBGAs/s640/Escalofrios_2_Una_Noche_Embrujada_Poster_2_JPosters.jpg", Escalofrios 2 | REGIOFLIX
+http://regioflix.club/regio9875/g00s3bumpsh4unt3dh1ll0w33nSRREGIO.mkv
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-pXTHhvvPUrg/W0i4__o7V1I/AAAAAAAApqk/sD__r1CAdB4Q90hSavvE_TKSlNsfPNOoQCLcBGAs/s00/Buscando_Poster_3_JPosters.jpg", Buscando... | REGIOFLIX
+http://regioflix.club/regio9875/s34rch1ng2018SrRegio.mkv
+#EXTINF:0 tvg-logo="https://www.taquilla.com/data/images/t/74/ha-nacido-una-estrella__350x500.jpg", Nace una Estrella | REGIOFLIX
+http://regioflix.club/regio9875/4st4r1s4b0rn2018SrRegio.mkv
+#EXTINF:0 tvg-logo="http://gnula.nu/wp-content/uploads/2019/01/Reign_of_the_Supermen_poster_usa.jpg", El Reino de los Superman | REGIOFLIX
+http://regioflix.club/regio9875/r31gnofth3sup3rm3n2019SrRegio.mkv
 
 #EXTINF:-1 tvg-logo=".png" group-title="Musica",MTV
 http://23.237.22.230:25461/darkiptv/darkiptv/1
