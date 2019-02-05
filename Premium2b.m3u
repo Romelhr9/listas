@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="MEXICO", Las Estrellas
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11213.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/momMK/a1f10ea8a4.png" group-title="NOTICIAS", CNN en Español
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11272.m3u8
+
 #EXTINF:0,Canal 9 Argentina
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
