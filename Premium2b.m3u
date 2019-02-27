@@ -1,19 +1,23 @@
 #EXTM3U
+#EXTINF:0, Spiderman un nuevo Universo 
+http://regioflix.club/teecnootv1/190227/sp1d3rm4n1nt0th3sp1d3rv3rs3SrRegio.mkv
+#EXTINF:0, Your Name
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:0, Nace una Estrella
+http://regioflix.club/teecnootv1/190227/4st4r1s4b0rn2018SrRegio.mkv
+#EXTINF:0, First Man
+http://regioflix.club/teecnootv1/190227/f1rstm4n2018SRREGIO.mkv
+#EXTINF:0, Wifi Ralph
+http://regioflix.club/teecnootv1/190227/w1f1r4lph2018srregio.mkv
+#EXTINF:0, Fragmentado
+http://regioflix.club/teecnootv1/190227/FraSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="MEXICO", Las Estrellas
-http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11213.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/momMK/a1f10ea8a4.png" group-title="NOTICIAS", CNN en Español
-http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11272.m3u8
-
-#EXTINF:-1, World Fashion 
+#EXTINF:0, World Fashion 
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
-
-#EXTINF:-1, Miami TV
+#EXTINF:0, Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-
 #EXTINF:0, Ocho TV (Guadalajara)
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-
 #EXTINF:0, Lauderdale Beach
 http://video3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8
 #EXTINF:0, Africa 1
@@ -24,10 +28,10 @@ http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
 http://stream.africam.com:1935/rc/rc.stream_source/playlist.m3u8
 #EXTINF:0, FatStone (Noruega)
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
-#EXTINF:0,UHLS
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:0, NASA iss
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:0,UHLS
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:0,UHLS
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 #EXTINF:0,UHLS
@@ -54,13 +58,8 @@ http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
 http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
 #EXTINF:0,  Sloppy Joe's Stage Cam_Key West FL USA
 http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
-
-
-
 #EXTINF:0,Canal 9 Honduras
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-
 #EXTINF:0, Canal 15 Zacatecas
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 #EXTINF:0, TV Cuatro 4.1 Guanajuato
@@ -71,17 +70,12 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 #EXTINF:0,Canal 66 Mexicali
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
-#EXTINF:0,RTG Guerrero
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 #EXTINF:0,TVMas Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 #EXTINF:0,
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:0,RTG Soy Guerero México
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:0,Televisión Querétaro México
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:0, Green TV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
 #EXTINF:0,TV Marti
@@ -108,7 +102,6 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:0, Music Choice | HD
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
 #EXTINF:0, Antena Internacional
 https://d201h06fdwdct7.cloudfront.net/antenainternational/ngrp:stream_all/chunklist_b946000.m3u8
 #EXTINF:0,ALCARRIA TV
@@ -137,8 +130,6 @@ http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/mast
 http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
 #EXTINF:0, Realitatea TV Rumania
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-
-
 #EXTINF:0,Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:0,Francophonie 24
@@ -155,12 +146,10 @@ http://stream.atr.ua/atr/live/index.m3u8
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:0,BN TV
 http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
-
 #EXTINF:0,CBS TV
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 #EXTINF:0, NHK World Japan
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-
 #EXTINF:0,TV Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 #EXTINF:0,CGTN
@@ -169,27 +158,20 @@ http://live.cgtn.com/500/prog_index.m3u8
 rtmp://124.139.232.61:1935/live/livestream
 #EXTINF:0, NHK World | HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-
-
-
 #EXTINF:0, Jumanji: Bienvenidos a la jungla
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2569.mkv
 #EXTINF:0, LA MONJA (2018)
 http://descarga.hopto.org/TERROR/La%20Monja-2018.mp4.mp4
-
-
 #EXTINF:0, Jhonny English 3.0 | REGIOFLIX
 https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
 #EXTINF:0, Paddington 2 | REGIOFLIX
 https://storage.googleapis.com/secret-tempest-196513.appspot.com/Paddington.2.2017.Latino.mp4
 #EXTINF:0, Rey Escorpion 5 | REGIOFLIX
 http://regioflix.club/regio25/ReyEscorpion5SrRegio.mkv
-#EXTINF:0 , First Man | REGIOFLIX
+#EXTINF:0, First Man | REGIOFLIX
 http://regioflix.club/regio25/f1rstm4n2018SRREGIO.mkv
 #EXTINF:0, Bohemian Rapsody | REGIOFLIX
 http://regioflix.club/regio25/b0h3m14nr4ps0dy2018SrRegio.mkv
-
-
 #EXTINF:0, Maze Runner The Death Cure
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2573.MP4
 #EXTINF:0, Jurassic World: El reino caído (2018)
@@ -218,7 +200,6 @@ http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2788.mp4
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2537.mkv
 #EXTINF:0, El Justiciero 2
 http://ia801507.us.archive.org/5/items/jus2regio/jus2regio.mp4
-
 #EXTINF:0,SAHARA (2017)
 http://bit.ly/SAHARAMOVIE
 #EXTINF:0,RESCATE EN ENTEBBE
@@ -237,7 +218,6 @@ https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Avengers.
 https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Pacific.Rim.2.2018.Latino.mp4
 #EXTINF:0,GODZILLA: CITY ON THE EDGE OF BATTLE
 https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Godzilla.City.on.the.Edge.of.Battle.2018.Latino.mp4
-
 #EXTINF:0,LOS EXTRAÑOS -  CACERIA NOCTURNA
 https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/The.Strangers.Prey.at.Night.2018.Latino.mp4
 #EXTINF:0,ENTRE SOMBRAS
@@ -306,13 +286,10 @@ https://storage.googleapis.com/secret-tempest-196513.appspot.com/Condorito%20La%
 https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.Jungle.Bunch.2017.Latino.mp4
 #EXTINF:0,MARCIANOS CONTRA MEXICANOS
 https://storage.googleapis.com/secret-tempest-196513.appspot.com/Marcianos.vs.Mexicanos.2018.Latino.mp4
-
-#EXTINF:-1 , Univision 
+#EXTINF:0, Univision 
 http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58527.m3u8
 #EXTINF:0, Insight TV
 http://8756.000webhostapp.com/qn1h1UX01s/v1.php/insight_tv/index.m3u8
-
-
 #EXTINF:0, Inti
 http://8756.000webhostapp.com/qn1h1UX01s/v3.php/.m3u8
 #EXTINF:0, Multimedios Monterrey
@@ -323,22 +300,18 @@ http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
 #EXTINF:0, Multimedios Costa Rica
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-
-
 #EXTINF:0,MTV Noruega
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0,DW Entretenimiento
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0  group-title="aPREMIUM TV", Fashion Tv
+#EXTINF:0, Fashion Tv
 http://bit.ly/2zOVkbF
-#EXTINF:0 group-title="aPREMIUM TV",HD Fashion Channel
+#EXTINF:0,HD Fashion Channel
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0, Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:0, Miami TV | HD
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-
 #EXTINF:0,RETV
 http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
 #EXTINF:0,TV Net
@@ -379,10 +352,6 @@ http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 #EXTINF:0,RTV
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
-
-
-
-
 #EXTINF:0, Peru BHTV Hacks
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:0,Canal BHtv iptv
@@ -401,8 +370,6 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
 #EXTINF:0,ATB
 http://186.121.206.197/live/daniel/index.m3u8
-
-
 #EXTINF:0,Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:0,Radio Iglesias
@@ -431,17 +398,10 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
 #EXTINF:0, M2O TV | SD
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
-
-
-
-
 #EXTINF:0, CAPITAL 21 CDMX
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
 #EXTINF:0, Ciudad Tv 21.2
 http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
-#EXTINF:0, Impactovision
-http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
 #EXTINF:0, Jasmin (720p)
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 #EXTINF:0, TV Cosmos
@@ -462,8 +422,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8#MegaIPTVArge
 rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
 #EXTINF:0, Canal Iberoamericano
 http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
-#EXTINF:0, El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 #EXTINF:0, TV Cuatro 4.1 | HD
 https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
 #EXTINF:0, TV Cuatro 4.2 | HD
@@ -476,7 +434,6 @@ http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 #EXTINF:0, TVES | SD
 http://198.24.135.42/canal10/canal10/playlist.m3u8
-
 #EXTINF:0, Canal-M | HD
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
 #EXTINF:0, WOW TV | SD
@@ -543,7 +500,6 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0, Turbo Mix Radio TV | SD
 http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
-
 #EXTINF:0, American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:0,24/7 Hollywood Movies 3
@@ -560,7 +516,6 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:0, Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-
 #EXTINF:0, Guatevision | SD
 http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
 #EXTINF:0, Canal Plus Guatemala | SD
@@ -621,7 +576,6 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
 #EXTINF:0, Esperanza TV
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
-
 #EXTINF:0, DW NEWS
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:0, Al Jazeera 
@@ -634,7 +588,6 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:0, RUSIA EXTREAM
 http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
-
 #EXTINF:0, Radio Sanborja (Peru) | SD
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:0, Portal FoxMix | HD
@@ -653,7 +606,6 @@ http://fms.105.net:1935/live/rmc1/.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,OUI TV3
 http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
-
 #EXTINF:0, Radio Bruno (Italia) | SD
 http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
 #EXTINF:0, Radio Contact Feel Good | HD
@@ -661,7 +613,7 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:0,PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 #EXTINF:0, California Music Channel | HD
-http://cmctv.ios.internapcdn.net/cmctvdream Tv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+http://cmctv.ios.internapcdn.net/cmctvdream%20Tv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:0, TMTV
 http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 #EXTINF:0, Music Top
@@ -676,10 +628,6 @@ http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
 http://www.skyfolk.mk/live.m3u8
 #EXTINF:0, Trace Tropical
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-
-
-
-
 #EXTINF:0, Bloomberg TV US | HD
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0, Bloomberg TV Europe | HD
@@ -726,9 +674,6 @@ rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
 rtmp://panel.dattalive.com/8008/8008
 #EXTINF:0, Canal 2 Internac. Nicaragua
 rtmp://162.244.81.181:1935/live//Stream1
-
-
-
 #EXTINF:0, USA - Westland
 http://590804fbbbc47.streamlock.net:1935/westland/westland.stream/playlist.m3u8
 #EXTINF:0, USA - Bayfield
@@ -753,7 +698,6 @@ http://video3.earthcam.com/fecnetwork/5775.flv/playlist.m3u8
 http://video3.earthcam.com/fecnetwork/13661.flv/playlist.m3u8
 #EXTINF:0, Lauderdale Beach
 http://video3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8
-
 #EXTINF:0,Panda Cam 1
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 #EXTINF:0,Panda Cam 2
@@ -766,7 +710,6 @@ http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
 http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
 #EXTINF:0,Toronto - CN Tower 1
 http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
-
 #EXTINF:0, Manatee Cam US
 http://video3.earthcam.com/fecnetwork/14014.flv/playlist.m3u8
 #EXTINF:0, Miami Cafe US
@@ -827,7 +770,7 @@ http://cam.x-com.kz:8081/downtown/index.m3u8
 http://video3.earthcam.com/fecnetwork/6253.flv/HasBahCa.m3u8
 #EXTINF:0, Argentina Playa Telpin
 http://201.219.100.30:1935/camara-rambla//rambla.stream_720p/playlist.m3u8
-
+#EXTINF:0, Banja Luka Downtown 1
 http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist.m3u8
 #EXTINF:0, Banja Luka City 2
 http://edith03.blictv.blic.net:1935/live/ngrp:kamera01.stream_all/chunklist.m3u8
@@ -885,4 +828,3 @@ rtsp://96.10.1.168:554/axis-media/media.amp
 rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
 #EXTINF:0, Berlin Restaurant Hugos/Hotel InterContinental
 rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
-
